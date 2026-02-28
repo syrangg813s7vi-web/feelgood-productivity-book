@@ -170,6 +170,18 @@ material/Productivity Club - 017 - How I Manage My Time - The Trident Calendar S
 - 人工只做“验收与审阅”，不做逐行修补（除非紧急且很小）。
 - 修复必须以 **可复现的 Codex 指令** 记录在 commit/PR 描述里（方便复盘）。
 
+### 规则：完成一部分就直接创建 PR（不询问）
+
+- 只要完成“一个可审阅的部分”（例如：一章初稿、一次结构性补全、一次格式/排版修复、一次重要改写），就 **立即提交并 push 分支，然后直接创建 PR**。
+- **不需要询问用户是否要创建 PR**。
+- PR 以 `draft` 或普通 PR 形式均可；默认普通 PR。
+- PR 描述必须包含：本次完成内容清单 + Codex 执行的指令（或摘要）+ 待审核点。
+
+### 规则：提交与 PR 创建优先由 Codex 执行
+
+- 默认由 Codex 运行 `git add/commit/push` 与 `gh pr create` 完成提交与 PR 创建。
+- 若 Codex 环境限制导致无法执行，再由主代理兜底执行。
+
 推荐命令模板：
 ```bash
 codex exec --sandbox danger-full-access "请修复 <file> 的 Markdown 语法/格式/排版问题：...（列出要点）...。要求：不改变内容含义，仅做格式与可读性优化；最后输出：修复清单 + 改动摘要。"
