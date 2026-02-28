@@ -1,0 +1,42 @@
+name: PR Precheck (Book)
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  precheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run precheck
+        id: precheck
+        env:
+          BASE_REF: origin/${{ github.base_ref }}
+          HEAD_REF: HEAD
+        run: |
+          set -euo pipefail
+          python3 scripts/precheck_pr.py --base "$BASE_REF" --head "$HEAD_REF" | tee precheck_report.md
+
+      - name: Comment report to PR
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          # Always add a fresh comment (simple + reliable). Can be upgraded to update-in-place later.
+          gh pr comment "$PR_NUMBER" --body-file precheck_report.md
