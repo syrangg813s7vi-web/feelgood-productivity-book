@@ -1,0 +1,161 @@
+{
+  "project_name": "Feel-Good Productivity Complete System",
+  "author": "Codex AI Writing Assistant",
+  "source_material": "Ali Abdaal YouTube Videos (229 videos)",
+  "target_audience": "People seeking productivity improvement",
+  "language": "zh-CN",
+  "total_chapters": 32,
+  "target_word_count": 300000,
+
+  "writing_guidelines": {
+    "style": "clear, practical, engaging",
+    "tone": "friendly but professional",
+    "structure": {
+      "chapter_template": [
+        "X.1 核心概念 - 理论基础和科学依据",
+        "X.2 系统框架 - 方法、步骤、工具",
+        "X.3 实战案例 - 至少3个详细案例",
+        "X.4 常见问题 - FAQ和故障排除",
+        "X.5 行动清单 - 7天启动和30天进阶",
+        "本章总结 - 核心要点回顾",
+        "练习和思考 - 实战作业"
+      ],
+      "words_per_section": {
+        "concept": 2000,
+        "framework": 3000,
+        "cases": 4000,
+        "faq": 2000,
+        "action": 2000,
+        "summary": 1000
+      },
+      "total_words_per_chapter": "10000-15000"
+    },
+
+    "quality_standards": {
+      "accuracy": "基于原始视频内容，不编造",
+      "completeness": "覆盖主题所有关键要点",
+      "readability": "使用简单直白的语言",
+      "practicality": "提供可操作的方法和工具",
+      "coherence": "与前后章节自然衔接"
+    }
+  },
+
+  "workflow": {
+    "current_chapter": 5,
+    "current_section": "5.1",
+    "material_file": "material/Productivity Club - 017 - How I Manage My Time - The Trident Calendar System.srt",
+
+    "process": [
+      "1. 读取项目状态文件 (PROJECT_STATUS_AND_NEXT_STEPS.md)",
+      "2. 读取相关章节已完成的内容",
+      "3. 提取对应素材文件的关键内容",
+      "4. 分析已完成章节的写作风格",
+      "5. 续写新章节内容",
+      "6. 保存到book/目录",
+      "7. 提示用户审核并提交到GitHub"
+    ],
+
+    "auto_commit": true,
+    "create_pr": true,
+    "branch_naming": "chapter-N"
+  },
+
+  "chapter_progress": {
+    "1": { "status": "completed", "file": "BOOK_FULL_CONTENT_Part1.md", "words": 12000 },
+    "2": { "status": "completed", "file": "BOOK_FULL_CONTENT_Part1_Chapter2.md", "words": 15000 },
+    "3": { "status": "completed", "file": "BOOK_FULL_Chapter3_12WeekYear.md", "words": 15000 },
+    "4": { "status": "completed", "file": "BOOK_FULL_Chapter4_Journaling.md", "words": 18000 },
+    "5": {
+      "status": "in_progress",
+      "title": "三叉戟日历系统",
+      "file": "BOOK_FULL_Chapter5_TridentCalendar.md",
+      "sections": {
+        "5.1": { "title": "为什么需要日历系统", "status": "pending", "words": 2000 },
+        "5.2": { "title": "三叉戟框架详解", "status": "pending", "words": 3000 },
+        "5.3": { "title": "实战案例", "status": "pending", "words": 4000 },
+        "5.4": { "title": "常见问题与故障排除", "status": "pending", "words": 2000 },
+        "5.5": { "title": "行动清单", "status": "pending", "words": 2000 }
+      }
+    }
+  },
+
+  "source_materials": {
+    "chapter_5": {
+      "primary": "Productivity Club - 017 - How I Manage My Time - The Trident Calendar System.srt",
+      "key_concepts": [
+        "Year-at-a-Glance (年度视图 - 366格)",
+        "Ideal Week (理想周 - 112小时)",
+        "Daily Calendar (日历块执行)"
+      ],
+      "core_framework": {
+        "name": "Trident Calendar System",
+        "components": [
+          "Annual view for long-term planning",
+          "Weekly template for recurring activities",
+          "Daily execution with time blocking"
+        ]
+      }
+    }
+  },
+
+  "github_integration": {
+    "repo": "https://github.com/syrangg813s7vi-web/feelgood-productivity-book",
+    "private": true,
+    "main_branch": "master",
+    "auto_push": true,
+    "commit_message_template": "draft: {chapter_title} - {section_title}",
+    "pr_template": {
+      "title": "{chapter_title}",
+      "body": "## 本章内容\n{summary}\n\n## 章节结构\n{structure}\n\n## 请审核\n- 内容准确性\n- 表达清晰度\n- 案例生动性\n- 可操作性"
+    }
+  },
+
+  "review_process": {
+    "checklist": [
+      "✓ 内容基于原始素材",
+      "✓ 结构完整清晰",
+      "✓ 案例具体生动",
+      "✓ 行动清单可操作",
+      "✓ 与前后章连贯",
+      "✓ 字数达标",
+      "✓ 格式规范"
+    ],
+    "approval_required": true,
+    "auto_merge": false
+  },
+
+  "next_steps": {
+    "immediate": [
+      "完成第5章 - 三叉戟日历系统",
+      "创建Pull Request供审核",
+      "等待反馈和修改"
+    ],
+    "short_term": [
+      "完成Part 2 (第6-10章)",
+      "审核和优化Part 1",
+      "整合全书结构"
+    ],
+    "long_term": [
+      "完成全部32章",
+      "3轮编辑校对",
+      "准备出版材料"
+    ]
+  },
+
+  "notes": {
+    "writing_frequency": "每次写一个小节（1500-2000字）",
+    "review_frequency": "每章完成后创建PR",
+    "user_interaction": "每完成一部分提示用户审核",
+    "quality_over_speed": "质量优先，不要为了速度牺牲质量",
+    "consistency": "保持与已完成章节的风格一致",
+    "voice": "使用Ali Abdaal的口吻 - 友好、实用、有科学依据"
+  },
+
+  "prompts": {
+    "continue_writing": "请根据项目配置继续写下一节",
+    "optimize_section": "请优化{section_name}，使其更{requirement}",
+    "add_examples": "请为{section_name}添加更多实战案例",
+    "check_coherence": "请检查第{chapter_number}章与前后章节的连贯性",
+    "create_pr": "请创建Pull Request并提交到GitHub"
+  }
+}
