@@ -1,0 +1,2736 @@
+1
+00:00:00,000 --> 00:00:02,879
+hey friends welcome back to tech
+
+2
+00:00:01,280 --> 00:00:03,680
+tuesdays it is that time of the year
+
+3
+00:00:02,879 --> 00:00:04,641
+again we are doing the most requested
+
+4
+00:00:04,960 --> 00:00:05,519
+video of which ipad should you buy in
+
+5
+00:00:07,519 --> 00:00:13,358
+2022 there are five to choose from you
+
+6
+00:00:10,480 --> 00:00:14,638
+have the basic ass budget ipad there is
+
+7
+00:00:13,359 --> 00:00:16,879
+the ipad
+
+8
+00:00:14,638 --> 00:00:18,719
+the ipad air there's the ipad mini there
+
+9
+00:00:16,879 --> 00:00:20,879
+is the 11 inch ipad pro and there is the
+
+10
+00:00:18,719 --> 00:00:21,759
+12.9 inch ipad pro so as usual we're
+
+11
+00:00:20,879 --> 00:00:22,959
+going to start with an upfront
+
+12
+00:00:21,760 --> 00:00:23,840
+conclusion where i tell you what i think
+
+13
+00:00:22,960 --> 00:00:25,278
+about these then we're going to talk
+
+14
+00:00:23,839 --> 00:00:27,037
+about the idea of diminishing returns
+
+15
+00:00:25,278 --> 00:00:28,399
+and the consumer to create a spectrum
+
+16
+00:00:27,039 --> 00:00:30,240
+which kind of dictates which of these
+
+17
+00:00:28,399 --> 00:00:31,597
+five ipads you should go for and then
+
+18
+00:00:30,239 --> 00:00:33,118
+one at a time we're gonna go over the
+
+19
+00:00:31,599 --> 00:00:35,440
+pros and cons of each of the ipads and
+
+20
+00:00:33,119 --> 00:00:37,838
+i'm gonna tell you why i personally use
+
+21
+00:00:35,439 --> 00:00:39,759
+an ipad mini rather than any of the
+
+22
+00:00:37,840 --> 00:00:41,759
+other fancier ones so let's start things
+
+23
+00:00:39,759 --> 00:00:43,919
+off with the upfront conclusion and that
+
+24
+00:00:41,759 --> 00:00:45,839
+is that if you are broadly a consumer of
+
+25
+00:00:43,920 --> 00:00:47,199
+stuff ie you watch things you maybe do
+
+26
+00:00:45,840 --> 00:00:49,199
+the occasional google doc here and there
+
+27
+00:00:47,200 --> 00:00:51,520
+but broadly your ipad is a consumption
+
+28
+00:00:49,200 --> 00:00:53,440
+device for you i would recommend the
+
+29
+00:00:51,520 --> 00:00:55,520
+basic ipad which is a fantastic option
+
+30
+00:00:53,439 --> 00:00:57,197
+if you're a student as well or the ipad
+
+31
+00:00:55,520 --> 00:00:59,359
+mini moving along spectrum if you are a
+
+32
+00:00:57,198 --> 00:01:01,999
+light creator or a student then broadly
+
+33
+00:00:59,359 --> 00:01:04,158
+the ipad air is a good option for you
+
+34
+00:01:02,000 --> 00:01:07,040
+and the ipad pro's the 11 inch and the
+
+35
+00:01:04,159 --> 00:01:09,119
+12.9 inch models so this one and this
+
+36
+00:01:07,040 --> 00:01:11,118
+one those are only really ideal if you
+
+37
+00:01:09,118 --> 00:01:12,477
+are a kind of professional and you know
+
+38
+00:01:11,118 --> 00:01:15,118
+that you need the power of something
+
+39
+00:01:12,478 --> 00:01:17,279
+like the m1 chip which is i suspect not
+
+40
+00:01:15,118 --> 00:01:18,879
+what 99.9 of people out there actually
+
+41
+00:01:17,280 --> 00:01:20,400
+need so that was the upfront conclusion
+
+42
+00:01:18,879 --> 00:01:22,157
+to hopefully save you time if that's all
+
+43
+00:01:20,400 --> 00:01:23,439
+you wanted then feel free to drop a like
+
+44
+00:01:22,159 --> 00:01:25,280
+on the video on the way out and maybe
+
+45
+00:01:23,438 --> 00:01:26,719
+consider subscribing to the channel but
+
+46
+00:01:25,280 --> 00:01:28,320
+now let's talk about this stuff in more
+
+47
+00:01:26,719 --> 00:01:29,839
+detail and let's start by talking about
+
+48
+00:01:28,319 --> 00:01:31,598
+this idea of the consumer to create a
+
+49
+00:01:29,840 --> 00:01:33,599
+spectrum so there is this thing in all
+
+50
+00:01:31,599 --> 00:01:35,518
+of tech it's like are you a consumer or
+
+51
+00:01:33,599 --> 00:01:37,919
+are you creator it's it's sort of like a
+
+52
+00:01:35,519 --> 00:01:39,599
+spectrum a consumer is someone who tends
+
+53
+00:01:37,920 --> 00:01:41,439
+to watch things or read things like you
+
+54
+00:01:39,599 --> 00:01:43,118
+know netflix spend spends most most of
+
+55
+00:01:41,438 --> 00:01:44,639
+the time in a web browser maybe watching
+
+56
+00:01:43,118 --> 00:01:45,998
+some youtube videos maybe listens to
+
+57
+00:01:44,640 --> 00:01:47,680
+some spotify maybe listens to some
+
+58
+00:01:46,000 --> 00:01:49,200
+podcasts maybe reads a book on kindle or
+
+59
+00:01:47,680 --> 00:01:50,959
+reads articles on instapaper or in
+
+60
+00:01:49,200 --> 00:01:53,119
+safari or on chrome or whatever it's
+
+61
+00:01:50,959 --> 00:01:54,478
+broadly a consumptiony type person then
+
+62
+00:01:53,118 --> 00:01:55,839
+as we go further along the spectrum
+
+63
+00:01:54,478 --> 00:01:57,839
+towards the creator professional
+
+64
+00:01:55,840 --> 00:01:59,439
+category we have people who most people
+
+65
+00:01:57,840 --> 00:02:01,040
+are kind of in that middle camp where
+
+66
+00:01:59,438 --> 00:02:03,358
+you're kind of using your ipad for some
+
+67
+00:02:01,040 --> 00:02:05,040
+consumption stuff but also for some like
+
+68
+00:02:03,359 --> 00:02:06,157
+creation stuff maybe you're typing word
+
+69
+00:02:05,040 --> 00:02:07,439
+documents here and there maybe you're
+
+70
+00:02:06,159 --> 00:02:08,639
+making presentations maybe you're an
+
+71
+00:02:07,438 --> 00:02:09,838
+artist and you're sketching some stuff
+
+72
+00:02:08,639 --> 00:02:11,839
+maybe you're a student and you're taking
+
+73
+00:02:09,840 --> 00:02:13,679
+typed out or handwritten notes that puts
+
+74
+00:02:11,840 --> 00:02:14,879
+you square in the middle of the consumer
+
+75
+00:02:13,680 --> 00:02:16,318
+to create a spectrum and then all the
+
+76
+00:02:14,878 --> 00:02:18,079
+way on the creator or pro side of the
+
+77
+00:02:16,318 --> 00:02:20,159
+spectrum we have people who need things
+
+78
+00:02:18,080 --> 00:02:21,519
+like 3d modeling people who do advanced
+
+79
+00:02:20,159 --> 00:02:23,918
+like i don't know video gaming people
+
+80
+00:02:21,520 --> 00:02:25,840
+who do stuff like rendering massive
+
+81
+00:02:23,919 --> 00:02:27,519
+files in photoshop or music producers
+
+82
+00:02:25,840 --> 00:02:29,360
+who have like zillions of tracks running
+
+83
+00:02:27,520 --> 00:02:31,598
+for those sorts of people they are on
+
+84
+00:02:29,360 --> 00:02:33,119
+the creator slash professional end of
+
+85
+00:02:31,598 --> 00:02:34,478
+the spectrum so it's generally useful to
+
+86
+00:02:33,120 --> 00:02:35,919
+know where you land on the spectrum
+
+87
+00:02:34,479 --> 00:02:37,358
+because it helps you figure out how much
+
+88
+00:02:35,919 --> 00:02:38,798
+money you should actually pay for stuff
+
+89
+00:02:37,360 --> 00:02:40,319
+if you're on the consumer end you don't
+
+90
+00:02:38,800 --> 00:02:41,1000
+need to buy tools that are designed for
+
+91
+00:02:40,318 --> 00:02:43,198
+the professionals and the creators but
+
+92
+00:02:42,000 --> 00:02:44,399
+if you're a professional creator you
+
+93
+00:02:43,199 --> 00:02:45,679
+kind of know it and you know you have to
+
+94
+00:02:44,400 --> 00:02:46,959
+spend more money on the things that you
+
+95
+00:02:45,680 --> 00:02:48,479
+want so that was one of the principles
+
+96
+00:02:46,959 --> 00:02:50,160
+the other principle that really comes in
+
+97
+00:02:48,479 --> 00:02:51,758
+when valuing ipads is the idea of
+
+98
+00:02:50,159 --> 00:02:53,438
+diminishing returns which is that as you
+
+99
+00:02:51,759 --> 00:02:55,999
+spend more money on an ipad you actually
+
+100
+00:02:53,439 --> 00:02:57,517
+get less and less return for your money
+
+101
+00:02:56,000 --> 00:03:00,878
+spent so for example if you just buy the
+
+102
+00:02:57,519 --> 00:03:03,519
+basic ipad for 319 pounds that gives you
+
+103
+00:03:00,878 --> 00:03:05,439
+i would suggest roughly 88 of the value
+
+104
+00:03:03,519 --> 00:03:07,519
+of the ipad experience spend an extra
+
+105
+00:03:05,439 --> 00:03:09,198
+160 pounds on the ipad mini and you go
+
+106
+00:03:07,519 --> 00:03:10,800
+up to 92 percent i think these are just
+
+107
+00:03:09,199 --> 00:03:12,238
+my numbers off kind of my own personal
+
+108
+00:03:10,800 --> 00:03:14,159
+experience spend an extra 100 pounds and
+
+109
+00:03:12,239 --> 00:03:16,719
+go for the ipad air and you go up to 95
+
+110
+00:03:14,158 --> 00:03:19,358
+paying an extra 170 pounds then takes
+
+111
+00:03:16,719 --> 00:03:21,597
+you from 95 to 98 with the 11 inch pro
+
+112
+00:03:19,360 --> 00:03:24,480
+and then paying an extra 250 pounds
+
+113
+00:03:21,598 --> 00:03:27,359
+takes you from 98 to 100 with the 12.9
+
+114
+00:03:24,479 --> 00:03:29,118
+inch m1 ipad pro with the i don't know
+
+115
+00:03:27,360 --> 00:03:30,480
+fancy xdr display that they've got on it
+
+116
+00:03:29,120 --> 00:03:32,399
+so you can see we've got this sort of
+
+117
+00:03:30,479 --> 00:03:34,639
+curve where the more money you spend the
+
+118
+00:03:32,400 --> 00:03:36,158
+less value per unit money spent you're
+
+119
+00:03:34,639 --> 00:03:37,279
+getting from the ipad and a graph like
+
+120
+00:03:36,158 --> 00:03:39,439
+this is particularly important because
+
+121
+00:03:37,280 --> 00:03:41,598
+when we're asking is the ipad air worth
+
+122
+00:03:39,439 --> 00:03:42,878
+it or is the ipad pro worth it it kind
+
+123
+00:03:41,598 --> 00:03:44,957
+of depends it's just like well
+
+124
+00:03:42,878 --> 00:03:47,278
+objectively no because you're paying a
+
+125
+00:03:44,959 --> 00:03:49,040
+lot more for a very very small
+
+126
+00:03:47,280 --> 00:03:50,400
+percentage increase in utility or
+
+127
+00:03:49,039 --> 00:03:51,598
+usefulness or whatever but the question
+
+128
+00:03:50,400 --> 00:03:53,120
+of whether something is worth it
+
+129
+00:03:51,598 --> 00:03:54,399
+actually does depend on how much money
+
+130
+00:03:53,120 --> 00:03:56,080
+you have how much money you have to burn
+
+131
+00:03:54,400 --> 00:03:57,920
+because that dictates whether you know
+
+132
+00:03:56,080 --> 00:03:59,760
+is it worth it to spend one pound 50 on
+
+133
+00:03:57,919 --> 00:04:01,518
+a can of coke when you could just get
+
+134
+00:03:59,759 --> 00:04:03,279
+water at home like i don't know like it
+
+135
+00:04:01,519 --> 00:04:04,640
+just depends on how you personally value
+
+136
+00:04:03,280 --> 00:04:06,559
+money and there is no one answer to the
+
+137
+00:04:04,639 --> 00:04:08,317
+question of is something worth it so so
+
+138
+00:04:06,560 --> 00:04:11,119
+far what we've arrived at is basically
+
+139
+00:04:08,318 --> 00:04:12,638
+that the budget ipad 319 pounds gives
+
+140
+00:04:11,120 --> 00:04:14,559
+you the vast majority of the value of
+
+141
+00:04:12,639 --> 00:04:15,918
+having an ipad so if you are on a budget
+
+142
+00:04:14,560 --> 00:04:17,439
+honestly this is the one i'd recommend
+
+143
+00:04:15,919 --> 00:04:18,798
+it's still really good it looks a bit
+
+144
+00:04:17,439 --> 00:04:20,718
+old-fashioned compared to the newer
+
+145
+00:04:18,798 --> 00:04:21,999
+models but to be honest the budget ipad
+
+146
+00:04:20,720 --> 00:04:23,280
+is pretty sick and especially if you're
+
+147
+00:04:22,000 --> 00:04:24,720
+a student on a budget this is the one
+
+148
+00:04:23,279 --> 00:04:25,917
+that i would recommend broadly without
+
+149
+00:04:24,720 --> 00:04:27,519
+reservation with the new model that was
+
+150
+00:04:25,918 --> 00:04:29,197
+released in september 2021 they now have
+
+151
+00:04:27,519 --> 00:04:30,878
+support for the apple smart keyboard so
+
+152
+00:04:29,199 --> 00:04:32,239
+you could add an apple smart keyboard if
+
+153
+00:04:30,879 --> 00:04:33,599
+you want although logitech and other
+
+154
+00:04:32,240 --> 00:04:34,800
+brands have a bunch of third-party
+
+155
+00:04:33,600 --> 00:04:36,160
+accessories which are pretty good as
+
+156
+00:04:34,800 --> 00:04:37,360
+well and if you're on a budget you
+
+157
+00:04:36,160 --> 00:04:39,759
+probably don't want to spend i think
+
+158
+00:04:37,360 --> 00:04:41,840
+like 100 150 quid for the apple version
+
+159
+00:04:39,759 --> 00:04:43,360
+of the keyboard and this one has the a13
+
+160
+00:04:41,839 --> 00:04:44,799
+processor which is a few years old at
+
+161
+00:04:43,360 --> 00:04:46,080
+this point but again if you're a student
+
+162
+00:04:44,800 --> 00:04:47,759
+if you're on the lighter creator or
+
+163
+00:04:46,079 --> 00:04:48,878
+consumer end of the spectrum you're not
+
+164
+00:04:47,759 --> 00:04:51,919
+really going to notice the difference
+
+165
+00:04:48,879 --> 00:04:54,159
+between a 300 pound processor a13 and a
+
+166
+00:04:51,918 --> 00:04:55,519
+1300 pound like m1 processor you just
+
+167
+00:04:54,160 --> 00:04:56,720
+will not notice any kind of difference
+
+168
+00:04:55,519 --> 00:04:59,278
+between the two having said that there
+
+169
+00:04:56,720 --> 00:05:01,199
+are a few drawbacks of the budget ipad
+
+170
+00:04:59,279 --> 00:05:02,959
+firstly is the design like it still has
+
+171
+00:05:01,199 --> 00:05:04,960
+the old design that has the home button
+
+172
+00:05:02,959 --> 00:05:06,478
+and so it's less bezel-less than for
+
+173
+00:05:04,959 --> 00:05:09,119
+example the new ipad air is it's also
+
+174
+00:05:06,478 --> 00:05:10,319
+got a 10.2 inch non-laminated display
+
+175
+00:05:09,120 --> 00:05:12,399
+what that basically means is that
+
+176
+00:05:10,319 --> 00:05:14,399
+there's a bit more of an air gap between
+
+177
+00:05:12,399 --> 00:05:15,678
+the screen and the stuff underneath it's
+
+178
+00:05:14,399 --> 00:05:17,119
+not massively relevant you don't really
+
+179
+00:05:15,680 --> 00:05:19,199
+notice it but if you're writing with an
+
+180
+00:05:17,120 --> 00:05:20,959
+apple pencil a lot you might notice and
+
+181
+00:05:19,199 --> 00:05:23,038
+if you have like an ipad air on ipad pro
+
+182
+00:05:20,959 --> 00:05:24,959
+side by side then you may well notice
+
+183
+00:05:23,038 --> 00:05:26,638
+some slight difference again i don't
+
+184
+00:05:24,959 --> 00:05:28,478
+think it's a big enough difference to
+
+185
+00:05:26,639 --> 00:05:30,079
+justify spending an extra 200 quid on
+
+186
+00:05:28,478 --> 00:05:32,079
+the ipad air just for the sake of that
+
+187
+00:05:30,079 --> 00:05:34,159
+laminated air gap but it is something
+
+188
+00:05:32,079 --> 00:05:35,599
+that is noticeable about the ipad budget
+
+189
+00:05:34,160 --> 00:05:36,959
+if you hold it side by side with other
+
+190
+00:05:35,600 --> 00:05:38,560
+ipads the other annoying thing is that
+
+191
+00:05:36,959 --> 00:05:40,159
+this is compatible with the apple pencil
+
+192
+00:05:38,560 --> 00:05:41,999
+generation one which means if you want
+
+193
+00:05:40,160 --> 00:05:44,160
+to charge the apple pencil you can stick
+
+194
+00:05:42,000 --> 00:05:46,160
+it out of your ipad like this this is
+
+195
+00:05:44,160 --> 00:05:47,840
+not a very aesthetic way to charge a
+
+196
+00:05:46,160 --> 00:05:49,439
+pencil and apple pencil whereas with the
+
+197
+00:05:47,839 --> 00:05:51,359
+other models it's the apple pencil
+
+198
+00:05:49,439 --> 00:05:53,119
+generation too and so
+
+199
+00:05:51,360 --> 00:05:55,360
+you can charge it magnetically alongside
+
+200
+00:05:53,120 --> 00:05:56,720
+the ipad which is just a much nicer way
+
+201
+00:05:55,360 --> 00:05:58,239
+of dealing with pencil charging having
+
+202
+00:05:56,720 --> 00:06:00,079
+said that recently they have included
+
+203
+00:05:58,240 --> 00:06:01,999
+this adapter with the apple pencil
+
+204
+00:06:00,079 --> 00:06:03,438
+series one so what you can do is you can
+
+205
+00:06:02,000 --> 00:06:04,960
+put this lightning to lightning adapter
+
+206
+00:06:03,439 --> 00:06:07,119
+on the back of it and then you can just
+
+207
+00:06:04,959 --> 00:06:08,798
+charge this via a lightning cable which
+
+208
+00:06:07,120 --> 00:06:10,720
+is what you can charge your iphone with
+
+209
+00:06:08,800 --> 00:06:12,559
+or in fact your budget ipad with because
+
+210
+00:06:10,720 --> 00:06:14,240
+this still uses lightning rather than
+
+211
+00:06:12,560 --> 00:06:15,520
+usb-c that's not a huge concern like
+
+212
+00:06:14,240 --> 00:06:16,960
+lightning cable for the pencil lightning
+
+213
+00:06:15,519 --> 00:06:18,478
+cable for the ipad but it's just a
+
+214
+00:06:16,959 --> 00:06:20,318
+slight difference between the usb-c
+
+215
+00:06:18,478 --> 00:06:21,917
+compatible version of the ipad air and
+
+216
+00:06:20,319 --> 00:06:23,520
+the ipad mini and the ipad pro so
+
+217
+00:06:21,918 --> 00:06:25,438
+conclusion if you're on any kind of
+
+218
+00:06:23,519 --> 00:06:26,719
+budget at all i would fully recommend
+
+219
+00:06:25,439 --> 00:06:28,878
+the budget ipad it's genuinely really
+
+220
+00:06:26,720 --> 00:06:30,639
+good it gets you 88 of the value of an
+
+221
+00:06:28,879 --> 00:06:32,637
+ipad without having to pay too much for
+
+222
+00:06:30,639 --> 00:06:33,840
+it and it starts at 319 pounds and we'll
+
+223
+00:06:32,639 --> 00:06:35,440
+put the dollar price here as well all
+
+224
+00:06:33,839 --> 00:06:38,079
+right so let's put that aside next up we
+
+225
+00:06:35,439 --> 00:06:41,358
+have the next one which is the ipad air
+
+226
+00:06:38,079 --> 00:06:44,317
+now the ipad air is a 260 pound upgrade
+
+227
+00:06:41,360 --> 00:06:45,680
+over the ipad budget this starts at 579
+
+228
+00:06:44,319 --> 00:06:47,279
+pounds again dollar price here and
+
+229
+00:06:45,680 --> 00:06:48,800
+overall this is a really good middle
+
+230
+00:06:47,279 --> 00:06:50,399
+ground ipad yes you're paying quite a
+
+231
+00:06:48,800 --> 00:06:52,319
+lot more you're paying almost double the
+
+232
+00:06:50,399 --> 00:06:54,158
+price of the budget ipad but there are
+
+233
+00:06:52,319 --> 00:06:55,440
+things about the ipad air that make it a
+
+234
+00:06:54,160 --> 00:06:56,800
+pretty compelling alternative to the
+
+235
+00:06:55,439 --> 00:06:58,637
+budget ipad and what you get because of
+
+236
+00:06:56,800 --> 00:07:00,239
+these slightly reduced bezels is that in
+
+237
+00:06:58,639 --> 00:07:01,1000
+basically the same form factor of the
+
+238
+00:07:00,240 --> 00:07:03,918
+bit of the budget ipad you get a very
+
+239
+00:07:02,000 --> 00:07:05,439
+slightly larger screen so this is 10.9
+
+240
+00:07:03,918 --> 00:07:06,719
+inch rather than the 10.2 inch on the
+
+241
+00:07:05,439 --> 00:07:08,318
+budget ipad the great thing about the
+
+242
+00:07:06,720 --> 00:07:10,478
+ipad air is that it has support for the
+
+243
+00:07:08,319 --> 00:07:11,598
+apple pencil generation 2 which means
+
+244
+00:07:10,478 --> 00:07:12,878
+you can charge an apple pencil by
+
+245
+00:07:11,598 --> 00:07:14,638
+sticking it on the side which is just
+
+246
+00:07:12,879 --> 00:07:16,879
+very convenient and the apple pencil
+
+247
+00:07:14,639 --> 00:07:18,720
+generation 2 is just a nicer a nicer
+
+248
+00:07:16,879 --> 00:07:19,839
+feeling apple pencil it feels a little
+
+249
+00:07:18,720 --> 00:07:21,519
+bit more
+
+250
+00:07:19,839 --> 00:07:22,959
+kind of like matte plastic rather than
+
+251
+00:07:21,519 --> 00:07:25,757
+glossy plastic compared to generation
+
+252
+00:07:22,959 --> 00:07:27,678
+one it also is more has this like ridge
+
+253
+00:07:25,759 --> 00:07:29,279
+on it which means it's not gonna fall
+
+254
+00:07:27,680 --> 00:07:30,559
+off the table and when i was a student
+
+255
+00:07:29,279 --> 00:07:32,399
+and i used the ipol apple pencil
+
+256
+00:07:30,560 --> 00:07:33,839
+generation one it would always just end
+
+257
+00:07:32,399 --> 00:07:35,359
+up like rolling off the table which was
+
+258
+00:07:33,839 --> 00:07:36,799
+just like super annoying whereas this
+
+259
+00:07:35,360 --> 00:07:38,159
+one it rolls a bit and then it stops
+
+260
+00:07:36,800 --> 00:07:40,719
+rolling because it's got this like ridge
+
+261
+00:07:38,160 --> 00:07:41,999
+on it so apple pencil two is a bit of an
+
+262
+00:07:40,720 --> 00:07:43,759
+upgrade over the apple pencil one the
+
+263
+00:07:42,000 --> 00:07:45,680
+display quality is apparently better
+
+264
+00:07:43,759 --> 00:07:47,279
+than the budget ipad and it does feel
+
+265
+00:07:45,680 --> 00:07:48,720
+less plasticky it feels more like a
+
+266
+00:07:47,279 --> 00:07:50,318
+premium product because this is a
+
+267
+00:07:48,720 --> 00:07:51,519
+laminated rather than non-laminated
+
+268
+00:07:50,319 --> 00:07:52,960
+display but again unless you hold them
+
+269
+00:07:51,519 --> 00:07:54,559
+up side by side this isn't really a
+
+270
+00:07:52,959 --> 00:07:56,559
+thing that you're gonna notice on like
+
+271
+00:07:54,560 --> 00:07:58,240
+on the daily the ipad air also has usbc
+
+272
+00:07:56,560 --> 00:08:00,318
+support so for example if you have a
+
+273
+00:07:58,240 --> 00:08:01,679
+macbook and you charge it by usbc and
+
+274
+00:08:00,319 --> 00:08:03,120
+you have an ipad you can charge it by
+
+275
+00:08:01,680 --> 00:08:04,720
+usbc although generally people with
+
+276
+00:08:03,120 --> 00:08:06,559
+ipads also have iphones and so lightning
+
+277
+00:08:04,720 --> 00:08:07,840
+versus usbc is not a huge difference
+
+278
+00:08:06,560 --> 00:08:09,280
+there but if you do want to use third
+
+279
+00:08:07,839 --> 00:08:11,359
+party accessories it's generally easier
+
+280
+00:08:09,279 --> 00:08:12,799
+to find usbc accessories for the ipad
+
+281
+00:08:11,360 --> 00:08:14,080
+air and then it is to find lightning
+
+282
+00:08:12,800 --> 00:08:15,598
+compatible accessories for the budget
+
+283
+00:08:14,079 --> 00:08:17,518
+ipad although again i've been using
+
+284
+00:08:15,598 --> 00:08:19,359
+ipads for like five plus years at this
+
+285
+00:08:17,519 --> 00:08:21,119
+point and i basically never needed to
+
+286
+00:08:19,360 --> 00:08:22,960
+plug in an extra accessory because the
+
+287
+00:08:21,120 --> 00:08:24,240
+ipad just does the job completely fine
+
+288
+00:08:22,959 --> 00:08:26,478
+on its own so the question here is is
+
+289
+00:08:24,240 --> 00:08:28,318
+the ipad air worth it compared to the
+
+290
+00:08:26,478 --> 00:08:30,958
+budget ipad is it worth spending an
+
+291
+00:08:28,319 --> 00:08:32,880
+extra 260 pounds on upgrading to the
+
+292
+00:08:30,959 --> 00:08:34,958
+ipad air for the sake of a new a new
+
+293
+00:08:32,879 --> 00:08:36,398
+design a a slightly upgraded apple
+
+294
+00:08:34,958 --> 00:08:38,239
+pencil and a slightly different
+
+295
+00:08:36,399 --> 00:08:39,599
+connectivity in usbc
+
+296
+00:08:38,240 --> 00:08:41,200
+again it just depends on how much money
+
+297
+00:08:39,599 --> 00:08:43,200
+you have to burn like i said if you're
+
+298
+00:08:41,200 --> 00:08:45,119
+in any kind of budget you get 88 of the
+
+299
+00:08:43,200 --> 00:08:47,278
+value of an ipad from the budget ipad
+
+300
+00:08:45,120 --> 00:08:48,959
+and yes you could pay an extra like 80
+
+301
+00:08:47,278 --> 00:08:51,438
+more for the ipad air but you're only
+
+302
+00:08:48,958 --> 00:08:52,958
+getting an extra 7 value in my kind of
+
+303
+00:08:51,440 --> 00:08:54,160
+subjective estimation of values of an
+
+304
+00:08:52,958 --> 00:08:55,277
+ipad and so it's really hard to answer
+
+305
+00:08:54,159 --> 00:08:57,038
+this question of is it worth it you just
+
+306
+00:08:55,278 --> 00:08:59,438
+have to decide for yourself is it worth
+
+307
+00:08:57,039 --> 00:09:01,119
+spending an extra eighty percent cash to
+
+308
+00:08:59,440 --> 00:09:02,959
+get an extra seven percent improvement i
+
+309
+00:09:01,120 --> 00:09:04,240
+don't know i would personally but i have
+
+310
+00:09:02,958 --> 00:09:06,159
+more money to burn and i can buy these
+
+311
+00:09:04,240 --> 00:09:07,360
+as a business expense and so it really
+
+312
+00:09:06,159 --> 00:09:09,278
+just depends on what your personal
+
+313
+00:09:07,360 --> 00:09:11,919
+circumstances are all right newsflash as
+
+314
+00:09:09,278 --> 00:09:13,518
+of yesterday the ipad air now has the m1
+
+315
+00:09:11,919 --> 00:09:15,599
+processor which makes it a significant
+
+316
+00:09:13,519 --> 00:09:16,479
+speed jump from the budget ipad but that
+
+317
+00:09:15,600 --> 00:09:18,240
+doesn't really change the question of
+
+318
+00:09:16,480 --> 00:09:20,640
+whether it's worth it because m1 versus
+
+319
+00:09:18,240 --> 00:09:21,920
+a13 versus a14 i mean for most people
+
+320
+00:09:20,639 --> 00:09:23,998
+who are in that middle band of the
+
+321
+00:09:21,919 --> 00:09:25,838
+spectrum so like semi-consumer
+
+322
+00:09:24,000 --> 00:09:27,759
+semi-creator you're not going to bump
+
+323
+00:09:25,839 --> 00:09:29,519
+into the limits of an a13 or a14
+
+324
+00:09:27,759 --> 00:09:32,159
+processor anyway and so the upgrade to
+
+325
+00:09:29,519 --> 00:09:33,360
+the m1 processor shouldn't be a major
+
+326
+00:09:32,159 --> 00:09:35,359
+factor it's like oh my god it's such a
+
+327
+00:09:33,360 --> 00:09:36,639
+speed jump from the ipad budget to the
+
+328
+00:09:35,360 --> 00:09:38,320
+ipad air having said that the fact that
+
+329
+00:09:36,639 --> 00:09:40,319
+the ipad air now has m1 means that you
+
+330
+00:09:38,320 --> 00:09:43,119
+are likely to get a longevity upgrade so
+
+331
+00:09:40,320 --> 00:09:44,560
+going from a13 to m1 it your ipad is
+
+332
+00:09:43,120 --> 00:09:45,919
+likely to last longer so if you're
+
+333
+00:09:44,559 --> 00:09:47,358
+looking to buy something which is then
+
+334
+00:09:45,919 --> 00:09:48,639
+going to last you for the long term you
+
+335
+00:09:47,360 --> 00:09:50,320
+might want to consider the ipad air
+
+336
+00:09:48,639 --> 00:09:51,998
+rather than the budget ipad even though
+
+337
+00:09:50,320 --> 00:09:53,360
+it's an extra 260 pounds difference
+
+338
+00:09:52,000 --> 00:09:54,799
+between the two so that was the budget
+
+339
+00:09:53,360 --> 00:09:56,480
+ipad and the ipad air let's now talk
+
+340
+00:09:54,799 --> 00:09:58,319
+about the ipad mini which is the one
+
+341
+00:09:56,480 --> 00:10:00,959
+that i actually have now as my daily
+
+342
+00:09:58,320 --> 00:10:03,839
+driver now the ipad mini is a bit of a
+
+343
+00:10:00,958 --> 00:10:05,039
+weird addition to this lineup um it was
+
+344
+00:10:03,839 --> 00:10:06,399
+always one that's sort of a bit on the
+
+345
+00:10:05,039 --> 00:10:08,239
+side but the ipad mini is actually 100
+
+346
+00:10:06,399 --> 00:10:09,439
+pounds cheaper than the ipad air and
+
+347
+00:10:08,240 --> 00:10:11,360
+it's kind of similar in that it's got
+
+348
+00:10:09,440 --> 00:10:13,920
+the same kind of design but the form
+
+349
+00:10:11,360 --> 00:10:16,398
+factor of the ipad mini is obviously
+
+350
+00:10:13,919 --> 00:10:17,999
+like this and it's very much holdable in
+
+351
+00:10:16,399 --> 00:10:19,600
+one hand and basically the way i think
+
+352
+00:10:18,000 --> 00:10:21,359
+of the ipad mini is that it's basically
+
+353
+00:10:19,600 --> 00:10:23,039
+a glorified kindle so i like using the
+
+354
+00:10:21,360 --> 00:10:24,320
+ipad mini for reading books or reading
+
+355
+00:10:23,039 --> 00:10:25,599
+scientific papers while i'm on the go
+
+356
+00:10:24,320 --> 00:10:26,639
+i'm in the process of writing a book
+
+357
+00:10:25,600 --> 00:10:28,240
+right now so i have to read a bunch of
+
+358
+00:10:26,639 --> 00:10:29,359
+papers and it's much easier reading
+
+359
+00:10:28,240 --> 00:10:30,559
+those on the ipad mini because i can
+
+360
+00:10:29,360 --> 00:10:31,920
+read it with one hand i can read it on
+
+361
+00:10:30,559 --> 00:10:33,199
+the train i can read it on ubers i can
+
+362
+00:10:31,919 --> 00:10:34,238
+read it in public transport i can read
+
+363
+00:10:33,200 --> 00:10:36,320
+it in cafes and if there's just
+
+364
+00:10:34,240 --> 00:10:38,240
+something about it holding an ipad air
+
+365
+00:10:36,320 --> 00:10:40,078
+holding an ipad mini that makes it just
+
+366
+00:10:38,240 --> 00:10:41,920
+feel more manageable than holding an
+
+367
+00:10:40,078 --> 00:10:43,517
+ipad air like you have to hold this in
+
+368
+00:10:41,919 --> 00:10:44,398
+two hands and you kind of need to rest
+
+369
+00:10:43,519 --> 00:10:47,039
+on something it feels a bit
+
+370
+00:10:44,399 --> 00:10:49,440
+uncomfortable whereas the ipad mini it's
+
+371
+00:10:47,039 --> 00:10:51,199
+like it's so nice it's just very much
+
+372
+00:10:49,440 --> 00:10:52,640
+and holdable in one hand and therefore
+
+373
+00:10:51,200 --> 00:10:53,999
+makes it better for me at least as a
+
+374
+00:10:52,639 --> 00:10:55,518
+consumption device now i wouldn't really
+
+375
+00:10:54,000 --> 00:10:57,278
+use this as a creation device i wouldn't
+
+376
+00:10:55,519 --> 00:10:58,958
+recommend the ipad mini if you're like a
+
+377
+00:10:57,278 --> 00:11:00,958
+light creator i would recommend more of
+
+378
+00:10:58,958 --> 00:11:01,759
+the bigger sized ipads especially if
+
+379
+00:11:00,958 --> 00:11:03,358
+you're going to do things like
+
+380
+00:11:01,759 --> 00:11:04,479
+illustration or taking notes but i think
+
+381
+00:11:03,360 --> 00:11:05,759
+if you are going to use the ipad as
+
+382
+00:11:04,480 --> 00:11:07,1000
+basically a glorified kindle or a
+
+383
+00:11:05,759 --> 00:11:09,678
+glorified i don't know netflix machine
+
+384
+00:11:08,000 --> 00:11:10,879
+then actually the ipad mini is a really
+
+385
+00:11:09,679 --> 00:11:12,719
+solid option annoyingly there isn't
+
+386
+00:11:10,879 --> 00:11:14,638
+really a first party kind of smart
+
+387
+00:11:12,720 --> 00:11:15,999
+keyboard attachment for this i thought i
+
+388
+00:11:14,639 --> 00:11:17,837
+think that would have been nice i would
+
+389
+00:11:16,000 --> 00:11:19,759
+have used this as like a portable book
+
+390
+00:11:17,839 --> 00:11:21,759
+writing e typing note taking device on
+
+391
+00:11:19,759 --> 00:11:23,278
+the go but actually you can get a bunch
+
+392
+00:11:21,759 --> 00:11:24,638
+of these small bluetooth keyboards and
+
+393
+00:11:23,278 --> 00:11:25,758
+i've got one which sadly i forgot to
+
+394
+00:11:24,639 --> 00:11:27,277
+bring to the studio with me today it's
+
+395
+00:11:25,759 --> 00:11:29,678
+in my bedroom at home i've got one of
+
+396
+00:11:27,278 --> 00:11:32,077
+those that i occasionally use to type
+
+397
+00:11:29,679 --> 00:11:33,518
+stuff on on the ipad mini but again
+
+398
+00:11:32,078 --> 00:11:34,799
+that's a bit of a niche use case if i
+
+399
+00:11:33,519 --> 00:11:37,039
+need to actually do some typing i'll
+
+400
+00:11:34,799 --> 00:11:38,238
+just get out my 14-inch macbook pro and
+
+401
+00:11:37,039 --> 00:11:39,837
+just use that because it's so much
+
+402
+00:11:38,240 --> 00:11:41,920
+easier than trying to fiddle with typing
+
+403
+00:11:39,839 --> 00:11:43,200
+on an ipad unless of course you have a
+
+404
+00:11:41,919 --> 00:11:45,119
+magic keyboard or things like that but
+
+405
+00:11:43,200 --> 00:11:46,479
+then you're getting into the extra ping
+
+406
+00:11:45,120 --> 00:11:47,680
+and then paying an extra 300 pounds for
+
+407
+00:11:46,480 --> 00:11:48,959
+that kind of thing so should you go for
+
+408
+00:11:47,679 --> 00:11:50,879
+the ipad mini or should you go for the
+
+409
+00:11:48,958 --> 00:11:52,478
+ipad air i think really the decision
+
+410
+00:11:50,879 --> 00:11:54,158
+just comes down to the form factor do
+
+411
+00:11:52,480 --> 00:11:55,680
+you need a smaller ipad would you like a
+
+412
+00:11:54,159 --> 00:11:57,679
+smaller ipad or do you want something
+
+413
+00:11:55,679 --> 00:12:00,719
+bigger and the reason i personally go
+
+414
+00:11:57,679 --> 00:12:02,879
+for the ipad mini is because the ipad
+
+415
+00:12:00,720 --> 00:12:04,240
+does not replace my laptop i have a
+
+416
+00:12:02,879 --> 00:12:06,318
+macbook which i literally carry
+
+417
+00:12:04,240 --> 00:12:08,720
+everywhere i go this is the 14 inch m1
+
+418
+00:12:06,320 --> 00:12:10,800
+pro macbook pro it's literally in my bag
+
+419
+00:12:08,720 --> 00:12:12,398
+all the time and i just know i have to
+
+420
+00:12:10,799 --> 00:12:13,678
+carry it everywhere i go i don't i
+
+421
+00:12:12,399 --> 00:12:15,120
+really don't go anywhere anywhere
+
+422
+00:12:13,679 --> 00:12:17,598
+without this and i've actually had the
+
+423
+00:12:15,120 --> 00:12:18,959
+11 inch ipad pro in my bag for the last
+
+424
+00:12:17,600 --> 00:12:20,639
+few months at the same time as the as
+
+425
+00:12:18,958 --> 00:12:22,878
+the macbook pro but i just never use the
+
+426
+00:12:20,639 --> 00:12:24,320
+ipad pro or the ipad air like when you
+
+427
+00:12:22,879 --> 00:12:25,599
+have the option of getting a macbook out
+
+428
+00:12:24,320 --> 00:12:26,480
+and you have to do some quote proper
+
+429
+00:12:25,600 --> 00:12:28,320
+work
+
+430
+00:12:26,480 --> 00:12:29,1000
+i would just never use an ipad when i
+
+431
+00:12:28,320 --> 00:12:32,398
+could use the macbook and so for me
+
+432
+00:12:30,000 --> 00:12:35,759
+there's really no point in having this
+
+433
+00:12:32,399 --> 00:12:36,799
+kind of middle ground 10.9 or 11 inch
+
+434
+00:12:35,759 --> 00:12:39,118
+ipad
+
+435
+00:12:36,799 --> 00:12:40,398
+when i have my macbook for real stuff
+
+436
+00:12:39,120 --> 00:12:42,079
+but there is actually a point and having
+
+437
+00:12:40,399 --> 00:12:43,519
+like a glorified kindle in my bag i can
+
+438
+00:12:42,078 --> 00:12:45,199
+just chuck it in it's very lightweight i
+
+439
+00:12:43,519 --> 00:12:46,880
+kind of forget that it's there but if i
+
+440
+00:12:45,200 --> 00:12:48,958
+do want to take it out and i'm in i'm in
+
+441
+00:12:46,879 --> 00:12:50,559
+a circumstance like in a cramped cafe or
+
+442
+00:12:48,958 --> 00:12:52,319
+in a library or in public transport
+
+443
+00:12:50,559 --> 00:12:53,998
+where taking out my macbook is a bit
+
+444
+00:12:52,320 --> 00:12:55,440
+overkill i can just take out the ipad
+
+445
+00:12:54,000 --> 00:12:57,439
+mini and i can read some stuff which is
+
+446
+00:12:55,440 --> 00:12:59,040
+awesome next we come to the 11-inch ipad
+
+447
+00:12:57,440 --> 00:13:00,560
+pro now this is what i've had in my bag
+
+448
+00:12:59,039 --> 00:13:02,318
+for the last few months but as i said i
+
+449
+00:13:00,559 --> 00:13:03,599
+almost never even take it out because
+
+450
+00:13:02,320 --> 00:13:05,279
+i've got the macbook and it is really
+
+451
+00:13:03,600 --> 00:13:07,680
+nice it's it's just it's just very
+
+452
+00:13:05,278 --> 00:13:09,758
+expensive it's 750 pounds and it's such
+
+453
+00:13:07,679 --> 00:13:11,679
+a it's such a beautiful glorious device
+
+454
+00:13:09,759 --> 00:13:13,837
+that i you know have gotten a reasonable
+
+455
+00:13:11,679 --> 00:13:15,278
+amount of use out of but again it's hard
+
+456
+00:13:13,839 --> 00:13:16,799
+to justify when you have a macbook and
+
+457
+00:13:15,278 --> 00:13:18,798
+you have an iphone like why would you
+
+458
+00:13:16,799 --> 00:13:20,077
+need an 11 inch ipad as well at least
+
+459
+00:13:18,799 --> 00:13:21,759
+for me that's just how i feel about it
+
+460
+00:13:20,078 --> 00:13:23,199
+maybe your use cases would differ but i
+
+461
+00:13:21,759 --> 00:13:25,198
+think most things that you can do on an
+
+462
+00:13:23,200 --> 00:13:26,479
+ipad pro you can also do on the ipad air
+
+463
+00:13:25,200 --> 00:13:27,838
+you can also do on the budget ipad it
+
+464
+00:13:26,480 --> 00:13:29,440
+just depends on how much money you want
+
+465
+00:13:27,839 --> 00:13:31,359
+to spend and yes the ipad pro does have
+
+466
+00:13:29,440 --> 00:13:33,518
+the new m1 processor as does the ipad
+
+467
+00:13:31,360 --> 00:13:34,959
+pro 12.9 inch but again realistically
+
+468
+00:13:33,519 --> 00:13:36,160
+for the vast majority of people you're
+
+469
+00:13:34,958 --> 00:13:38,397
+never going to notice a difference in
+
+470
+00:13:36,159 --> 00:13:40,559
+performance between the a13 chip the a14
+
+471
+00:13:38,399 --> 00:13:41,838
+chip or the m1 chip i certainly have
+
+472
+00:13:40,559 --> 00:13:43,837
+never noticed i've been dabbling with
+
+473
+00:13:41,839 --> 00:13:45,278
+these ipads for a while switching ipads
+
+474
+00:13:43,839 --> 00:13:46,959
+here and there i just never noticed a
+
+475
+00:13:45,278 --> 00:13:48,958
+speed improvement the only difference i
+
+476
+00:13:46,958 --> 00:13:50,799
+noticed with the ipad pros is the fact
+
+477
+00:13:48,958 --> 00:13:53,679
+that they have an incredible display
+
+478
+00:13:50,799 --> 00:13:55,598
+with the 120 hertz pro motion thing
+
+479
+00:13:53,679 --> 00:13:57,518
+which makes the display like super super
+
+480
+00:13:55,600 --> 00:13:59,680
+smooth and the annoying thing about all
+
+481
+00:13:57,519 --> 00:14:01,679
+the other ipads the non-pro ones is that
+
+482
+00:13:59,679 --> 00:14:04,159
+they only have 60 hertz displays now
+
+483
+00:14:01,679 --> 00:14:06,957
+this difference between 60hz and 120hz
+
+484
+00:14:04,159 --> 00:14:08,718
+it's annoyingly noticeable but it's only
+
+485
+00:14:06,958 --> 00:14:10,799
+noticeable again if you if you've used a
+
+486
+00:14:08,720 --> 00:14:12,880
+pro then you are very used to what it
+
+487
+00:14:10,799 --> 00:14:15,039
+the beautiful buttery smoothness of the
+
+488
+00:14:12,879 --> 00:14:17,278
+ipad pro display just looks freaking
+
+489
+00:14:15,039 --> 00:14:19,119
+incredible whereas if you then switch to
+
+490
+00:14:17,278 --> 00:14:21,438
+an ipad mini or an ipad air like i've
+
+491
+00:14:19,120 --> 00:14:23,679
+done and you scroll around the screen
+
+492
+00:14:21,440 --> 00:14:25,440
+you notice that oh oh something about
+
+493
+00:14:23,679 --> 00:14:26,638
+this just feels bad it just it just it
+
+494
+00:14:25,440 --> 00:14:29,440
+just doesn't feel as nice it doesn't
+
+495
+00:14:26,639 --> 00:14:31,839
+look as nice now if the ipad mini had
+
+496
+00:14:29,440 --> 00:14:32,959
+the option of 120hz promotion display i
+
+497
+00:14:31,839 --> 00:14:34,319
+would be buying this in a heartbeat
+
+498
+00:14:32,958 --> 00:14:35,518
+because that's my only beef with the
+
+499
+00:14:34,320 --> 00:14:37,440
+ipad mini that it doesn't have that
+
+500
+00:14:35,519 --> 00:14:39,120
+promotion display in fact if they had an
+
+501
+00:14:37,440 --> 00:14:40,799
+ipad pro and they just shrunk it to the
+
+502
+00:14:39,120 --> 00:14:42,160
+form factor of an ipad mini i would be
+
+503
+00:14:40,799 --> 00:14:44,319
+like take my money this is the absolute
+
+504
+00:14:42,159 --> 00:14:46,319
+perfect ipad for my personal use cases
+
+505
+00:14:44,320 --> 00:14:48,239
+but yeah i just i just cannot get enough
+
+506
+00:14:46,320 --> 00:14:49,1000
+of the 120hz promotion display is this a
+
+507
+00:14:48,240 --> 00:14:51,279
+good enough reason to buy the ipad pro i
+
+508
+00:14:50,000 --> 00:14:52,560
+don't think so i think it's mostly an
+
+509
+00:14:51,278 --> 00:14:53,999
+aesthetic preference and it's good for
+
+510
+00:14:52,559 --> 00:14:55,277
+example if you're an artist and you
+
+511
+00:14:54,000 --> 00:14:56,799
+actually notice the difference between
+
+512
+00:14:55,278 --> 00:14:58,479
+drawing with an apple pencil in 60hz
+
+513
+00:14:56,799 --> 00:15:00,077
+versus drawing with an apple pencil 120
+
+514
+00:14:58,480 --> 00:15:01,839
+hertz these ones also now have face id
+
+515
+00:15:00,078 --> 00:15:03,198
+it's kind of nice but face id versus
+
+516
+00:15:01,839 --> 00:15:04,319
+touch id on the side doesn't really make
+
+517
+00:15:03,198 --> 00:15:05,999
+much difference to my life and the good
+
+518
+00:15:04,320 --> 00:15:07,599
+news is this has 128 gigabytes of
+
+519
+00:15:06,000 --> 00:15:09,198
+storage by standard as standard whereas
+
+520
+00:15:07,600 --> 00:15:10,959
+the other ones have 64 gigabytes as
+
+521
+00:15:09,198 --> 00:15:13,039
+standard and you know in the past i used
+
+522
+00:15:10,958 --> 00:15:14,799
+to hate on 64 gigabytes but actually i
+
+523
+00:15:13,039 --> 00:15:17,359
+now have a 64 gigabyte ipad and i've
+
+524
+00:15:14,799 --> 00:15:19,119
+realized that i i very rarely store
+
+525
+00:15:17,360 --> 00:15:20,638
+anything locally because cloud storage
+
+526
+00:15:19,120 --> 00:15:22,160
+options have become so cheap and so good
+
+527
+00:15:20,639 --> 00:15:23,1000
+these days and i have fast internet
+
+528
+00:15:22,159 --> 00:15:25,359
+basically everywhere i go and so 64
+
+529
+00:15:24,000 --> 00:15:27,198
+gigabytes is actually reasonable but
+
+530
+00:15:25,360 --> 00:15:28,638
+it's kind of nice that for the extra 200
+
+531
+00:15:27,198 --> 00:15:30,637
+and 300 quid you're paying for the ipad
+
+532
+00:15:28,639 --> 00:15:32,720
+pro you are getting a little bit extra
+
+533
+00:15:30,639 --> 00:15:34,320
+storage as well so is the ipad pro worth
+
+534
+00:15:32,720 --> 00:15:35,839
+it i would say for most people probably
+
+535
+00:15:34,320 --> 00:15:37,839
+not if you're the sort of person that
+
+536
+00:15:35,839 --> 00:15:38,879
+needs the performance of the m1 chip you
+
+537
+00:15:37,839 --> 00:15:40,399
+already know that you need the
+
+538
+00:15:38,879 --> 00:15:42,718
+performance of the m1 chip and so this
+
+539
+00:15:40,399 --> 00:15:43,758
+review of me as someone who is not
+
+540
+00:15:42,720 --> 00:15:45,199
+someone who needs a performance of the
+
+541
+00:15:43,759 --> 00:15:46,799
+m1 chip shouldn't really sway your
+
+542
+00:15:45,198 --> 00:15:47,919
+decision one way or another but hey it's
+
+543
+00:15:46,799 --> 00:15:49,439
+kind of nice to have if you have the
+
+544
+00:15:47,919 --> 00:15:50,559
+money to burn and let's let's say you're
+
+545
+00:15:49,440 --> 00:15:51,839
+a student and you've just got rich
+
+546
+00:15:50,559 --> 00:15:53,599
+parents or you've got a side hustle or
+
+547
+00:15:51,839 --> 00:15:55,120
+you just have loads of money then 11
+
+548
+00:15:53,600 --> 00:15:56,560
+inch ipad pro is actually sick if it's
+
+549
+00:15:55,120 --> 00:15:58,559
+non-trivial for you to spend an extra i
+
+550
+00:15:56,559 --> 00:16:01,278
+don't know 300 quid to upgrade from the
+
+551
+00:15:58,559 --> 00:16:02,478
+ipad air for 579 to the ipad pro for 749
+
+552
+00:16:01,278 --> 00:16:03,919
+then go for the ipad pro you won't
+
+553
+00:16:02,480 --> 00:16:05,919
+regret it the promotion display is
+
+554
+00:16:03,919 --> 00:16:07,439
+really really nice but again it just
+
+555
+00:16:05,919 --> 00:16:09,599
+depends on what sort of budget you're at
+
+556
+00:16:07,440 --> 00:16:10,638
+it is an extra three percent gain for an
+
+557
+00:16:09,600 --> 00:16:13,439
+extra
+
+558
+00:16:10,639 --> 00:16:15,039
+80 cost or like 70 cost it's objectively
+
+559
+00:16:13,440 --> 00:16:16,078
+not worth it but it just again it just
+
+560
+00:16:15,039 --> 00:16:17,999
+depends on how much money you have to
+
+561
+00:16:16,078 --> 00:16:19,679
+burn on the purchase of an ipad oh and
+
+562
+00:16:18,000 --> 00:16:20,879
+now that the ipad air also has the m1
+
+563
+00:16:19,679 --> 00:16:23,038
+chip the reason you're upgrading to the
+
+564
+00:16:20,879 --> 00:16:24,879
+ipad pro i mean it's mostly for the
+
+565
+00:16:23,039 --> 00:16:26,958
+screen and for the build quality it's
+
+566
+00:16:24,879 --> 00:16:28,798
+not really for the chip itself and so
+
+567
+00:16:26,958 --> 00:16:31,278
+the fact that the ipad air now has the
+
+568
+00:16:28,799 --> 00:16:33,278
+m1 shape makes it even less of a need to
+
+569
+00:16:31,278 --> 00:16:34,559
+upgrade to the ipad pro but if you know
+
+570
+00:16:33,278 --> 00:16:36,077
+you need an ipad pro and you need to
+
+571
+00:16:34,559 --> 00:16:37,518
+have and you know that you need to have
+
+572
+00:16:36,078 --> 00:16:38,719
+one this generation you already need
+
+573
+00:16:37,519 --> 00:16:40,160
+that anyway and you probably don't need
+
+574
+00:16:38,720 --> 00:16:42,720
+this video to explain it and then we
+
+575
+00:16:40,159 --> 00:16:44,638
+come to the big daddy the 12.9 ipad ipad
+
+576
+00:16:42,720 --> 00:16:46,559
+pro now this actually used to be my
+
+577
+00:16:44,639 --> 00:16:47,599
+daily driver i used to use this a lot i
+
+578
+00:16:46,559 --> 00:16:49,119
+used to use this a lot when i was at the
+
+579
+00:16:47,600 --> 00:16:50,560
+hospital when i was at work um for
+
+580
+00:16:49,120 --> 00:16:53,360
+planning videos and things but that was
+
+581
+00:16:50,559 --> 00:16:55,999
+before the m1 macbooks came out now that
+
+582
+00:16:53,360 --> 00:16:59,680
+the m1 macbooks are here it's like you
+
+583
+00:16:56,000 --> 00:17:01,919
+know 13 or 14-inch macbook pro versus
+
+584
+00:16:59,679 --> 00:17:03,198
+12.9 inch ipad pro even though i've got
+
+585
+00:17:01,919 --> 00:17:04,399
+this and i've got it with a magic
+
+586
+00:17:03,198 --> 00:17:06,399
+keyboard and all the accessories and
+
+587
+00:17:04,400 --> 00:17:08,720
+stuff i just never find myself reaching
+
+588
+00:17:06,400 --> 00:17:10,239
+for the 12.9 inch ipad pro when i could
+
+589
+00:17:08,720 --> 00:17:11,679
+just be using my macbook people always
+
+590
+00:17:10,240 --> 00:17:13,360
+ask the question can an ipad replace
+
+591
+00:17:11,679 --> 00:17:14,958
+your laptop and i still think five years
+
+592
+00:17:13,359 --> 00:17:16,557
+later the answer to that question is no
+
+593
+00:17:14,959 --> 00:17:18,240
+not really it's very hard to fully
+
+594
+00:17:16,558 --> 00:17:19,678
+replace your laptop with an ipad because
+
+595
+00:17:18,240 --> 00:17:21,038
+the ipad at the end of the day it's just
+
+596
+00:17:19,679 --> 00:17:23,520
+an ipad it does still have the
+
+597
+00:17:21,038 --> 00:17:25,038
+limitations of ipad os it's not a proper
+
+598
+00:17:23,519 --> 00:17:26,958
+desktop operating system the ipad pro
+
+599
+00:17:25,038 --> 00:17:28,797
+12.9 is very nice it's got the same
+
+600
+00:17:26,959 --> 00:17:30,399
+processes and stuff as the 11 inch ipad
+
+601
+00:17:28,798 --> 00:17:32,399
+pro but it does have a slightly nicer
+
+602
+00:17:30,400 --> 00:17:34,799
+screen which has slightly more contrasty
+
+603
+00:17:32,400 --> 00:17:35,1000
+blacks again you never notice this
+
+604
+00:17:34,798 --> 00:17:37,999
+unless you're watching looking at them
+
+605
+00:17:36,000 --> 00:17:39,520
+side by side i watch things on the ipad
+
+606
+00:17:38,000 --> 00:17:41,759
+pro sometimes i watch things on the ipad
+
+607
+00:17:39,519 --> 00:17:43,119
+mini i never think to myself oh god the
+
+608
+00:17:41,759 --> 00:17:44,879
+blacks on this don't look as black as
+
+609
+00:17:43,119 --> 00:17:46,239
+they did on the ipad pro unless i'm
+
+610
+00:17:44,880 --> 00:17:48,159
+doing a review and looking at them side
+
+611
+00:17:46,240 --> 00:17:49,918
+by side and that's a very artificial
+
+612
+00:17:48,160 --> 00:17:51,120
+unfair way to test ipads and there's a
+
+613
+00:17:49,919 --> 00:17:53,039
+bunch of creators i know on the internet
+
+614
+00:17:51,119 --> 00:17:54,878
+who use the 12.9 inch ipad pro there's
+
+615
+00:17:53,038 --> 00:17:56,399
+like music producers that plug devices
+
+616
+00:17:54,880 --> 00:17:58,880
+in and they're like having 4.9 inches
+
+617
+00:17:56,400 --> 00:18:00,640
+and this is like their go-to device for
+
+618
+00:17:58,880 --> 00:18:01,919
+making music i'm not one of those people
+
+619
+00:18:00,640 --> 00:18:03,200
+if you're watching this video i would
+
+620
+00:18:01,919 --> 00:18:04,879
+hazard a guess that you're probably not
+
+621
+00:18:03,200 --> 00:18:06,479
+one of those people either and so i
+
+622
+00:18:04,880 --> 00:18:07,919
+would again unless you just have loads
+
+623
+00:18:06,480 --> 00:18:10,239
+of money to burn and you really really
+
+624
+00:18:07,919 --> 00:18:11,678
+want a 12.9 inch huge ass screen maybe
+
+625
+00:18:10,240 --> 00:18:13,599
+with the magic keyboard it's just very
+
+626
+00:18:11,679 --> 00:18:15,839
+hard to justify spending all this money
+
+627
+00:18:13,599 --> 00:18:17,438
+on an ipad pro 12.9 inch so where are we
+
+628
+00:18:15,839 --> 00:18:19,359
+at the end of all this like i said my
+
+629
+00:18:17,440 --> 00:18:20,960
+daily driver is now the ipad mini i
+
+630
+00:18:19,359 --> 00:18:22,798
+don't need an ipad because i have a
+
+631
+00:18:20,960 --> 00:18:24,799
+macbook to do quite real work but it's
+
+632
+00:18:22,798 --> 00:18:26,557
+nice having the ipad mini as a glorified
+
+633
+00:18:24,798 --> 00:18:27,838
+kindle as a consumption device that i
+
+634
+00:18:26,558 --> 00:18:29,199
+can use one-handed i can just chuck it
+
+635
+00:18:27,839 --> 00:18:30,557
+into my bag and i can use it whenever
+
+636
+00:18:29,200 --> 00:18:31,918
+i'm on the go if i were a student and i
+
+637
+00:18:30,558 --> 00:18:33,279
+had absolutely no money at all i
+
+638
+00:18:31,919 --> 00:18:34,798
+wouldn't even get an ipad because an
+
+639
+00:18:33,279 --> 00:18:36,319
+ipad is not a game changer for your
+
+640
+00:18:34,798 --> 00:18:37,359
+university life save your money use it
+
+641
+00:18:36,319 --> 00:18:38,959
+for something else but if i were a
+
+642
+00:18:37,359 --> 00:18:40,319
+student and and was on some kind of
+
+643
+00:18:38,960 --> 00:18:41,919
+budget and i wanted to spend some money
+
+644
+00:18:40,319 --> 00:18:43,118
+on tech maybe i wanted to go paperless
+
+645
+00:18:41,919 --> 00:18:44,399
+with my notes and do handwritten note
+
+646
+00:18:43,119 --> 00:18:46,079
+taking on the ipad i would go for the
+
+647
+00:18:44,400 --> 00:18:47,360
+budget ipad if i was on a budget if i
+
+648
+00:18:46,079 --> 00:18:49,038
+had an extra 300 quid to spare i would
+
+649
+00:18:47,359 --> 00:18:51,118
+go for the ipad air just because the
+
+650
+00:18:49,038 --> 00:18:52,719
+conveniences of the apple pencil usbc
+
+651
+00:18:51,119 --> 00:18:54,319
+and the new design is kind of nice and
+
+652
+00:18:52,720 --> 00:18:55,679
+if i was a real bowler of a student and
+
+653
+00:18:54,319 --> 00:18:56,798
+i had like a side hustle and stuff and i
+
+654
+00:18:55,679 --> 00:18:58,240
+had a business that i could funnel
+
+655
+00:18:56,798 --> 00:18:59,838
+business expenses through or i just had
+
+656
+00:18:58,240 --> 00:19:01,280
+really rich parents and stuff i would
+
+657
+00:18:59,839 --> 00:19:03,519
+probably go for the 11 inch ipad pro
+
+658
+00:19:01,279 --> 00:19:05,359
+just because why not at that point but
+
+659
+00:19:03,519 --> 00:19:06,558
+yeah it just sort of depends diminishing
+
+660
+00:19:05,359 --> 00:19:08,399
+returns you know where you're on the
+
+661
+00:19:06,558 --> 00:19:10,319
+spectrum and you can decide from that
+
+662
+00:19:08,400 --> 00:19:12,239
+hopefully what's the best ipad for you
+
+663
+00:19:10,319 --> 00:19:13,359
+this ipad mini is the one for me by the
+
+664
+00:19:12,240 --> 00:19:14,400
+way if you're getting an ipad you should
+
+665
+00:19:13,359 --> 00:19:15,599
+totally put a paper-like screen
+
+666
+00:19:14,400 --> 00:19:16,640
+protector on it they're not sponsoring
+
+667
+00:19:15,599 --> 00:19:17,599
+this video but i'll put an affiliate
+
+668
+00:19:16,640 --> 00:19:19,439
+link in the video description if you
+
+669
+00:19:17,599 --> 00:19:21,358
+want to check it out i have been using
+
+670
+00:19:19,440 --> 00:19:22,559
+these guys for that since like 2017 was
+
+671
+00:19:21,359 --> 00:19:23,758
+when i first got a paper like screen
+
+672
+00:19:22,558 --> 00:19:25,359
+protector and it's been on my ipad ever
+
+673
+00:19:23,759 --> 00:19:26,319
+since it's just really good and if you
+
+674
+00:19:25,359 --> 00:19:27,918
+like this video you might like to check
+
+675
+00:19:26,319 --> 00:19:30,319
+out this video over here which talks
+
+676
+00:19:27,919 --> 00:19:31,600
+about my top favorite apps for the ipad
+
+677
+00:19:30,319 --> 00:19:33,198
+because obviously the device is one
+
+678
+00:19:31,599 --> 00:19:34,797
+thing but it's really all about the apps
+
+679
+00:19:33,200 --> 00:19:35,999
+and that video goes over all my favorite
+
+680
+00:19:34,798 --> 00:19:37,038
+apps for the ipad so thank you so much
+
+681
+00:19:36,000 --> 00:19:38,640
+for watching hopefully you found this
+
+682
+00:19:37,038 --> 00:19:39,678
+video useful do hit the subscribe button
+
+683
+00:19:38,640 --> 00:19:43,359
+if you aren't already and i'll see you
+
+684
+00:19:39,679 --> 00:19:43,360
+hopefully in the next video bye
+

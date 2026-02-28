@@ -1,0 +1,28 @@
+# Book manuscript files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Claude project files
+.claude/
+
+# Build artifacts
+dist/
+build/
+
+# Node modules (if any tools need it)
+node_modules/
+
+# Temporary notes
+TODO.md
+NOTES.md

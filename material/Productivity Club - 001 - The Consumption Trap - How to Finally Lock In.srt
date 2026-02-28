@@ -1,0 +1,3376 @@
+1
+00:00:00,000 --> 00:00:02,638
+Hey friends, welcome back to the
+
+2
+00:00:00,960 --> 00:00:03,839
+channel. In this video, I would like to
+
+3
+00:00:02,638 --> 00:00:03,601
+make one central point. There's
+
+4
+00:00:04,799 --> 00:00:08,558
+basically just one point I'm going to
+
+5
+00:00:06,240 --> 00:00:10,639
+make throughout the entire video. And
+
+6
+00:00:08,558 --> 00:00:12,159
+that point is all about a number. More
+
+7
+00:00:10,638 --> 00:00:13,678
+specifically, it is about a ratio. And
+
+8
+00:00:12,160 --> 00:00:14,798
+so the ratio is between these two
+
+9
+00:00:13,679 --> 00:00:16,559
+numbers. So this is a little exercise
+
+10
+00:00:14,798 --> 00:00:19,437
+that you can try for yourself. Firstly,
+
+11
+00:00:16,559 --> 00:00:21,999
+count how much time in the last 7 days
+
+12
+00:00:19,439 --> 00:00:23,1000
+you have spent consuming stuff. Screen
+
+13
+00:00:22,000 --> 00:00:25,759
+time is a good proxy for this. How much
+
+14
+00:00:24,000 --> 00:00:27,119
+time have you spent consuming stuff that
+
+15
+00:00:25,760 --> 00:00:28,240
+has been created by other people? And
+
+16
+00:00:27,118 --> 00:00:30,239
+then once you've done that, you want to
+
+17
+00:00:28,239 --> 00:00:31,998
+estimate how much time you have spent
+
+18
+00:00:30,239 --> 00:00:34,078
+creating something yourself. Now you
+
+19
+00:00:32,000 --> 00:00:35,600
+calculate your creation to consumption
+
+20
+00:00:34,079 --> 00:00:38,239
+ratio. And according to the internet,
+
+21
+00:00:35,600 --> 00:00:40,239
+the average person spends about 28 hours
+
+22
+00:00:38,238 --> 00:00:42,158
+a week consuming stuff created by other
+
+23
+00:00:40,238 --> 00:00:43,999
+people and only around 2 hours a week
+
+24
+00:00:42,159 --> 00:00:45,839
+doing their own acts of creation. That
+
+25
+00:00:44,000 --> 00:00:48,160
+leads to a consumption to creation ratio
+
+26
+00:00:45,840 --> 00:00:49,360
+of like 14 to1, which is totally fine if
+
+27
+00:00:48,159 --> 00:00:51,359
+that's how you want to live your life.
+
+28
+00:00:49,359 --> 00:00:53,679
+But the people who follow this channel,
+
+29
+00:00:51,359 --> 00:00:55,839
+people in my audience, uh I suspect you
+
+30
+00:00:53,679 --> 00:00:57,279
+have goals that are beyond just being a
+
+31
+00:00:55,840 --> 00:00:58,960
+professional consumer of things, I
+
+32
+00:00:57,280 --> 00:01:00,159
+suspect your goals maybe involve freedom
+
+33
+00:00:58,960 --> 00:01:01,520
+to some degree. You'd like the freedom
+
+34
+00:01:00,159 --> 00:01:02,799
+to live on your own terms. Maybe you'd
+
+35
+00:01:01,520 --> 00:01:04,080
+like financial freedom. Maybe you'd like
+
+36
+00:01:02,799 --> 00:01:05,759
+time freedom. Maybe you'd like the
+
+37
+00:01:04,079 --> 00:01:07,759
+ability to choose what you do for work.
+
+38
+00:01:05,760 --> 00:01:09,840
+And my hot take in this video is that if
+
+39
+00:01:07,760 --> 00:01:12,479
+you have any goal that is related to
+
+40
+00:01:09,840 --> 00:01:15,840
+freedom and that goal is something that
+
+41
+00:01:12,478 --> 00:01:17,599
+the masses do not accomplish, then you
+
+42
+00:01:15,840 --> 00:01:20,080
+really want to be shifting your ratio of
+
+43
+00:01:17,599 --> 00:01:21,999
+creation to consumption more in favor of
+
+44
+00:01:20,079 --> 00:01:23,679
+creation than consumption. I.e. you
+
+45
+00:01:22,000 --> 00:01:25,758
+should be spending at least as many
+
+46
+00:01:23,680 --> 00:01:27,920
+hours of the week creating stuff as you
+
+47
+00:01:25,759 --> 00:01:28,960
+spend consuming stuff. Ideally, even
+
+48
+00:01:27,920 --> 00:01:30,719
+more creating stuff than you do
+
+49
+00:01:28,959 --> 00:01:32,238
+consuming stuff. So, what does creating
+
+50
+00:01:30,719 --> 00:01:33,998
+stuff mean? I don't mean you have to be
+
+51
+00:01:32,239 --> 00:01:35,279
+a YouTuber, although creating videos and
+
+52
+00:01:34,000 --> 00:01:36,798
+sticking them on the internet does count
+
+53
+00:01:35,280 --> 00:01:37,840
+as creation. You could be making
+
+54
+00:01:36,799 --> 00:01:39,118
+anything. You could be producing
+
+55
+00:01:37,840 --> 00:01:40,478
+anything. You could be building stuff.
+
+56
+00:01:39,118 --> 00:01:41,839
+You could be using your head. You could
+
+57
+00:01:40,478 --> 00:01:42,958
+be using your hands. You could be using
+
+58
+00:01:41,840 --> 00:01:44,320
+your brain. You could be using your
+
+59
+00:01:42,959 --> 00:01:47,199
+skills. You could be using any of this
+
+60
+00:01:44,319 --> 00:01:49,038
+sort of stuff to make something and put
+
+61
+00:01:47,200 --> 00:01:50,398
+it into the world, something that didn't
+
+62
+00:01:49,040 --> 00:01:51,680
+exist before. Oh, by the way, quick
+
+63
+00:01:50,399 --> 00:01:54,399
+thing. If you happen to be watching this
+
+64
+00:01:51,680 --> 00:01:56,079
+before the 1st of August 2025, then for
+
+65
+00:01:54,399 --> 00:01:58,639
+6 weeks from the 1st of August through
+
+66
+00:01:56,078 --> 00:02:01,199
+to the 12th of September 2025, me and my
+
+67
+00:01:58,640 --> 00:02:03,199
+team are hosting a live 6 week challenge
+
+68
+00:02:01,200 --> 00:02:04,639
+called the 1K challenge. And the whole
+
+69
+00:02:03,200 --> 00:02:06,880
+idea behind the 1K challenge is that
+
+70
+00:02:04,640 --> 00:02:08,640
+it's a 6 week live online course and
+
+71
+00:02:06,879 --> 00:02:10,559
+boot camp to help you make your first
+
+72
+00:02:08,639 --> 00:02:11,759
+$1,000 on the internet. It's a challenge
+
+73
+00:02:10,560 --> 00:02:13,280
+that we've designed for complete
+
+74
+00:02:11,759 --> 00:02:14,638
+beginners to entrepreneurship to side
+
+75
+00:02:13,280 --> 00:02:15,1000
+hustles to making money. And you'll be
+
+76
+00:02:14,639 --> 00:02:17,598
+doing this live with people from all
+
+77
+00:02:16,000 --> 00:02:19,040
+around the world who are also at that
+
+78
+00:02:17,598 --> 00:02:20,078
+same stage as you. So, if that sounds
+
+79
+00:02:19,039 --> 00:02:21,199
+good and you would like to make your
+
+80
+00:02:20,080 --> 00:02:22,560
+first thousand dollars on the internet
+
+81
+00:02:21,199 --> 00:02:24,399
+and you'd like to learn the skills and
+
+82
+00:02:22,560 --> 00:02:26,720
+actually take action through the format
+
+83
+00:02:24,400 --> 00:02:28,319
+of this live online boot camp, then
+
+84
+00:02:26,719 --> 00:02:29,679
+there is a link to sign up in the video
+
+85
+00:02:28,318 --> 00:02:31,519
+description. If you look at the examples
+
+86
+00:02:29,680 --> 00:02:33,119
+of a lot of successful people, like
+
+87
+00:02:31,520 --> 00:02:34,799
+actually, you know what, forget about
+
+88
+00:02:33,120 --> 00:02:36,720
+how you define success. Just like pick
+
+89
+00:02:34,800 --> 00:02:38,639
+anyone that you look up to, chances are
+
+90
+00:02:36,719 --> 00:02:40,719
+a big part of the reason you look up to
+
+91
+00:02:38,639 --> 00:02:43,119
+them is because of the stuff they have
+
+92
+00:02:40,719 --> 00:02:44,399
+produced or created. It is very unlikely
+
+93
+00:02:43,120 --> 00:02:45,840
+to be because of the stuff that they
+
+94
+00:02:44,400 --> 00:02:46,799
+have consumed. If you look at a very
+
+95
+00:02:45,840 --> 00:02:48,560
+large number of successful
+
+96
+00:02:46,800 --> 00:02:50,319
+entrepreneurs, a lot of them built
+
+97
+00:02:48,560 --> 00:02:52,160
+random stuff when they were in school or
+
+98
+00:02:50,318 --> 00:02:53,597
+university or in their 30s or before
+
+99
+00:02:52,159 --> 00:02:55,199
+they started their main business. And as
+
+100
+00:02:53,598 --> 00:02:57,038
+I said, the main point of this video is
+
+101
+00:02:55,199 --> 00:02:58,399
+that if you are trying to work towards
+
+102
+00:02:57,039 --> 00:03:00,237
+freedom, you really want to be spending
+
+103
+00:02:58,400 --> 00:03:02,080
+more hours a week creating than you do
+
+104
+00:03:00,239 --> 00:03:03,920
+consuming. I'm not trying to tell anyone
+
+105
+00:03:02,080 --> 00:03:05,040
+what to do. You can live your life
+
+106
+00:03:03,919 --> 00:03:07,518
+however you want. You can do whatever
+
+107
+00:03:05,039 --> 00:03:09,838
+you want. But when I speak to people in
+
+108
+00:03:07,519 --> 00:03:12,238
+my audience at events and workshops and
+
+109
+00:03:09,840 --> 00:03:13,840
+stuff and they have goals that are
+
+110
+00:03:12,239 --> 00:03:15,199
+around freedom, like financial freedom
+
+111
+00:03:13,840 --> 00:03:16,400
+or time freedom or location freedom or
+
+112
+00:03:15,199 --> 00:03:17,598
+freedom of choice or freedom of creative
+
+113
+00:03:16,400 --> 00:03:18,959
+expression or like freedom of anything,
+
+114
+00:03:17,598 --> 00:03:20,478
+like freedom to not have to do you
+
+115
+00:03:18,959 --> 00:03:21,919
+don't want to do and the ability to do
+
+116
+00:03:20,479 --> 00:03:25,278
+stuff that you actually want to do, that
+
+117
+00:03:21,919 --> 00:03:28,718
+is it's worth recognizing that that is a
+
+118
+00:03:25,280 --> 00:03:29,919
+top 1% goal, right? Only like 1% of the
+
+119
+00:03:28,719 --> 00:03:31,038
+people in the world actually have the
+
+120
+00:03:29,919 --> 00:03:32,237
+freedom, probably less than that
+
+121
+00:03:31,039 --> 00:03:33,279
+actually, actually have the freedom to
+
+122
+00:03:32,239 --> 00:03:34,400
+just not do stuff they don't want to do
+
+123
+00:03:33,280 --> 00:03:35,598
+and the freedom to do stuff that they
+
+124
+00:03:34,400 --> 00:03:36,879
+want to do. I suspect for you, you're
+
+125
+00:03:35,598 --> 00:03:37,919
+probably not trying to get like mega
+
+126
+00:03:36,878 --> 00:03:39,838
+rich. You're probably not trying to
+
+127
+00:03:37,919 --> 00:03:41,678
+become like a Dubai boy billionaire
+
+128
+00:03:39,840 --> 00:03:43,040
+super yacht kind of lifestyle, but you'd
+
+129
+00:03:41,680 --> 00:03:44,159
+probably like to have more money in your
+
+130
+00:03:43,039 --> 00:03:45,358
+life, right? You'd like to have more
+
+131
+00:03:44,158 --> 00:03:46,957
+money and you'd like to make that money
+
+132
+00:03:45,360 --> 00:03:48,799
+in a more flexible and freeing way than
+
+133
+00:03:46,959 --> 00:03:51,920
+you're currently doing. The problem is
+
+134
+00:03:48,799 --> 00:03:53,518
+if you have the consumption ratio that
+
+135
+00:03:51,919 --> 00:03:54,878
+most people have, you're just not going
+
+136
+00:03:53,519 --> 00:03:56,159
+to get there. It's probably not going to
+
+137
+00:03:54,878 --> 00:03:57,518
+happen because the only way you work
+
+138
+00:03:56,158 --> 00:03:58,399
+towards that kind of freedom, whether
+
+139
+00:03:57,519 --> 00:04:00,159
+you're doing it through your own
+
+140
+00:03:58,400 --> 00:04:02,080
+business or you're doing it through a
+
+141
+00:04:00,158 --> 00:04:03,919
+career that's sufficiently flexible, is
+
+142
+00:04:02,080 --> 00:04:05,599
+by creating value for other people. And
+
+143
+00:04:03,919 --> 00:04:06,798
+then that's how money is made. Like you
+
+144
+00:04:05,598 --> 00:04:08,078
+create value for other people and then
+
+145
+00:04:06,799 --> 00:04:09,839
+they give you money for the value that
+
+146
+00:04:08,080 --> 00:04:11,200
+you are creating. There is almost no one
+
+147
+00:04:09,840 --> 00:04:13,1000
+in the world who makes a good amount of
+
+148
+00:04:11,199 --> 00:04:15,199
+money from consuming stuff. Also, it's
+
+149
+00:04:14,000 --> 00:04:16,479
+not just about money, right? Like
+
+150
+00:04:15,199 --> 00:04:17,598
+freedom is a clear goal of a lot of
+
+151
+00:04:16,478 --> 00:04:19,039
+people in my audience. But also
+
+152
+00:04:17,600 --> 00:04:21,280
+fulfillment like we also want to be
+
+153
+00:04:19,040 --> 00:04:23,280
+fulfilled. And if you look at the stats
+
+154
+00:04:21,279 --> 00:04:24,799
+and like the data on this and also just
+
+155
+00:04:23,279 --> 00:04:26,078
+like think about your own experience.
+
+156
+00:04:24,800 --> 00:04:27,599
+What are the sorts of activities that
+
+157
+00:04:26,079 --> 00:04:29,358
+are more likely to lead you to feeling
+
+158
+00:04:27,600 --> 00:04:30,879
+fulfilled? How fulfilled do you really
+
+159
+00:04:29,360 --> 00:04:32,400
+feel after you binge Tik Tok or
+
+160
+00:04:30,879 --> 00:04:33,758
+Instagram res for a few hours? How
+
+161
+00:04:32,399 --> 00:04:34,879
+fulfilled do you really feel when you
+
+162
+00:04:33,759 --> 00:04:36,638
+have binged a whole season of something
+
+163
+00:04:34,879 --> 00:04:37,599
+on Netflix? It can be sometimes nice,
+
+164
+00:04:36,639 --> 00:04:39,039
+right? Especially if you're doing it
+
+165
+00:04:37,600 --> 00:04:40,320
+with like loved ones, it kind of feels a
+
+166
+00:04:39,040 --> 00:04:41,839
+little bit connecting some of the time,
+
+167
+00:04:40,319 --> 00:04:43,279
+but for the most part, if you look at
+
+168
+00:04:41,839 --> 00:04:44,879
+what people say in the in the surveys
+
+169
+00:04:43,279 --> 00:04:46,319
+and in studies around this, the things
+
+170
+00:04:44,879 --> 00:04:47,999
+that disproportionately create
+
+171
+00:04:46,319 --> 00:04:49,918
+fulfillment for human beings are
+
+172
+00:04:48,000 --> 00:04:51,600
+creative activities rather than
+
+173
+00:04:49,918 --> 00:04:53,039
+consumptive activities. Creating stuff
+
+174
+00:04:51,600 --> 00:04:54,399
+and connecting with others tends to be
+
+175
+00:04:53,040 --> 00:04:56,160
+the thing that makes us fulfilled. So
+
+176
+00:04:54,399 --> 00:04:57,758
+even if you're like this guy, I don't
+
+177
+00:04:56,160 --> 00:04:59,599
+care about money. It's like, okay, but
+
+178
+00:04:57,759 --> 00:05:01,679
+you probably care about fulfillment, and
+
+179
+00:04:59,600 --> 00:05:03,359
+that will probably come more naturally
+
+180
+00:05:01,680 --> 00:05:05,119
+to you and more readily if you shift
+
+181
+00:05:03,360 --> 00:05:06,560
+your consumption ratio in favor of
+
+182
+00:05:05,120 --> 00:05:07,680
+creating rather than consuming. And
+
+183
+00:05:06,560 --> 00:05:09,600
+speaking of creating more than
+
+184
+00:05:07,680 --> 00:05:11,360
+consuming, one of my absolute favorite
+
+185
+00:05:09,600 --> 00:05:13,280
+tools that I use pretty much every day
+
+186
+00:05:11,360 --> 00:05:15,199
+to help me create more than consume, is
+
+187
+00:05:13,279 --> 00:05:16,959
+Claude from Anthropic, who are very
+
+188
+00:05:15,199 --> 00:05:18,880
+kindly sponsoring this video. Claude is
+
+189
+00:05:16,959 --> 00:05:20,398
+the incredibly thoughtful AI
+
+190
+00:05:18,879 --> 00:05:22,158
+conversational partner designed by
+
+191
+00:05:20,399 --> 00:05:23,599
+Anthropic. And of all of the different
+
+192
+00:05:22,160 --> 00:05:24,800
+AI tools, all of the different large
+
+193
+00:05:23,600 --> 00:05:25,758
+language models out there, all of the
+
+194
+00:05:24,800 --> 00:05:27,280
+ones that you've heard of and you
+
+195
+00:05:25,759 --> 00:05:28,799
+haven't heard of, I've tried pretty much
+
+196
+00:05:27,279 --> 00:05:30,477
+all of them. And Claude is the one that
+
+197
+00:05:28,800 --> 00:05:31,679
+I keep coming back to because I
+
+198
+00:05:30,478 --> 00:05:33,198
+personally think it's the best one out
+
+199
+00:05:31,680 --> 00:05:34,720
+there. The reason why I think Claude is
+
+200
+00:05:33,199 --> 00:05:37,359
+better than Chad PT and all of the other
+
+201
+00:05:34,720 --> 00:05:39,1000
+sort of competitor LLMs is because its
+
+202
+00:05:37,360 --> 00:05:42,959
+personality is really, really thoughtful
+
+203
+00:05:40,000 --> 00:05:45,360
+and it's like having a very intelligent,
+
+204
+00:05:42,959 --> 00:05:47,439
+honest, sort of genuinely deepinking
+
+205
+00:05:45,360 --> 00:05:49,119
+conversational buddy to sort of bounce
+
+206
+00:05:47,439 --> 00:05:50,637
+ideas with back and forth. So for me,
+
+207
+00:05:49,120 --> 00:05:52,720
+the way that I personally use it is I
+
+208
+00:05:50,639 --> 00:05:54,079
+start off all of my sort of creation for
+
+209
+00:05:52,720 --> 00:05:55,840
+YouTube videos and newsletters and
+
+210
+00:05:54,079 --> 00:05:57,119
+whatever using the app voice pal. So
+
+211
+00:05:55,839 --> 00:05:58,959
+I'll go for a walk, I'll speak into
+
+212
+00:05:57,120 --> 00:06:00,879
+voice pal to get an initial transcript
+
+213
+00:05:58,959 --> 00:06:02,718
+of whatever I'm thinking about. And then
+
+214
+00:06:00,879 --> 00:06:04,238
+I will put that transcript into Claude
+
+215
+00:06:02,720 --> 00:06:05,680
+and then Claude will understand the
+
+216
+00:06:04,240 --> 00:06:07,119
+essence of what I'm trying to say based
+
+217
+00:06:05,680 --> 00:06:08,559
+on the original transcript. And I can
+
+218
+00:06:07,120 --> 00:06:10,240
+ask it to give me really thoughtful
+
+219
+00:06:08,560 --> 00:06:12,160
+opinions distilling the essence of what
+
+220
+00:06:10,240 --> 00:06:13,440
+I've said. And that really helps me
+
+221
+00:06:12,160 --> 00:06:14,959
+think in different directions. And
+
+222
+00:06:13,439 --> 00:06:16,798
+generally, I find that by going back and
+
+223
+00:06:14,959 --> 00:06:18,398
+forth with Claude, it massively improves
+
+224
+00:06:16,800 --> 00:06:19,759
+the quality of the ideas that I'm
+
+225
+00:06:18,399 --> 00:06:21,359
+thinking about, whether it relates to
+
+226
+00:06:19,759 --> 00:06:23,038
+content that we're creating or strategy
+
+227
+00:06:21,360 --> 00:06:24,080
+or product design or anything like that.
+
+228
+00:06:23,038 --> 00:06:26,399
+And yeah, what I really love about
+
+229
+00:06:24,079 --> 00:06:27,838
+Claude is that the experience feels very
+
+230
+00:06:26,399 --> 00:06:29,278
+it feels very nice. It feels very
+
+231
+00:06:27,839 --> 00:06:30,959
+collaborative. So, if you haven't yet
+
+232
+00:06:29,279 --> 00:06:32,318
+tried out Claude, there is a link in the
+
+233
+00:06:30,959 --> 00:06:33,599
+video description for you to try it out
+
+234
+00:06:32,319 --> 00:06:35,120
+completely for free. So, thank you so
+
+235
+00:06:33,600 --> 00:06:36,479
+much Claude and Anthropic for sponsoring
+
+236
+00:06:35,120 --> 00:06:38,559
+this video. And let's get back to it.
+
+237
+00:06:36,478 --> 00:06:40,159
+Now, one of the crucial points is that
+
+238
+00:06:38,560 --> 00:06:42,638
+it's not just about consuming
+
+239
+00:06:40,160 --> 00:06:44,400
+entertainment. It's also about consuming
+
+240
+00:06:42,639 --> 00:06:45,840
+education. So, a lot of people in my
+
+241
+00:06:44,399 --> 00:06:47,119
+audience will be like will be watching
+
+242
+00:06:45,839 --> 00:06:47,999
+YouTube videos like this one, right?
+
+243
+00:06:47,120 --> 00:06:49,280
+They'll have watched all the
+
+244
+00:06:48,000 --> 00:06:50,560
+productivity content. They'll be
+
+245
+00:06:49,279 --> 00:06:51,598
+following all the gurus on Instagram and
+
+246
+00:06:50,560 --> 00:06:54,080
+Tik Tok. They'll be listening to
+
+247
+00:06:51,600 --> 00:06:55,680
+episodes of Dar CEO. And it it feels
+
+248
+00:06:54,079 --> 00:06:57,599
+good. It feels good because you're
+
+249
+00:06:55,680 --> 00:06:59,199
+consuming educational content. Even
+
+250
+00:06:57,600 --> 00:07:00,318
+books fall under this category. And for
+
+251
+00:06:59,199 --> 00:07:01,679
+the record, there is nothing wrong with
+
+252
+00:07:00,319 --> 00:07:02,399
+consuming educational content. There's
+
+253
+00:07:01,680 --> 00:07:03,440
+nothing wrong with consuming
+
+254
+00:07:02,399 --> 00:07:04,798
+entertainment content either. You know
+
+255
+00:07:03,439 --> 00:07:05,999
+what? There's nothing wrong with any of
+
+256
+00:07:04,800 --> 00:07:07,759
+this. I'm just saying that if your goal
+
+257
+00:07:06,000 --> 00:07:09,680
+is freedom and fulfillment, shifting the
+
+258
+00:07:07,759 --> 00:07:11,198
+ratio towards creation rather than
+
+259
+00:07:09,680 --> 00:07:12,959
+consumption, even if it's consumption of
+
+260
+00:07:11,199 --> 00:07:14,239
+educational content, is likely to
+
+261
+00:07:12,959 --> 00:07:15,358
+increase the probability that you get to
+
+262
+00:07:14,240 --> 00:07:16,639
+your goal. But the reason I'm also
+
+263
+00:07:15,360 --> 00:07:18,560
+including educational content in the
+
+264
+00:07:16,639 --> 00:07:20,959
+consumption camp, is because it's very,
+
+265
+00:07:18,560 --> 00:07:23,039
+very easy for educational content and
+
+266
+00:07:20,959 --> 00:07:24,798
+learning and research to fuel the
+
+267
+00:07:23,038 --> 00:07:26,638
+consumption treadmill, the research
+
+268
+00:07:24,800 --> 00:07:28,239
+rabbit hole where you're like, "Ah, I
+
+269
+00:07:26,639 --> 00:07:30,319
+know I want to start a business someday,
+
+270
+00:07:28,240 --> 00:07:31,599
+but I don't have the right idea yet.
+
+271
+00:07:30,319 --> 00:07:33,120
+Therefore, I'm going to listen to all
+
+272
+00:07:31,598 --> 00:07:34,318
+the business podcasts and I'm going to
+
+273
+00:07:33,120 --> 00:07:35,199
+maybe read all the business books and
+
+274
+00:07:34,319 --> 00:07:37,198
+I'm going to watch all the YouTube
+
+275
+00:07:35,199 --> 00:07:38,478
+tutorials of people talking about how to
+
+276
+00:07:37,199 --> 00:07:40,239
+set up a marketing agency and this that
+
+277
+00:07:38,478 --> 00:07:42,718
+and the other. It's like, yeah, okay,
+
+278
+00:07:40,240 --> 00:07:43,918
+that's all well and good, but the people
+
+279
+00:07:42,720 --> 00:07:46,720
+that actually start successful
+
+280
+00:07:43,918 --> 00:07:48,238
+businesses, they tend to be creating the
+
+281
+00:07:46,720 --> 00:07:49,680
+business and producing stuff and making
+
+282
+00:07:48,240 --> 00:07:52,079
+things and then they are learning
+
+283
+00:07:49,680 --> 00:07:54,160
+alongside that. I personally feel that
+
+284
+00:07:52,079 --> 00:07:56,239
+consumption and education and learning
+
+285
+00:07:54,160 --> 00:07:58,799
+should come on top of a foundation of
+
+286
+00:07:56,240 --> 00:08:00,799
+action and doing stuff rather than learn
+
+287
+00:07:58,800 --> 00:08:01,1000
+first do later. It is also not just me
+
+288
+00:08:00,800 --> 00:08:03,440
+who says this. There is a guy called
+
+289
+00:08:02,000 --> 00:08:04,638
+Paul Graham who is the founder of Y
+
+290
+00:08:03,439 --> 00:08:05,999
+Combinator, which is like this massive
+
+291
+00:08:04,639 --> 00:08:07,199
+startup accelerator in the US. And he
+
+292
+00:08:06,000 --> 00:08:08,399
+has a really good essay about how to
+
+293
+00:08:07,199 --> 00:08:09,759
+find work you love. And I'm going to
+
+294
+00:08:08,399 --> 00:08:11,678
+read directly from the article here.
+
+295
+00:08:09,759 --> 00:08:13,198
+Always produce. For example, if you have
+
+296
+00:08:11,680 --> 00:08:14,639
+a day job that you don't take seriously
+
+297
+00:08:13,199 --> 00:08:16,800
+because you plan to be a novelist, are
+
+298
+00:08:14,639 --> 00:08:18,559
+you producing? Are you writing pages of
+
+299
+00:08:16,800 --> 00:08:20,319
+fiction, however bad? As long as you're
+
+300
+00:08:18,560 --> 00:08:22,479
+producing, you'll know you're not merely
+
+301
+00:08:20,319 --> 00:08:24,319
+using the hazy vision of the grand novel
+
+302
+00:08:22,478 --> 00:08:25,839
+you plan to write one day as an opiate.
+
+303
+00:08:24,319 --> 00:08:27,598
+The view of it will be obstructed by the
+
+304
+00:08:25,839 --> 00:08:28,959
+all too palpably flawed one that you're
+
+305
+00:08:27,598 --> 00:08:29,839
+actually writing. There's one more quote
+
+306
+00:08:28,959 --> 00:08:31,358
+from this, but I'm going to double click
+
+307
+00:08:29,839 --> 00:08:32,718
+on this point over here right now
+
+308
+00:08:31,360 --> 00:08:34,560
+because this is a thing that I see in
+
+309
+00:08:32,719 --> 00:08:36,560
+loads of people uh at my events and
+
+310
+00:08:34,559 --> 00:08:37,918
+workshops and stuff, which is that you
+
+311
+00:08:36,559 --> 00:08:39,277
+have this vision for this thing that
+
+312
+00:08:37,918 --> 00:08:41,679
+you'd like to do, but you're not taking
+
+313
+00:08:39,278 --> 00:08:43,837
+any action towards it. And in not taking
+
+314
+00:08:41,679 --> 00:08:45,999
+the action towards it, you are doing a
+
+315
+00:08:43,839 --> 00:08:48,800
+very clear thing, which is you are
+
+316
+00:08:46,000 --> 00:08:50,639
+avoiding confronting the feeling that
+
+317
+00:08:48,799 --> 00:08:51,759
+you might be crap at the thing. I've got
+
+318
+00:08:50,639 --> 00:08:53,998
+a good friend who's been wanting to make
+
+319
+00:08:51,759 --> 00:08:56,957
+YouTube videos for like 5 years of her
+
+320
+00:08:54,000 --> 00:08:59,440
+life, like right now. And so far she's
+
+321
+00:08:56,958 --> 00:09:00,719
+made like one or two videos. And she the
+
+322
+00:08:59,440 --> 00:09:01,759
+last one she made was like years ago.
+
+323
+00:09:00,720 --> 00:09:03,039
+She admitted the other day she was like,
+
+324
+00:09:01,759 --> 00:09:05,759
+"Oh man, you know, I kind of realized
+
+325
+00:09:03,039 --> 00:09:08,558
+something. The reason why I'm just not
+
+326
+00:09:05,759 --> 00:09:10,398
+making any videos is because in my head
+
+327
+00:09:08,559 --> 00:09:11,837
+I'm a really good YouTuber and I could
+
+328
+00:09:10,399 --> 00:09:13,760
+totally make a living from being a
+
+329
+00:09:11,839 --> 00:09:15,680
+YouTuber. But I know that as soon as I
+
+330
+00:09:13,759 --> 00:09:17,278
+start making videos, I will have to
+
+331
+00:09:15,679 --> 00:09:18,319
+confront the fact that maybe that's not
+
+332
+00:09:17,278 --> 00:09:19,599
+going to happen and that maybe I'm
+
+333
+00:09:18,320 --> 00:09:22,079
+actually at the job." And that's
+
+334
+00:09:19,600 --> 00:09:23,519
+like a profoundly good insight. Like
+
+335
+00:09:22,080 --> 00:09:24,640
+when you start out doing anything,
+
+336
+00:09:23,519 --> 00:09:26,640
+you're going to suck at the thing,
+
+337
+00:09:24,639 --> 00:09:28,478
+right? It's like the gap between what
+
+338
+00:09:26,639 --> 00:09:30,719
+you know good is and what you'd like to
+
+339
+00:09:28,480 --> 00:09:32,720
+be capable of producing and what you are
+
+340
+00:09:30,720 --> 00:09:34,398
+actually producing. That gap feels
+
+341
+00:09:32,720 --> 00:09:35,518
+really scary to confront. So, if you're
+
+342
+00:09:34,399 --> 00:09:37,680
+at this point in the video, the question
+
+343
+00:09:35,519 --> 00:09:40,480
+might be to take uh an honest look at
+
+344
+00:09:37,679 --> 00:09:43,518
+your life and ask yourself, in what
+
+345
+00:09:40,480 --> 00:09:45,760
+areas am I allowing my vision of
+
+346
+00:09:43,519 --> 00:09:47,679
+perfection to stop me from actually
+
+347
+00:09:45,759 --> 00:09:49,198
+doing the messy work because I'm afraid
+
+348
+00:09:47,679 --> 00:09:50,397
+I will actually suck at the thing. And
+
+349
+00:09:49,200 --> 00:09:52,479
+you will suck at the thing. You're going
+
+350
+00:09:50,399 --> 00:09:54,240
+to suck at literally everything you
+
+351
+00:09:52,480 --> 00:09:56,319
+start out doing. And you have to suck at
+
+352
+00:09:54,240 --> 00:09:58,398
+the thing for a very long time before it
+
+353
+00:09:56,320 --> 00:10:00,879
+starts to get even vaguely good. And
+
+354
+00:09:58,399 --> 00:10:04,240
+that suck period, the period where your
+
+355
+00:10:00,879 --> 00:10:05,678
+thing is objectively is so it's so
+
+356
+00:10:04,240 --> 00:10:07,440
+uncomfortable and so scary. I think for
+
+357
+00:10:05,679 --> 00:10:08,957
+kids it's fine because especially if
+
+358
+00:10:07,440 --> 00:10:10,480
+they haven't been like had that squashed
+
+359
+00:10:08,958 --> 00:10:12,079
+out of them. Kids are just chill with
+
+360
+00:10:10,480 --> 00:10:13,519
+just being crap everything. But when
+
+361
+00:10:12,080 --> 00:10:14,398
+you're an adult, I I suspect you
+
+362
+00:10:13,519 --> 00:10:15,760
+probably are if you're watching this,
+
+363
+00:10:14,399 --> 00:10:17,120
+and especially if you've had any kind of
+
+364
+00:10:15,759 --> 00:10:19,118
+success, academic success or
+
+365
+00:10:17,120 --> 00:10:20,160
+professional success, it's easy for us,
+
+366
+00:10:19,120 --> 00:10:21,200
+people like you and me, you know, people
+
+367
+00:10:20,159 --> 00:10:23,038
+who are very intelligent and very
+
+368
+00:10:21,200 --> 00:10:24,880
+good-looking, it's easy for us to get
+
+369
+00:10:23,039 --> 00:10:26,478
+fixated on this idea that we're good at
+
+370
+00:10:24,879 --> 00:10:28,398
+doing stuff like you're good at your
+
+371
+00:10:26,480 --> 00:10:29,759
+job, you were good in school, and now
+
+372
+00:10:28,399 --> 00:10:31,040
+you try this new thing. In my case, it's
+
+373
+00:10:29,759 --> 00:10:32,158
+like drawing. In your case, maybe it's
+
+374
+00:10:31,039 --> 00:10:33,837
+like starting that business that you've
+
+375
+00:10:32,159 --> 00:10:35,759
+never done before or like being a
+
+376
+00:10:33,839 --> 00:10:37,040
+creator or whatever the thing might be.
+
+377
+00:10:35,759 --> 00:10:38,239
+You have to confront the fact that
+
+378
+00:10:37,039 --> 00:10:39,679
+you're going to be terrible at the thing
+
+379
+00:10:38,240 --> 00:10:41,679
+to begin with. And that's really really
+
+380
+00:10:39,679 --> 00:10:43,199
+scary because we have this ego image of
+
+381
+00:10:41,679 --> 00:10:45,038
+ourselves as being competent and being
+
+382
+00:10:43,200 --> 00:10:47,200
+good at stuff and we have to let go of
+
+383
+00:10:45,039 --> 00:10:48,878
+that image and just recognize that hey
+
+384
+00:10:47,200 --> 00:10:50,240
+we just got to be producing as Paul
+
+385
+00:10:48,879 --> 00:10:51,278
+Graeme says we got to be creating all
+
+386
+00:10:50,240 --> 00:10:52,800
+the time. There's another line from
+
+387
+00:10:51,278 --> 00:10:54,398
+this. Always produce is also a
+
+388
+00:10:52,799 --> 00:10:56,879
+heruristic for finding the work you
+
+389
+00:10:54,399 --> 00:10:58,639
+love. If you subject yourself to that
+
+390
+00:10:56,879 --> 00:11:00,638
+constraint, it will automatically push
+
+391
+00:10:58,639 --> 00:11:02,319
+you away from things you think you're
+
+392
+00:11:00,639 --> 00:11:04,478
+supposed to work on and towards things
+
+393
+00:11:02,320 --> 00:11:06,398
+you actually like. Always produce will
+
+394
+00:11:04,480 --> 00:11:08,239
+discover your life's work. the way water
+
+395
+00:11:06,399 --> 00:11:10,719
+with the aid of gravity finds the hole
+
+396
+00:11:08,240 --> 00:11:12,720
+in your roof. When you are making stuff
+
+397
+00:11:10,720 --> 00:11:14,079
+and you're just constantly making stuff
+
+398
+00:11:12,720 --> 00:11:15,200
+and your ratio of creation to
+
+399
+00:11:14,078 --> 00:11:17,679
+consumption is more in the creation
+
+400
+00:11:15,200 --> 00:11:19,278
+camp, you will inevitably find stuff
+
+401
+00:11:17,679 --> 00:11:21,038
+that you actually enjoy doing because
+
+402
+00:11:19,278 --> 00:11:22,798
+you'll realize you can't sustain this
+
+403
+00:11:21,039 --> 00:11:23,918
+kind of creation ratio by doing things
+
+404
+00:11:22,799 --> 00:11:25,678
+you're supposed to do, by doing the
+
+405
+00:11:23,919 --> 00:11:27,278
+shoods. You can't should yourself into
+
+406
+00:11:25,679 --> 00:11:29,118
+making YouTube videos for 8 years. You
+
+407
+00:11:27,278 --> 00:11:31,039
+have to actually at a certain point
+
+408
+00:11:29,120 --> 00:11:32,240
+start enjoying the process. And the more
+
+409
+00:11:31,039 --> 00:11:34,159
+of these things you try and the more
+
+410
+00:11:32,240 --> 00:11:35,679
+like random stuff you create, the more
+
+411
+00:11:34,159 --> 00:11:36,957
+you'll realize, oh, I actually prefer
+
+412
+00:11:35,679 --> 00:11:38,799
+creating that sort of thing rather than
+
+413
+00:11:36,958 --> 00:11:40,478
+that sort of thing. Steven Spielberg,
+
+414
+00:11:38,799 --> 00:11:42,077
+for example, was randomly making random
+
+415
+00:11:40,480 --> 00:11:43,519
+camcorder movies when he was a kid with
+
+416
+00:11:42,078 --> 00:11:44,957
+his like dad's camcorder or whatever.
+
+417
+00:11:43,519 --> 00:11:46,320
+Then he realizes, oh, I just really like
+
+418
+00:11:44,958 --> 00:11:48,478
+making these movie type things. It
+
+419
+00:11:46,320 --> 00:11:49,440
+wasn't part of some kind of grandm where
+
+420
+00:11:48,480 --> 00:11:50,560
+he was like, you know what, I'm going to
+
+421
+00:11:49,440 --> 00:11:51,920
+break into Hollywood. I'm going to be a
+
+422
+00:11:50,559 --> 00:11:53,759
+director. It's like, no, he was just
+
+423
+00:11:51,919 --> 00:11:55,599
+creating random stuff when he was a kid.
+
+424
+00:11:53,759 --> 00:11:56,879
+And in that process, he realized what
+
+425
+00:11:55,600 --> 00:11:58,320
+was the thing he liked doing. I speak to
+
+426
+00:11:56,879 --> 00:12:00,077
+a lot of people in my audience who who
+
+427
+00:11:58,320 --> 00:12:01,518
+also ask the question of like, "How do I
+
+428
+00:12:00,078 --> 00:12:02,558
+know what my passion is?" Like, "How do
+
+429
+00:12:01,519 --> 00:12:04,398
+I find the work I'm supposed to be
+
+430
+00:12:02,559 --> 00:12:05,599
+doing? How do I find work that like I
+
+431
+00:12:04,399 --> 00:12:06,720
+don't hate doing? Work that I find
+
+432
+00:12:05,600 --> 00:12:08,240
+enjoyable, work that I'm passionate
+
+433
+00:12:06,720 --> 00:12:09,518
+about, work that I find energizing." If
+
+434
+00:12:08,240 --> 00:12:11,599
+you ask most young people, "What are you
+
+435
+00:12:09,519 --> 00:12:14,799
+passionate about?" they'd be like, uh, I
+
+436
+00:12:11,600 --> 00:12:19,1000
+don't know, like scrolling and, um, I
+
+437
+00:12:14,799 --> 00:12:21,678
+don't know, like reading romanty or like
+
+438
+00:12:20,000 --> 00:12:22,959
+most people, especially who are in the
+
+439
+00:12:21,679 --> 00:12:23,919
+consumption end of the spectrum, which
+
+440
+00:12:22,958 --> 00:12:26,319
+is most people I speak to,
+
+441
+00:12:23,919 --> 00:12:27,838
+unfortunately, don't have a clear idea
+
+442
+00:12:26,320 --> 00:12:29,360
+of what they actually like doing because
+
+443
+00:12:27,839 --> 00:12:31,040
+they haven't created enough stuff. It's
+
+444
+00:12:29,360 --> 00:12:32,719
+in the process of making things that you
+
+445
+00:12:31,039 --> 00:12:34,478
+realize, oh, I actually really enjoy
+
+446
+00:12:32,720 --> 00:12:37,439
+designing websites or I really enjoy
+
+447
+00:12:34,480 --> 00:12:39,359
+building electronics or I really enjoy
+
+448
+00:12:37,440 --> 00:12:41,600
+making arts and crafts or I really enjoy
+
+449
+00:12:39,360 --> 00:12:43,680
+writing short fiction. And it's the
+
+450
+00:12:41,600 --> 00:12:46,079
+people who are spending a good chunk of
+
+451
+00:12:43,679 --> 00:12:47,679
+their time making random stuff. Those
+
+452
+00:12:46,078 --> 00:12:50,238
+are the people Paul Graham says and I
+
+453
+00:12:47,679 --> 00:12:51,359
+would agree for what it's worth end up
+
+454
+00:12:50,240 --> 00:12:53,518
+finding the work that they actually
+
+455
+00:12:51,360 --> 00:12:54,799
+enjoy. You will not find the work that
+
+456
+00:12:53,519 --> 00:12:55,999
+you enjoy. You will not discover your
+
+457
+00:12:54,799 --> 00:12:57,919
+passions. You'll not find what you were
+
+458
+00:12:56,000 --> 00:12:59,600
+meant to do by consuming stuff. You will
+
+459
+00:12:57,919 --> 00:13:00,958
+only find it by creating stuff. All
+
+460
+00:12:59,600 --> 00:13:02,320
+right, so at this point, maybe you're
+
+461
+00:13:00,958 --> 00:13:05,198
+sold. You're like, "All right, cool. I
+
+462
+00:13:02,320 --> 00:13:06,560
+want to shift my ratio of stuff from
+
+463
+00:13:05,200 --> 00:13:08,398
+away from consumption and more towards
+
+464
+00:13:06,559 --> 00:13:10,958
+creation. How do I actually do this?" I
+
+465
+00:13:08,399 --> 00:13:13,440
+have a theory on this, which is just do
+
+466
+00:13:10,958 --> 00:13:15,358
+I call it random acts of creation. Just
+
+467
+00:13:13,440 --> 00:13:16,638
+create random stuff. And there are five
+
+468
+00:13:15,360 --> 00:13:18,159
+characteristics that I would recommend
+
+469
+00:13:16,639 --> 00:13:20,720
+for the stuff that you create. It needs
+
+470
+00:13:18,159 --> 00:13:23,119
+to be small, needs to be fast, needs to
+
+471
+00:13:20,720 --> 00:13:26,319
+be bad, needs to be stupid, and it needs
+
+472
+00:13:23,120 --> 00:13:28,240
+to be pointless. small, bad, fast,
+
+473
+00:13:26,320 --> 00:13:29,839
+stupid, and pointless. That is the
+
+474
+00:13:28,240 --> 00:13:31,200
+guiding characteristics of the of the
+
+475
+00:13:29,839 --> 00:13:32,799
+stuff that you should create. Why? Okay.
+
+476
+00:13:31,200 --> 00:13:33,838
+Well, firstly, it needs to be small.
+
+477
+00:13:32,799 --> 00:13:36,638
+Small enough that you can probably just
+
+478
+00:13:33,839 --> 00:13:37,920
+do it in a weekend or a week or in like,
+
+479
+00:13:36,639 --> 00:13:39,119
+you know, the Christmas holidays or in
+
+480
+00:13:37,919 --> 00:13:40,077
+the summer holidays or whenever you take
+
+481
+00:13:39,120 --> 00:13:41,439
+time off work or whatever the thing
+
+482
+00:13:40,078 --> 00:13:42,879
+might be. It needs to be small and
+
+483
+00:13:41,440 --> 00:13:44,160
+manageable, fast. It needs to be
+
+484
+00:13:42,879 --> 00:13:45,678
+something you can make quickly. If
+
+485
+00:13:44,159 --> 00:13:47,038
+you're trying to, you know, your first
+
+486
+00:13:45,679 --> 00:13:48,397
+random act of creation is to write an
+
+487
+00:13:47,039 --> 00:13:49,918
+epic fantasy, it's probably not going to
+
+488
+00:13:48,399 --> 00:13:51,359
+happen because it's like too big. where
+
+489
+00:13:49,919 --> 00:13:53,119
+starting with short stories is generally
+
+490
+00:13:51,360 --> 00:13:54,320
+a way easier way to get into the writing
+
+491
+00:13:53,120 --> 00:13:56,160
+thing and get in and get into the
+
+492
+00:13:54,320 --> 00:13:57,279
+creative act. Thirdly, bad. Well, it
+
+493
+00:13:56,159 --> 00:13:59,359
+should be bad because if you are
+
+494
+00:13:57,278 --> 00:14:01,678
+actively aiming for the thing to be bad,
+
+495
+00:13:59,360 --> 00:14:03,440
+you are hopefully going to avoid all of
+
+496
+00:14:01,679 --> 00:14:05,198
+the resistance traps that the ego tries
+
+497
+00:14:03,440 --> 00:14:06,959
+to put in place where if you try and
+
+498
+00:14:05,198 --> 00:14:07,999
+create something good, but you've never
+
+499
+00:14:06,958 --> 00:14:08,718
+done it before, you will suck at the
+
+500
+00:14:08,000 --> 00:14:09,919
+thing and then you're going to be
+
+501
+00:14:08,720 --> 00:14:11,440
+perfectionistic about it and then the
+
+502
+00:14:09,919 --> 00:14:13,838
+fear and the uncertainty and the doubt
+
+503
+00:14:11,440 --> 00:14:15,198
+and the imposter syndrome and all the I
+
+504
+00:14:13,839 --> 00:14:16,399
+suck and I shouldn't even be on this
+
+505
+00:14:15,198 --> 00:14:17,598
+earth. All all of the things that the
+
+506
+00:14:16,399 --> 00:14:19,198
+mind likes to say, all of those things
+
+507
+00:14:17,600 --> 00:14:20,959
+are going to get in the way. Whereas, if
+
+508
+00:14:19,198 --> 00:14:23,837
+you aim for it to be bad, you're like,
+
+509
+00:14:20,958 --> 00:14:25,679
+"My goal is to make something bad." It
+
+510
+00:14:23,839 --> 00:14:27,519
+suddenly sort of removes a lot of that
+
+511
+00:14:25,679 --> 00:14:28,957
+like random crap that's associated with
+
+512
+00:14:27,519 --> 00:14:30,160
+trying to make something good. So, it
+
+513
+00:14:28,958 --> 00:14:31,918
+needs to be small, it needs to be fast,
+
+514
+00:14:30,159 --> 00:14:33,598
+it needs to be bad. It also needs to be
+
+515
+00:14:31,919 --> 00:14:35,039
+stupid. The thing should be stupid
+
+516
+00:14:33,600 --> 00:14:36,560
+because if you tell yourself that the
+
+517
+00:14:35,039 --> 00:14:38,318
+thing is not stupid, it's going to allow
+
+518
+00:14:36,559 --> 00:14:39,837
+the fear of what other people think to
+
+519
+00:14:38,320 --> 00:14:41,1000
+get in the way of you and your active
+
+520
+00:14:39,839 --> 00:14:43,600
+creation. Whereas if you if you actively
+
+521
+00:14:42,000 --> 00:14:45,278
+just say to yourself, "Hey, I'm just
+
+522
+00:14:43,600 --> 00:14:46,479
+making this dumb stupid thing." It gives
+
+523
+00:14:45,278 --> 00:14:47,758
+you way more permission to do something
+
+524
+00:14:46,480 --> 00:14:49,198
+weird, to do something that your friends
+
+525
+00:14:47,759 --> 00:14:50,319
+may not necessarily approve of, to do
+
+526
+00:14:49,198 --> 00:14:51,838
+something that might be a little bit off
+
+527
+00:14:50,320 --> 00:14:53,920
+the beaten track. If you tell yourself,
+
+528
+00:14:51,839 --> 00:14:55,759
+"This is a dumb stupid thing." And
+
+529
+00:14:53,919 --> 00:14:57,197
+finally, the thing should be pointless
+
+530
+00:14:55,759 --> 00:14:59,038
+because if there is an instrumental
+
+531
+00:14:57,198 --> 00:15:01,278
+purpose to the thing beyond just the
+
+532
+00:14:59,039 --> 00:15:02,958
+intrinsic value in creating the thing,
+
+533
+00:15:01,278 --> 00:15:04,238
+that also adds loads and loads of
+
+534
+00:15:02,958 --> 00:15:05,759
+pressure to the thing. So for example,
+
+535
+00:15:04,240 --> 00:15:07,518
+my brother my brother is one year
+
+536
+00:15:05,759 --> 00:15:08,957
+younger than me and when he was in
+
+537
+00:15:07,519 --> 00:15:11,360
+school and a little bit at university,
+
+538
+00:15:08,958 --> 00:15:13,599
+he decided to make random uh small,
+
+539
+00:15:11,360 --> 00:15:15,760
+fast, bad, stupid, pointless, like three
+
+540
+00:15:13,600 --> 00:15:17,278
+random projects. One of them was a
+
+541
+00:15:15,759 --> 00:15:19,517
+website where you would just click a
+
+542
+00:15:17,278 --> 00:15:21,359
+button and the number would go up and it
+
+543
+00:15:19,519 --> 00:15:23,039
+was there would be leaderboards of like
+
+544
+00:15:21,360 --> 00:15:24,799
+who's clicked the button the most times.
+
+545
+00:15:23,039 --> 00:15:26,398
+And this was I think the first website
+
+546
+00:15:24,799 --> 00:15:27,678
+that he made. He'd watched The Social
+
+547
+00:15:26,399 --> 00:15:29,120
+Network, the film about Facebook, and he
+
+548
+00:15:27,679 --> 00:15:30,638
+was inspired to learn to code and he
+
+549
+00:15:29,120 --> 00:15:32,240
+realized he just needs to make this
+
+550
+00:15:30,639 --> 00:15:33,518
+fast, small, dumb, stupid, pointless
+
+551
+00:15:32,240 --> 00:15:34,720
+project. I'm sure he won't mind me
+
+552
+00:15:33,519 --> 00:15:35,919
+saying that, but yeah, it was dumb,
+
+553
+00:15:34,720 --> 00:15:37,119
+stupid, and pointless. It's a random
+
+554
+00:15:35,919 --> 00:15:38,637
+website called Clickfilia where you just
+
+555
+00:15:37,120 --> 00:15:41,278
+click a button um and then there's a
+
+556
+00:15:38,639 --> 00:15:43,440
+leaderboard. But that random tiny ass
+
+557
+00:15:41,278 --> 00:15:45,278
+project taught him some of the basics of
+
+558
+00:15:43,440 --> 00:15:47,600
+learning how to code. The next thing he
+
+559
+00:15:45,278 --> 00:15:49,919
+made was another small small, fast, bad,
+
+560
+00:15:47,600 --> 00:15:51,359
+stupid, dumb, pointless project, which
+
+561
+00:15:49,919 --> 00:15:52,958
+was called speed sums. I think it might
+
+562
+00:15:51,360 --> 00:15:54,719
+still be online, which was basically a
+
+563
+00:15:52,958 --> 00:15:57,358
+website where it would just give you
+
+564
+00:15:54,720 --> 00:15:58,880
+like 30 different sums like 5 plus 3 and
+
+565
+00:15:57,360 --> 00:16:00,560
+7 plus 4, kind of like the brain
+
+566
+00:15:58,879 --> 00:16:01,919
+training Nintendo DS game from back in
+
+567
+00:16:00,559 --> 00:16:03,438
+the day. And it would be a little test
+
+568
+00:16:01,919 --> 00:16:04,637
+to see how quickly you could solve these
+
+569
+00:16:03,440 --> 00:16:05,758
+sums. And again, there was a leaderboard
+
+570
+00:16:04,639 --> 00:16:07,039
+or something like that. Now, I remember
+
+571
+00:16:05,759 --> 00:16:08,959
+when he was making these random
+
+572
+00:16:07,039 --> 00:16:10,398
+projects, our mom would ask him, "Hey,
+
+573
+00:16:08,958 --> 00:16:12,078
+what's the point?" And he'd be like,
+
+574
+00:16:10,399 --> 00:16:13,439
+"Yeah, there's no point. I'm just doing
+
+575
+00:16:12,078 --> 00:16:16,398
+it for fun." And she'd be like, "All
+
+576
+00:16:13,440 --> 00:16:18,800
+right, then." And that's very good. It's
+
+577
+00:16:16,399 --> 00:16:20,879
+good that he felt the he felt able to
+
+578
+00:16:18,799 --> 00:16:22,558
+make pointless stuff. The problem that a
+
+579
+00:16:20,879 --> 00:16:24,158
+lot of smart people have, especially
+
+580
+00:16:22,559 --> 00:16:26,078
+when you become adults, because again,
+
+581
+00:16:24,159 --> 00:16:28,078
+adults are very adults are very used to
+
+582
+00:16:26,078 --> 00:16:30,159
+optimizing for CV points and like what
+
+583
+00:16:28,078 --> 00:16:31,758
+good what looks good on the resume.
+
+584
+00:16:30,159 --> 00:16:33,758
+Adults are like, "Oh man, I don't want
+
+585
+00:16:31,759 --> 00:16:35,759
+to waste time doing this pointless thing
+
+586
+00:16:33,759 --> 00:16:37,198
+because I could be spending my time
+
+587
+00:16:35,759 --> 00:16:38,078
+investing it more wisely to do this
+
+588
+00:16:37,198 --> 00:16:39,919
+thing that might lead to something
+
+589
+00:16:38,078 --> 00:16:41,919
+further down the line." The more you try
+
+590
+00:16:39,919 --> 00:16:43,919
+and get your random smallass tiny
+
+591
+00:16:41,919 --> 00:16:45,758
+creative projects to lead to something
+
+592
+00:16:43,919 --> 00:16:47,119
+further down the line, the more pressure
+
+593
+00:16:45,759 --> 00:16:48,560
+you're going to put on yourself to make
+
+594
+00:16:47,120 --> 00:16:49,999
+those things actually good and to make
+
+595
+00:16:48,559 --> 00:16:51,679
+them purposeful and to make them like
+
+596
+00:16:50,000 --> 00:16:53,439
+meaningful and have a point to them and
+
+597
+00:16:51,679 --> 00:16:54,558
+the less likely you are to do it. If
+
+598
+00:16:53,440 --> 00:16:56,239
+you're at this point in the video and
+
+599
+00:16:54,559 --> 00:16:58,159
+you are concerned about your creation to
+
+600
+00:16:56,240 --> 00:17:00,560
+consumption ratio, we just want to lower
+
+601
+00:16:58,159 --> 00:17:02,159
+the bar for what counts as creation as
+
+602
+00:17:00,559 --> 00:17:03,518
+much as is humanly possible because
+
+603
+00:17:02,159 --> 00:17:05,198
+chances are if you haven't started
+
+604
+00:17:03,519 --> 00:17:06,318
+creating a lot of stuff already, which I
+
+605
+00:17:05,199 --> 00:17:07,360
+suspect is true if you're at this point
+
+606
+00:17:06,318 --> 00:17:08,639
+in the video, but if you haven't done
+
+607
+00:17:07,359 --> 00:17:10,798
+that, it's probably because you're being
+
+608
+00:17:08,640 --> 00:17:12,240
+held back by the bar for a creative
+
+609
+00:17:10,798 --> 00:17:13,677
+thing just being way too high. When my
+
+610
+00:17:12,240 --> 00:17:14,958
+brother was making randomass websites,
+
+611
+00:17:13,679 --> 00:17:16,319
+he did not think there was a point. He
+
+612
+00:17:14,959 --> 00:17:17,600
+just did it for the fun of it. And
+
+613
+00:17:16,318 --> 00:17:18,798
+making those, this is where I was going
+
+614
+00:17:17,599 --> 00:17:20,719
+to go with the story, making these
+
+615
+00:17:18,798 --> 00:17:22,718
+random small tiny ass projects, what
+
+616
+00:17:20,720 --> 00:17:24,159
+that meant was he learned how to code.
+
+617
+00:17:22,720 --> 00:17:25,199
+I'm very bullish on learning how to code
+
+618
+00:17:24,160 --> 00:17:26,318
+as you guys might know if you've seen
+
+619
+00:17:25,199 --> 00:17:27,839
+some of the content. So he did all these
+
+620
+00:17:26,318 --> 00:17:29,278
+like pointless shitty projects when he
+
+621
+00:17:27,838 --> 00:17:30,718
+was at school in university and then he
+
+622
+00:17:29,279 --> 00:17:32,479
+graduated. He did a degree in maths and
+
+623
+00:17:30,720 --> 00:17:34,240
+then did a masters in like statistics
+
+624
+00:17:32,480 --> 00:17:36,480
+and then got a job as a data scientist
+
+625
+00:17:34,240 --> 00:17:38,799
+at some company. And a year into his
+
+626
+00:17:36,480 --> 00:17:41,199
+job, he was like, "Wait a minute. Um,
+
+627
+00:17:38,798 --> 00:17:42,639
+there's this clear like Monte Carlo
+
+628
+00:17:41,200 --> 00:17:44,880
+simulation thing that we're having to
+
+629
+00:17:42,640 --> 00:17:45,840
+use like Excel, Microsoft Excel for, but
+
+630
+00:17:44,880 --> 00:17:47,038
+what if we could just build some
+
+631
+00:17:45,839 --> 00:17:49,118
+software that does Monte Carlo
+
+632
+00:17:47,038 --> 00:17:50,639
+simulation statistical modeling for
+
+633
+00:17:49,119 --> 00:17:52,478
+finance teams? And what if we could just
+
+634
+00:17:50,640 --> 00:17:53,999
+like turn that into a startup?" And that
+
+635
+00:17:52,480 --> 00:17:56,798
+was the business called Cosal that he
+
+636
+00:17:54,000 --> 00:17:59,519
+started like in 2019. And he sold the
+
+637
+00:17:56,798 --> 00:18:02,158
+company recently and is living a great
+
+638
+00:17:59,519 --> 00:18:03,918
+life and stuff. Um, but he wouldn't have
+
+639
+00:18:02,160 --> 00:18:05,599
+learned how to code if he hadn't done
+
+640
+00:18:03,919 --> 00:18:06,879
+these small, shitty, pointless projects.
+
+641
+00:18:05,599 --> 00:18:09,759
+Doing those small, shitty, pointless
+
+642
+00:18:06,880 --> 00:18:12,240
+projects ended up giving him the skills
+
+643
+00:18:09,759 --> 00:18:14,239
+to then see and capitalize upon a
+
+644
+00:18:12,240 --> 00:18:15,599
+startup opportunity like 6 years later.
+
+645
+00:18:14,240 --> 00:18:16,799
+The other benefit of random act of
+
+646
+00:18:15,599 --> 00:18:18,878
+creation, which is I'm kind of alluding
+
+647
+00:18:16,798 --> 00:18:21,198
+to, is that they teach you stuff. They
+
+648
+00:18:18,880 --> 00:18:22,480
+teach you skills. You never know when a
+
+649
+00:18:21,200 --> 00:18:23,999
+certain combination of skills is going
+
+650
+00:18:22,480 --> 00:18:25,1000
+to come in handy. For example, if you
+
+651
+00:18:24,000 --> 00:18:27,759
+were someone who did played a lot of
+
+652
+00:18:26,000 --> 00:18:29,439
+chess and you had chess lessons and you
+
+653
+00:18:27,759 --> 00:18:31,198
+were also someone who was making like
+
+654
+00:18:29,440 --> 00:18:32,719
+random home videos with like your phone
+
+655
+00:18:31,200 --> 00:18:34,160
+or your camcorder back in the day, you
+
+656
+00:18:32,720 --> 00:18:35,679
+probably wouldn't have predicted 10
+
+657
+00:18:34,160 --> 00:18:36,880
+years ago that during the pandemic there
+
+658
+00:18:35,679 --> 00:18:38,960
+would be a TV show called The Queen's
+
+659
+00:18:36,880 --> 00:18:41,280
+Gambit, which would suddenly make
+
+660
+00:18:38,960 --> 00:18:42,799
+streaming chess a massively popular
+
+661
+00:18:41,279 --> 00:18:43,678
+thing on the internet and loads of
+
+662
+00:18:42,798 --> 00:18:44,719
+people are suddenly going to start
+
+663
+00:18:43,679 --> 00:18:45,840
+getting into chess. you probably
+
+664
+00:18:44,720 --> 00:18:47,599
+wouldn't have predicted any of those
+
+665
+00:18:45,839 --> 00:18:49,037
+things. But if you had been someone who
+
+666
+00:18:47,599 --> 00:18:51,119
+was like super into chess and also super
+
+667
+00:18:49,038 --> 00:18:52,558
+into like making videos and stuff, you
+
+668
+00:18:51,119 --> 00:18:54,398
+might have been able to combine those
+
+669
+00:18:52,558 --> 00:18:56,239
+two interesting like random unrelated
+
+670
+00:18:54,400 --> 00:18:57,919
+skills to create something very very
+
+671
+00:18:56,240 --> 00:18:59,760
+interesting and now make a living as
+
+672
+00:18:57,919 --> 00:19:01,120
+like a chess content creator if that's
+
+673
+00:18:59,759 --> 00:19:02,158
+what you're into. For me, the stuff I
+
+674
+00:19:01,119 --> 00:19:03,438
+was creating back when I was in school
+
+675
+00:19:02,160 --> 00:19:05,360
+was like random websites. I was trying
+
+676
+00:19:03,440 --> 00:19:06,559
+to build random websites. Um, a because
+
+677
+00:19:05,359 --> 00:19:08,079
+I thought they were fun, b cuz I wanted
+
+678
+00:19:06,558 --> 00:19:09,678
+to learn to code and and c because I
+
+679
+00:19:08,079 --> 00:19:11,038
+thought, "Ooh, maybe one day I can make
+
+680
+00:19:09,679 --> 00:19:12,159
+a website that makes money." So, they
+
+681
+00:19:11,038 --> 00:19:13,599
+didn't quite fit the pointless thing.
+
+682
+00:19:12,160 --> 00:19:15,039
+Actually, a lot of them are pointless,
+
+683
+00:19:13,599 --> 00:19:16,878
+like a personal website for myself and
+
+684
+00:19:15,038 --> 00:19:18,159
+like forum signatures and random stuff.
+
+685
+00:19:16,880 --> 00:19:19,279
+Learning how to use Photoshop, learning
+
+686
+00:19:18,160 --> 00:19:20,640
+how to use Dreamweaver, learning the
+
+687
+00:19:19,279 --> 00:19:21,999
+basics of how to code. I could not have
+
+688
+00:19:20,640 --> 00:19:23,760
+known that six years later when I would
+
+689
+00:19:22,000 --> 00:19:25,039
+get into medical school, those website
+
+690
+00:19:23,759 --> 00:19:26,239
+design skills would come in handy
+
+691
+00:19:25,038 --> 00:19:27,518
+because that's what allowed me to build
+
+692
+00:19:26,240 --> 00:19:28,880
+my first business. I couldn't have known
+
+693
+00:19:27,519 --> 00:19:30,079
+that 10 years after I got into med
+
+694
+00:19:28,880 --> 00:19:31,678
+school when I was working towards a
+
+695
+00:19:30,079 --> 00:19:33,678
+residency in plastic surgery, I would
+
+696
+00:19:31,679 --> 00:19:35,520
+end up meeting these people who needed a
+
+697
+00:19:33,679 --> 00:19:37,119
+guide to design their website. And so
+
+698
+00:19:35,519 --> 00:19:38,639
+that's what allowed me to get in with
+
+699
+00:19:37,119 --> 00:19:39,359
+these like hot shot plastic surgeons who
+
+700
+00:19:38,640 --> 00:19:40,559
+were doing like really cool
+
+701
+00:19:39,359 --> 00:19:42,158
+reconstructive surgery all over the
+
+702
+00:19:40,558 --> 00:19:43,598
+world because I was their web master. I
+
+703
+00:19:42,160 --> 00:19:45,280
+was just some random medical student,
+
+704
+00:19:43,599 --> 00:19:47,038
+but I knew how to make websites. And so
+
+705
+00:19:45,279 --> 00:19:48,557
+it's like this randomass skill which I
+
+706
+00:19:47,038 --> 00:19:50,399
+randomly learned when I was like 15
+
+707
+00:19:48,558 --> 00:19:52,078
+years old ended up coming in handy 10
+
+708
+00:19:50,400 --> 00:19:53,360
+years later and getting me into this
+
+709
+00:19:52,079 --> 00:19:54,719
+like network that would have been really
+
+710
+00:19:53,359 --> 00:19:56,638
+hard to penetrate otherwise. And if you
+
+711
+00:19:54,720 --> 00:19:58,079
+read biographies of successful founders
+
+712
+00:19:56,640 --> 00:20:00,320
+and if you listen to podcast interviews
+
+713
+00:19:58,079 --> 00:20:02,878
+with like anyone that you look up to and
+
+714
+00:20:00,319 --> 00:20:04,078
+the host asks them about like what what
+
+715
+00:20:02,880 --> 00:20:06,400
+sort of stuff they were doing when they
+
+716
+00:20:04,079 --> 00:20:08,399
+were younger, a lot of it is based
+
+717
+00:20:06,400 --> 00:20:09,839
+around random acts of creation rather
+
+718
+00:20:08,400 --> 00:20:11,038
+than just loads and loads and loads of
+
+719
+00:20:09,839 --> 00:20:12,798
+consumption. Now, one of the issues that
+
+720
+00:20:11,038 --> 00:20:14,958
+you're probably going to find when you
+
+721
+00:20:12,798 --> 00:20:15,999
+start creating more stuff, especially if
+
+722
+00:20:14,960 --> 00:20:17,359
+you do it publicly, and I would
+
+723
+00:20:16,000 --> 00:20:18,960
+recommend you to do it publicly, because
+
+724
+00:20:17,359 --> 00:20:20,238
+putting stuff out there publicly, even
+
+725
+00:20:18,960 --> 00:20:21,678
+if no one reads it, even if no one
+
+726
+00:20:20,240 --> 00:20:23,440
+watches it, even if it's a newsletter
+
+727
+00:20:21,679 --> 00:20:25,280
+that you only subscribe to, even if it's
+
+728
+00:20:23,440 --> 00:20:26,640
+an Instagram that has zero followers,
+
+729
+00:20:25,279 --> 00:20:28,239
+even if it's a website that no one ever
+
+730
+00:20:26,640 --> 00:20:30,720
+visits, there's something about putting
+
+731
+00:20:28,240 --> 00:20:32,480
+stuff out there publicly that confronts
+
+732
+00:20:30,720 --> 00:20:33,999
+a lot of the emotional hurdles that hold
+
+733
+00:20:32,480 --> 00:20:35,520
+people back from stuff in general, like
+
+734
+00:20:34,000 --> 00:20:37,439
+fear and imposter syndrome and doubt and
+
+735
+00:20:35,519 --> 00:20:38,958
+all the stuff. But what you're probably
+
+736
+00:20:37,440 --> 00:20:41,039
+going to find when you start creating
+
+737
+00:20:38,960 --> 00:20:42,719
+stuff and you put it out publicly is you
+
+738
+00:20:41,038 --> 00:20:44,797
+might be familiar with this idea of tall
+
+739
+00:20:42,720 --> 00:20:47,439
+poppy syndrome, which is the people
+
+740
+00:20:44,798 --> 00:20:49,677
+around you, your peers,
+
+741
+00:20:47,440 --> 00:20:51,279
+probably they won't care. But if you
+
+742
+00:20:49,679 --> 00:20:52,880
+have a particularly judgmental set of
+
+743
+00:20:51,279 --> 00:20:54,557
+peers and friends and people in your
+
+744
+00:20:52,880 --> 00:20:56,400
+family and whatever people people that
+
+745
+00:20:54,558 --> 00:20:57,998
+you work with, there's this idea of tall
+
+746
+00:20:56,400 --> 00:20:59,360
+puppy syndrome where everyone is sort of
+
+747
+00:20:58,000 --> 00:21:00,960
+here and then you're sort of sticking
+
+748
+00:20:59,359 --> 00:21:02,959
+your head up as the tall puppy and the
+
+749
+00:21:00,960 --> 00:21:04,879
+tall poppy gets cut down. People don't
+
+750
+00:21:02,960 --> 00:21:08,158
+like it when you are doing something
+
+751
+00:21:04,880 --> 00:21:08,960
+that is outside of the norm. Unless you
+
+752
+00:21:08,159 --> 00:21:09,840
+have a particularly supportive
+
+753
+00:21:08,960 --> 00:21:11,039
+friendship group, in which case,
+
+754
+00:21:09,839 --> 00:21:12,319
+fantastic. You should you should
+
+755
+00:21:11,038 --> 00:21:13,678
+definitely keep them around. But people
+
+756
+00:21:12,319 --> 00:21:15,519
+generally don't like it. And so there is
+
+757
+00:21:13,679 --> 00:21:18,320
+a chance that you might experience some
+
+758
+00:21:15,519 --> 00:21:20,158
+social backlash to doing creative stuff
+
+759
+00:21:18,319 --> 00:21:21,758
+and putting it out there. And I think
+
+760
+00:21:20,159 --> 00:21:23,679
+this is a good thing. This is actually a
+
+761
+00:21:21,759 --> 00:21:25,598
+sign that you're on the right track. If
+
+762
+00:21:23,679 --> 00:21:28,558
+you don't want to be like all of the
+
+763
+00:21:25,599 --> 00:21:30,639
+people around you, then exp then feeling
+
+764
+00:21:28,558 --> 00:21:32,158
+their social backlash is probably a good
+
+765
+00:21:30,640 --> 00:21:33,760
+thing. it's probably a sign that you're
+
+766
+00:21:32,159 --> 00:21:35,599
+roughly on the right tracks. Obviously,
+
+767
+00:21:33,759 --> 00:21:36,719
+don't experience social backlash by like
+
+768
+00:21:35,599 --> 00:21:38,558
+doing something illegal or something
+
+769
+00:21:36,720 --> 00:21:40,159
+like actively harmful. But if you're
+
+770
+00:21:38,558 --> 00:21:41,759
+experiencing social backlash, if people
+
+771
+00:21:40,159 --> 00:21:43,119
+are laughing at you or people that think
+
+772
+00:21:41,759 --> 00:21:44,479
+it's cringe that you've started an
+
+773
+00:21:43,119 --> 00:21:46,639
+Instagram account or whatever the thing
+
+774
+00:21:44,480 --> 00:21:48,239
+is, that's a sign that you are stepping
+
+775
+00:21:46,640 --> 00:21:49,840
+outside of your comfort zone and and
+
+776
+00:21:48,240 --> 00:21:51,360
+stepping outside of the comfort zone of
+
+777
+00:21:49,839 --> 00:21:53,359
+the crabs that you surround yourself
+
+778
+00:21:51,359 --> 00:21:54,718
+with. My wife Izzy, she like a few years
+
+779
+00:21:53,359 --> 00:21:56,479
+ago before she became a YouTuber, she
+
+780
+00:21:54,720 --> 00:21:57,999
+started an Instagram account because she
+
+781
+00:21:56,480 --> 00:21:59,759
+got super into gardening during the
+
+782
+00:21:58,000 --> 00:22:01,279
+pandemic and so she started a gardening
+
+783
+00:21:59,759 --> 00:22:02,879
+themed Instagram account that's like an
+
+784
+00:22:01,279 --> 00:22:04,078
+act of creation. It's like planting
+
+785
+00:22:02,880 --> 00:22:05,600
+seeds and trying to get into gardening
+
+786
+00:22:04,079 --> 00:22:06,878
+and you know snapping photos of it to
+
+787
+00:22:05,599 --> 00:22:09,199
+sort of document the journey on a sort
+
+788
+00:22:06,880 --> 00:22:10,960
+of on an Instagram account. But somehow
+
+789
+00:22:09,200 --> 00:22:12,559
+some girls in med school, it was it was
+
+790
+00:22:10,960 --> 00:22:15,280
+mostly girls, uh, found out about this
+
+791
+00:22:12,558 --> 00:22:16,399
+Instagram account and um, she heard that
+
+792
+00:22:15,279 --> 00:22:17,678
+people were laughing at her behind her
+
+793
+00:22:16,400 --> 00:22:18,880
+back, like handful of people being like,
+
+794
+00:22:17,679 --> 00:22:19,1000
+"Oh my god, I can't believe he's
+
+795
+00:22:18,880 --> 00:22:21,520
+starting an Instagram account. Like,
+
+796
+00:22:20,000 --> 00:22:23,600
+lol, that's so cringe." You know, all of
+
+797
+00:22:21,519 --> 00:22:24,958
+all of that sort of stuff. And it made
+
+798
+00:22:23,599 --> 00:22:26,079
+her feel really bad. But, you know, she
+
+799
+00:22:24,960 --> 00:22:27,359
+continued with the gardening Instagram
+
+800
+00:22:26,079 --> 00:22:29,358
+account. Starting the Instagram account
+
+801
+00:22:27,359 --> 00:22:31,037
+gave her the sort of uh, confidence to
+
+802
+00:22:29,359 --> 00:22:32,079
+then start a YouTube channel. Starting a
+
+803
+00:22:31,038 --> 00:22:33,038
+YouTube channel has completely changed
+
+804
+00:22:32,079 --> 00:22:34,719
+her life because now she has like
+
+805
+00:22:33,038 --> 00:22:36,158
+700,000 subscribers and is like able to
+
+806
+00:22:34,720 --> 00:22:37,280
+live life that she wants and is able to
+
+807
+00:22:36,159 --> 00:22:39,760
+make more money from YouTube than she
+
+808
+00:22:37,279 --> 00:22:42,319
+does through medicine. And the point is
+
+809
+00:22:39,759 --> 00:22:43,999
+when you start doing stuff,
+
+810
+00:22:42,319 --> 00:22:45,279
+especially creative things, especially
+
+811
+00:22:44,000 --> 00:22:47,439
+things that push the boat out a little
+
+812
+00:22:45,279 --> 00:22:49,759
+bit, you might find that the people
+
+813
+00:22:47,440 --> 00:22:51,840
+around you, some people around you will
+
+814
+00:22:49,759 --> 00:22:54,079
+judge you for that. Mostly they won't.
+
+815
+00:22:51,839 --> 00:22:55,519
+Most of us worry way more than we should
+
+816
+00:22:54,079 --> 00:22:57,038
+about what the people around us think.
+
+817
+00:22:55,519 --> 00:22:59,038
+But if you have a very
+
+818
+00:22:57,038 --> 00:23:01,759
+judgmental friendship group or group of
+
+819
+00:22:59,038 --> 00:23:03,198
+peers, they might laugh at you. And you
+
+820
+00:23:01,759 --> 00:23:04,479
+got to be okay with that. Because if you
+
+821
+00:23:03,200 --> 00:23:05,679
+want to work towards freedom, the people
+
+822
+00:23:04,480 --> 00:23:07,520
+who laugh at you are probably not the
+
+823
+00:23:05,679 --> 00:23:09,520
+ones working towards freedom. Social
+
+824
+00:23:07,519 --> 00:23:11,759
+disapproval in a creative context is
+
+825
+00:23:09,519 --> 00:23:13,358
+generally a sign that you are on the
+
+826
+00:23:11,759 --> 00:23:15,279
+right track because you are stepping
+
+827
+00:23:13,359 --> 00:23:17,037
+outside of your comfort zone and you are
+
+828
+00:23:15,279 --> 00:23:18,959
+learning skills. And in the process of
+
+829
+00:23:17,038 --> 00:23:20,719
+learning those skills, you will sort of
+
+830
+00:23:18,960 --> 00:23:21,839
+skill stack to a point where if your
+
+831
+00:23:20,720 --> 00:23:23,918
+goal is freedom, if your goal is
+
+832
+00:23:21,839 --> 00:23:25,198
+fulfillment, doing the creative stuff is
+
+833
+00:23:23,919 --> 00:23:26,319
+going to be is going to make it way more
+
+834
+00:23:25,200 --> 00:23:27,440
+likely that you'll hit both of those
+
+835
+00:23:26,319 --> 00:23:28,399
+goals. Thank you for coming to my TED
+
+836
+00:23:27,440 --> 00:23:29,839
+talk. I hope you found this video
+
+837
+00:23:28,400 --> 00:23:31,839
+useful. And if you did and you haven't
+
+838
+00:23:29,839 --> 00:23:33,198
+yet seen my video on how to get rich,
+
+839
+00:23:31,839 --> 00:23:34,798
+maybe I suspect you might want to watch
+
+840
+00:23:33,200 --> 00:23:36,320
+that because it sort of is somewhat
+
+841
+00:23:34,798 --> 00:23:37,198
+related to the stuff in this video. So,
+
+842
+00:23:36,319 --> 00:23:38,079
+thank you so much for watching. Have a
+
+843
+00:23:37,200 --> 00:23:40,159
+lovely day and I'll see you in the next
+
+844
+00:23:38,079 --> 00:23:40,158
+video.
+
