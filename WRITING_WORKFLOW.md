@@ -161,6 +161,22 @@ material/Productivity Club - 017 - How I Manage My Time - The Trident Calendar S
 
 ---
 
+## 🧩 规则：语法 / 格式 / 排版错误由 Codex 自修复（强制）
+
+从现在起，本项目的所有写作与代码改动遵循：
+
+- **发现语法、格式、排版问题（如 Markdown 标题层级、列表缩进、`
+` 字面量、空行、错别字、标点、代码块围栏等）→ 默认先让 Codex 修复**。
+- 人工只做“验收与审阅”，不做逐行修补（除非紧急且很小）。
+- 修复必须以 **可复现的 Codex 指令** 记录在 commit/PR 描述里（方便复盘）。
+
+推荐命令模板：
+```bash
+codex exec --sandbox danger-full-access "请修复 <file> 的 Markdown 语法/格式/排版问题：...（列出要点）...。要求：不改变内容含义，仅做格式与可读性优化；最后输出：修复清单 + 改动摘要。"
+```
+
+---
+
 ## 🎯 写作检查清单
 
 ### 章节完整性
