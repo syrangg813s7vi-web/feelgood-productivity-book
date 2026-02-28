@@ -18,32 +18,36 @@
 
 ---
 
-## 🤖 如何使用Codex写作
+## 🤖 如何使用 Claude 写作
+
+### ⚠️ 重要决策
+**本项目使用 Claude 进行写作，不使用 Codex。**
+
+详见：`CLAUDE_WRITING_CONFIG.md`
 
 ### 基本流程
 
-1. **启动写作**
+1. **启动写作（通过 PM Agent）**
    ```
-   对Codex说："继续写第5章"
+   PM Agent 派生 Claude writing agent
    ```
 
-2. **Codex会自动**:
+2. **Claude 会自动**:
    - 读取项目状态
-   - 查看原始素材
+   - 查看原始素材（如需要）
    - 分析已完成章节的风格
-   - 续写新章节内容
-   - 保存到book/目录
+   - 撰写新章节内容
+   - 保存到 book/ 目录
 
 3. **审核和修改**
    ```
-   对Codex说："优化第5章的案例部分"
-   "添加更多实战例子"
-   "检查章节之间的连贯性"
+   通过 PM Agent 请求修改："优化第X章的案例部分"
    ```
 
-4. **提交到GitHub**
+4. **提交到 GitHub**
    ```
-   对Codex说："提交第5章到GitHub"
+   Claude 完成后自动 git add/commit/push
+   PM Agent 创建 PR
    ```
 
 ---
