@@ -1,0 +1,84 @@
+{
+  "startTime": "2026-03-05T14:30:00Z",
+  "lastUpdate": "2026-03-05T23:10:00Z",
+  "recoveryTime": "2026-03-05T23:10:00Z",
+  "currentPhase": "阶段2：批量修复",
+  "completedTasks": [
+    {
+      "chapter": 26,
+      "timestamp": "2026-03-05T22:40:00Z",
+      "changes": [
+        "添加26.1.4社交能量账户核心概念",
+        "添加26.4.3 CORE框架",
+        "添加3个实战案例（林璇、周昊、许晴）",
+        "添加FAQ部分（进行中）"
+      ],
+      "estimatedWordCount": "~9,500+",
+      "status": "待验证"
+    },
+    {
+      "chapter": 27,
+      "timestamp": "2026-03-05T22:45:00Z",
+      "changes": [
+        "添加27.2.4 MAPS学习框架",
+        "添加4个实战案例",
+        "添加FAQ（10个问题）",
+        "添加2个实用模板"
+      ],
+      "estimatedWordCount": "~10,500+",
+      "forbiddenWordFixed": false,
+      "status": "待验证"
+    },
+    {
+      "chapter": 28,
+      "timestamp": "2026-03-05T22:46:00Z",
+      "changes": [
+        "添加28.1.3执行飞轮核心概念",
+        "添加28.2.5 PACE框架",
+        "添加4个实战案例（赵宇、宋妍等）",
+        "添加练习部分",
+        "添加FAQ部分（进行中）"
+      ],
+      "estimatedWordCount": "~10,200+",
+      "status": "待验证"
+    }
+  ],
+  "currentBatch": 1,
+  "totalBatches": 10,
+  "issues": {
+    "forbiddenWords": {
+      "count": 4,
+      "chapters": [
+        {"chapter": 25, "line": 153, "word": "从答案中提取主题", "status": "pending"},
+        {"chapter": 27, "line": 584, "word": "字幕", "status": "pending"},
+        {"chapter": 29, "line": 556, "word": "从痛苦中提取意义", "status": "pending"},
+        {"chapter": 30, "line": 311, "word": "编辑视频", "status": "pending"}
+      ]
+    },
+    "wordCountOver": {
+      "count": 7,
+      "chapters": [1, 2, 20, 21, 22, 23, 24]
+    },
+    "wordCountUnder": {
+      "count": 4,
+      "chapters": [29, 30, 31, 32]
+    },
+    "structureIssues": {
+      "missingFAQ": [1, 2, 4, 19, 24, 25, 29, 30, 31, 32],
+      "missingCases": [1, 2, 4, 19, 24, 29, 30, 31, 32],
+      "missingActionPlan": [1, 2, 4, 19, 20, 21, 22, 23, 24, 32],
+      "missingTemplates": [1, 14, 19, 20, 24, 29, 30, 31, 32]
+    },
+    "metaNarrative": {
+      "count": 1,
+      "chapters": [24]
+    }
+  },
+  "progressLog": [
+    {
+      "timestamp": "2026-03-05T23:10:00Z",
+      "event": "恢复任务：发现3个章节已完成修改并提交",
+      "details": "Chapters 26, 27, 28 已添加案例、FAQ、框架"
+    }
+  ]
+}
