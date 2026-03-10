@@ -1,8 +1,8 @@
 {
   "startTime": "2026-03-05T14:30:00Z",
-  "lastUpdate": "2026-03-10T20:33:08Z",
+  "lastUpdate": "2026-03-10T20:34:26Z",
   "recoveryTime": "2026-03-06T00:30:00Z",
-  "currentPhase": "阶段7：字数压缩批次完成（Ch04/Ch20/Ch31）",
+  "currentPhase": "阶段8：复审（2026-03-11）发现仍有必须修",
   "completedTasks": [
     {
       "chapter": 26,
@@ -265,9 +265,13 @@
   "totalBatches": 10,
   "issues": {
     "forbiddenWords": {
-      "count": 0,
-      "chapters": [],
-      "note": "3处禁词已修复（基线扫描报告可能有误差）"
+      "count": 3,
+      "chapters": [
+        1,
+        24,
+        30
+      ],
+      "note": "以BookReviewer复审（2026-03-11）为准：仍有禁词命中。"
     },
     "wordCountOver": {
       "count": 2,
@@ -275,21 +279,28 @@
         1,
         19
       ],
-      "note": "已完成并推送Ch04/Ch20/Ch31压缩；仍有Ch01/Ch19 > 15,000（以review脚本len统计）。"
+      "note": "以BookReviewer复审（2026-03-11）len统计：仍有章节 > 15,000。"
     },
     "wordCountUnder": {
       "count": 1,
       "chapters": [
         32
       ],
-      "note": "Ch32 < 10,000（以review脚本len统计），需补充案例/FAQ/行动清单等。"
+      "note": "以BookReviewer复审（2026-03-11）len统计：仍有章节 < 10,000。"
     },
     "structureIssues": {
-      "missingFAQ": [],
+      "missingFAQ": [
+        9,
+        13,
+        21,
+        22,
+        23,
+        32
+      ],
       "missingCases": [],
       "missingActionPlan": [],
       "missingTemplates": [],
-      "note": "所有章节案例已补齐（Ch 2/4/25 missingCases 已清零）"
+      "note": "以BookReviewer复审（2026-03-11）结构关键词检查：部分章节缺少FAQ/概念/框架/总结等。"
     },
     "metaNarrative": {
       "count": 0,
@@ -327,11 +338,17 @@
       "timestamp": "2026-03-10T20:33:08Z",
       "event": "字数压缩（Ch04/Ch20/Ch31）完成并推送",
       "details": "提交：cc26ce8 / 111322d / 2f214b8"
+    },
+    {
+      "timestamp": "2026-03-10T20:34:26Z",
+      "event": "运行BookReviewer复审（2026-03-11）",
+      "details": "必须修章节数=11；章节=[1, 9, 13, 19, 21, 22, 23, 24, 29, 30, 32]"
     }
   ],
   "nextSteps": [
-    "处理剩余字数问题：Ch01/Ch19 压缩到 <15,000；Ch32 补充到 >10,000。",
-    "运行BookReviewer复审，确认“必须修”清零。"
+    "优先清理“必须修”章节：[1, 9, 13, 19, 21, 22, 23, 24, 29, 30, 32]（详见 .reviews/*_review_2026-03-11.md 的“必须修”）",
+    "修复禁词（视频/短视频/字幕/频道/这期/从.*提取）并补齐缺失结构关键词（尤其FAQ）。",
+    "处理字数：>15K压缩；<10K补充案例/FAQ/练习/要点。"
   ],
   "estimatedRemainingTime": "0.5小时（补充剩余案例）"
 }
