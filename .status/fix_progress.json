@@ -1,8 +1,8 @@
 {
   "startTime": "2026-03-05T14:30:00Z",
-  "lastUpdate": "2026-03-08T05:35:00Z",
+  "lastUpdate": "2026-03-10T20:33:08Z",
   "recoveryTime": "2026-03-06T00:30:00Z",
-  "currentPhase": "阶段6：禁词修复已完成",
+  "currentPhase": "阶段7：字数压缩批次完成（Ch04/Ch20/Ch31）",
   "completedTasks": [
     {
       "chapter": 26,
@@ -226,6 +226,39 @@
         "修复3处禁词：Ch01/Ch27/Ch30"
       ],
       "status": "已完成"
+    },
+    {
+      "chapter": 4,
+      "timestamp": "2026-03-10T20:33:08Z",
+      "changes": [
+        "压缩重复段落与冗余说明，字数压缩到 <15,000"
+      ],
+      "wordCountBefore": 17559,
+      "wordCountAfter": 14257,
+      "commit": "cc26ce8",
+      "status": "已完成"
+    },
+    {
+      "chapter": 20,
+      "timestamp": "2026-03-10T20:33:08Z",
+      "changes": [
+        "压缩重复行动清单与重复解释，字数压缩到 <15,000"
+      ],
+      "wordCountBefore": 16640,
+      "wordCountAfter": 13495,
+      "commit": "111322d",
+      "status": "已完成"
+    },
+    {
+      "chapter": 31,
+      "timestamp": "2026-03-10T20:33:08Z",
+      "changes": [
+        "压缩FAQ冗余与重复说明，字数压缩到 <15,000"
+      ],
+      "wordCountBefore": 16187,
+      "wordCountAfter": 13614,
+      "commit": "2f214b8",
+      "status": "已完成"
     }
   ],
   "currentBatch": 5,
@@ -237,14 +270,19 @@
       "note": "3处禁词已修复（基线扫描报告可能有误差）"
     },
     "wordCountOver": {
-      "count": 7,
-      "chapters": [1, 4, 19, 20, 24, 31, 32],
-      "note": "7章字数超标（15K-25K），需要压缩到15K以下"
+      "count": 2,
+      "chapters": [
+        1,
+        19
+      ],
+      "note": "已完成并推送Ch04/Ch20/Ch31压缩；仍有Ch01/Ch19 > 15,000（以review脚本len统计）。"
     },
     "wordCountUnder": {
-      "count": 0,
-      "chapters": [],
-      "note": "所有章节字数已达标（Ch 09和Ch 26已于06:45修复）"
+      "count": 1,
+      "chapters": [
+        32
+      ],
+      "note": "Ch32 < 10,000（以review脚本len统计），需补充案例/FAQ/行动清单等。"
     },
     "structureIssues": {
       "missingFAQ": [],
@@ -284,11 +322,16 @@
       "timestamp": "2026-03-05T19:18:16Z",
       "event": "补充缺失案例",
       "details": "完成Chapters 2、4、25缺失“实战案例”补充，structureIssues.missingCases 已清零"
+    },
+    {
+      "timestamp": "2026-03-10T20:33:08Z",
+      "event": "字数压缩（Ch04/Ch20/Ch31）完成并推送",
+      "details": "提交：cc26ce8 / 111322d / 2f214b8"
     }
   ],
   "nextSteps": [
-    "所有结构问题已完成：forbiddenWords/字数/结构项均为0",
-    "如需：进行全书快速通读与格式一致性检查"
+    "处理剩余字数问题：Ch01/Ch19 压缩到 <15,000；Ch32 补充到 >10,000。",
+    "运行BookReviewer复审，确认“必须修”清零。"
   ],
   "estimatedRemainingTime": "0.5小时（补充剩余案例）"
 }
