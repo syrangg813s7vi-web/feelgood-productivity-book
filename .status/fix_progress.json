@@ -1,6 +1,6 @@
 {
   "startTime": "2026-03-05T14:30:00Z",
-  "lastUpdate": "2026-03-10T20:34:26Z",
+  "lastUpdate": "2026-03-11T20:25:00Z",
   "recoveryTime": "2026-03-06T00:30:00Z",
   "currentPhase": "阶段8：复审（2026-03-11）发现仍有必须修",
   "completedTasks": [
@@ -258,6 +258,21 @@
       "wordCountBefore": 16187,
       "wordCountAfter": 13614,
       "commit": "2f214b8",
+      "status": "已完成"
+    },
+    {
+      "chapter": 32,
+      "timestamp": "2026-03-11T20:25:00Z",
+      "changes": [
+        "扩充第32章字符数至10,003",
+        "新增32.3.5当系统变得太复杂时",
+        "新增32.4.5 90天后的复盘与延展",
+        "新增32.12.1简易指标三项就够",
+        "新增32.16.1案例5大米"
+      ],
+      "wordCountBefore": 8674,
+      "wordCountAfter": 10003,
+      "commit": "c2b582d",
       "status": "已完成"
     }
   ],
