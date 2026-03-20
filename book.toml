@@ -1,0 +1,13 @@
+[book]
+title = "良好感觉的生产力"
+description = "基于现有章节内容重组的 mdBook 版本"
+authors = ["Ali Abdaal"]
+language = "zh"
+src = "src"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+site-url = "/feelgood-productivity-book/"
+default-theme = "light"

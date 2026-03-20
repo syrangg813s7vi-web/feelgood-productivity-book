@@ -1,0 +1,775 @@
+<!DOCTYPE HTML>
+<html lang="zh" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>第十章 自律的新模型 - 小驼峰理论 - 良好感觉的生产力</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="基于现有章节内容重组的 mdBook 版本">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">第一部分：基础认知</li><li class="chapter-item expanded "><a href="../part1_基础认知/01_为什么传统的生产力方法让你越来越累.html"><strong aria-hidden="true">1.</strong> 第1章：为什么传统的生产力方法让你越来越累</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/02_核心概念——理解生产力背后的心理学.html"><strong aria-hidden="true">2.</strong> 第2章：核心概念——理解生产力背后的心理学</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/03_12周年系统-加速执行的秘密.html"><strong aria-hidden="true">3.</strong> 第3章: 12周年系统 - 加速执行的秘密</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/04_日记系统-改变人生的习惯.html"><strong aria-hidden="true">4.</strong> 第4章: 日记系统 - 改变人生的习惯</a></li><li class="chapter-item expanded affix "><li class="part-title">第二部分：执行系统</li><li class="chapter-item expanded "><a href="../part2_执行系统/05_三叉戟日历系统.html"><strong aria-hidden="true">5.</strong> 第5章：三叉戟日历系统</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/06_深度工作系统.html"><strong aria-hidden="true">6.</strong> 第6章：深度工作系统</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/07_知识捕获系统.html"><strong aria-hidden="true">7.</strong> 第7章 知识捕获系统（第二大脑）</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/08_能量管理.html"><strong aria-hidden="true">8.</strong> 第8章：能量管理（Energy Management）</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/09_克服拖延.html"><strong aria-hidden="true">9.</strong> 第9章 克服拖延 - 恐惧管理手册</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/10_自律的新模型.html" class="active"><strong aria-hidden="true">10.</strong> 第十章 自律的新模型 - 小驼峰理论</a></li><li class="chapter-item expanded affix "><li class="part-title">第三部分：学习与思考</li><li class="chapter-item expanded "><a href="../part3_学习与思考/11_阅读系统.html"><strong aria-hidden="true">11.</strong> 第11章 阅读系统 - 从消费到创造</a></li><li class="chapter-item expanded "><a href="../part3_学习与思考/12_学习技术.html"><strong aria-hidden="true">12.</strong> 第十二章:学习技术 - 如何掌握任何技能</a></li><li class="chapter-item expanded "><a href="../part3_学习与思考/13_深度思考.html"><strong aria-hidden="true">13.</strong> 第13章 深度思考 - 从信息到洞察</a></li><li class="chapter-item expanded affix "><li class="part-title">第四部分：身心与能量</li><li class="chapter-item expanded "><a href="../part4_身心与能量/14_睡眠优化.html"><strong aria-hidden="true">14.</strong> 第十四章：睡眠优化</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/15_运动与能量.html"><strong aria-hidden="true">15.</strong> 第十五章:运动与能量(活力管理系统)</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/16_营养专注力.html"><strong aria-hidden="true">16.</strong> 第16章营养专注力</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/17_压力管理与恢复.html"><strong aria-hidden="true">17.</strong> 第17章:压力管理与恢复</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/18_社交能量管理.html"><strong aria-hidden="true">18.</strong> 第18章：社交能量管理</a></li><li class="chapter-item expanded affix "><li class="part-title">第五部分：方向与选择</li><li class="chapter-item expanded "><a href="../part5_方向与选择/19_完美职业三要素.html"><strong aria-hidden="true">19.</strong> 第19章：完美职业三要素</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/20_90天人生转变系统.html"><strong aria-hidden="true">20.</strong> 第20章：90天人生转变系统</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/21_你没有落后.html"><strong aria-hidden="true">21.</strong> 第二十一章：你没有落后</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/22_如何不浪费人生.html"><strong aria-hidden="true">22.</strong> 第二十二章　如何不浪费人生</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/23_价值观与决策框架.html"><strong aria-hidden="true">23.</strong> 第23章：价值观与决策框架</a></li><li class="chapter-item expanded affix "><li class="part-title">第六部分：系统整合</li><li class="chapter-item expanded "><a href="../part6_系统整合/24_环境设计.html"><strong aria-hidden="true">24.</strong> 第24章：环境设计——让环境帮你养成好习惯</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/25_决策框架.html"><strong aria-hidden="true">25.</strong> 第25章 决策框架：如何做出更好的选择</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/26_社交能量.html"><strong aria-hidden="true">26.</strong> 第26章 社交能量：如何设计你的人际关系</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/27_学习系统.html"><strong aria-hidden="true">27.</strong> 第27章 学习系统：如何掌握任何技能</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/28_执行力.html"><strong aria-hidden="true">28.</strong> 第28章 执行力：从知道到做到</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/29_情绪管理.html"><strong aria-hidden="true">29.</strong> 第29章 情绪管理：驾驭而非被控制</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/30_意义与目标.html"><strong aria-hidden="true">30.</strong> 第30章 意义与目标：找到你的为什么</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/31_整合：生产力生态系统.html"><strong aria-hidden="true">31.</strong> 第31章 整合：生产力生态系统</a></li><li class="chapter-item expanded affix "><li class="part-title">结语</li><li class="chapter-item expanded "><a href="../conclusion/32_结语.html"><strong aria-hidden="true">32.</strong> 第32章 结语：开始你的生产力之旅</a></li><li class="chapter-item expanded affix "><li class="part-title">附录</li><li class="chapter-item expanded "><a href="../appendices/附录A_模板与工具.html"><strong aria-hidden="true">33.</strong> 附录A：模板与工具</a></li><li class="chapter-item expanded "><a href="../appendices/附录B_推荐资源.html"><strong aria-hidden="true">34.</strong> 附录B：推荐资源</a></li><li class="chapter-item expanded "><a href="../appendices/附录C_快速参考.html"><strong aria-hidden="true">35.</strong> 附录C：快速参考</a></li><li class="chapter-item expanded "><a href="../appendices/附录D_科学依据.html"><strong aria-hidden="true">36.</strong> 附录D：科学依据</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">良好感觉的生产力</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>Now I'll write the complete Chapter 10 based on the material I've read and the requirements.</p>
+<hr />
+<h1 id="第十章-自律的新模型---小驼峰理论"><a class="header" href="#第十章-自律的新模型---小驼峰理论">第十章 自律的新模型 - 小驼峰理论</a></h1>
+<h2 id="一核心概念重新定义自律"><a class="header" href="#一核心概念重新定义自律">一、核心概念:重新定义自律</a></h2>
+<p>我们谈论自律时,脑海中浮现的往往是咬紧牙关、强迫自己做不想做的事。这种传统自律观带来的结果是什么?短暂的意志力爆发,随后是漫长的放弃。</p>
+<p><strong>小驼峰理论</strong>提出了一个截然不同的视角:真正的自律不是对抗人性,而是顺应人性;不是依赖意志力的高峰,而是建立可持续的小驼峰。</p>
+<p>想象一下骆驼的背部。不是珠穆朗玛峰式的陡峭高耸,而是一个接一个温和的隆起。每个驼峰都不高,但连绵不断。这就是可持续自律的真实形态。</p>
+<h3 id="传统自律-vs-小驼峰自律"><a class="header" href="#传统自律-vs-小驼峰自律">传统自律 vs 小驼峰自律</a></h3>
+<p><strong>传统自律模型</strong>:</p>
+<ul>
+<li>依赖意志力储备(有限资源)</li>
+<li>强调"坚持"和"忍耐"</li>
+<li>一旦失败就产生罪恶感</li>
+<li>将自律视为痛苦的必需品</li>
+</ul>
+<p><strong>小驼峰模型</strong>:</p>
+<ul>
+<li>依赖系统和环境设计</li>
+<li>强调"顺势而为"和"轻松启动"</li>
+<li>将失败视为系统反馈</li>
+<li>将自律视为有趣的实践</li>
+</ul>
+<p>书中提到的Ali Abdaal在医学院期间每周制作两个作品,坚持六个月才达到1000关注者。他说:"我不是每次都想做,但当我把它当作专业工作对待,而不是依赖感觉时,反而体验最好。"这不是意志力的胜利,而是系统的胜利。</p>
+<h2 id="二运作机制小驼峰如何运作"><a class="header" href="#二运作机制小驼峰如何运作">二、运作机制:小驼峰如何运作</a></h2>
+<p>小驼峰理论建立在三个心理学基础之上:</p>
+<h3 id="1-启动能量最小化原则"><a class="header" href="#1-启动能量最小化原则">1. 启动能量最小化原则</a></h3>
+<p>人类大脑天生厌恶高启动成本。当一个任务看起来需要大量精力启动时,拖延就会自动激活。</p>
+<p><strong>机制揭秘</strong>:</p>
+<ul>
+<li>大脑的前额叶皮层评估任务难度</li>
+<li>感知到的难度越高,启动阻力越大</li>
+<li>降低感知难度 = 降低启动阻力</li>
+</ul>
+<p><strong>实践转化</strong>:</p>
+<ul>
+<li>不是"写完整本书" → 而是"打开文档写一句话"</li>
+<li>不是"跑5公里" → 而是"穿上跑鞋走到门口"</li>
+<li>不是"学习2小时" → 而是"翻开书看第一页"</li>
+</ul>
+<p>Ali在内容中分享的Seth Godin的核心理念:"过程本身就是产出。因为过程是我们唯一能控制的东西。"这正是小驼峰的精髓——不要关注那座大山,专注于迈出第一小步。</p>
+<h3 id="2-多巴胺循环构建"><a class="header" href="#2-多巴胺循环构建">2. 多巴胺循环构建</a></h3>
+<p>传统自律依赖远期奖励(比如"三个月后会变瘦"),但大脑更喜欢即时反馈。</p>
+<p><strong>小驼峰的多巴胺设计</strong>:</p>
+<ul>
+<li>每完成一个小任务 → 立即打勾</li>
+<li>每天坚持 → 日历标记不间断链条</li>
+<li>每周回顾 → 看到可见的进步</li>
+</ul>
+<p>这创造了一个正向循环:</p>
+<pre><code>行动 → 即时奖励 → 多巴胺释放 → 渴望重复 → 更容易启动下次行动
+</code></pre>
+<h3 id="3-身份认同强化"><a class="header" href="#3-身份认同强化">3. 身份认同强化</a></h3>
+<p>你不会"努力成为"一个作家,你通过每天写作"成为"作家。</p>
+<p>James Clear在《原子习惯》中说:"每个行动都是为你想成为的那个人投票。"小驼峰理论将这个概念具体化:</p>
+<ul>
+<li>每天写300字 → 你是一个写作者</li>
+<li>每天跑步10分钟 → 你是一个跑步者</li>
+<li>每天拍摄5分钟 → 你是一个创作者</li>
+</ul>
+<p>内容中提到的那位朋友James Jani,通过制作12个精心打磨的作品获得50万关注者。他的身份不是"想成为内容创作者的人",而是"制作高质量纪录片的创作者"。每一个作品的完成都在强化这个身份。</p>
+<h2 id="三实践框架构建你的小驼峰系统"><a class="header" href="#三实践框架构建你的小驼峰系统">三、实践框架:构建你的小驼峰系统</a></h2>
+<h3 id="框架一2分钟启动法"><a class="header" href="#框架一2分钟启动法">框架一:2分钟启动法</a></h3>
+<p><strong>核心规则</strong>:任何新习惯必须在2分钟内完成。</p>
+<p>这听起来荒谬,但这是系统设计的精髓。你不是真的只做2分钟,而是通过2分钟消除启动阻力。</p>
+<p><strong>分解示例</strong>:</p>
+<div class="table-wrapper"><table><thead><tr><th>最终目标</th><th>小驼峰版本</th><th>2分钟启动</th></tr></thead><tbody>
+<tr><td>每天冥想30分钟</td><td>每天冥想</td><td>坐到冥想垫上</td></tr>
+<tr><td>每周健身3次</td><td>每天运动</td><td>换上运动服</td></tr>
+<tr><td>读完12本书/年</td><td>每天阅读</td><td>打开书读一段</td></tr>
+<tr><td>学会编程</td><td>每天编码</td><td>打开代码编辑器</td></tr>
+</tbody></table>
+</div>
+<h3 id="框架二环境设计法"><a class="header" href="#框架二环境设计法">框架二:环境设计法</a></h3>
+<p>意志力是有限的,环境设计是无限的。</p>
+<p><strong>减法设计</strong>(移除摩擦):</p>
+<ul>
+<li>想早起跑步?晚上把跑鞋放在床边</li>
+<li>想多读书?把手机放在另一个房间,书放在枕头旁</li>
+<li>想健康饮食?根本不要买垃圾食品回家</li>
+</ul>
+<p><strong>加法设计</strong>(增加摩擦):</p>
+<ul>
+<li>想少看手机?删除社交媒体应用,只保留网页版</li>
+<li>想少吃零食?把它们放在需要爬梯子才能够到的地方</li>
+<li>想少熬夜?设置路由器定时断网</li>
+</ul>
+<p>Ali分享:"我不依赖意志力决定今天是否拍内容。我把设备放在固定位置,建立固定流程,让启动变得自动化。"</p>
+<h3 id="框架三三叉戟日历法"><a class="header" href="#框架三三叉戟日历法">框架三:三叉戟日历法</a></h3>
+<p>这是一个可视化的进度追踪系统,利用"不想打破连续性"的心理。</p>
+<p><strong>设置方法</strong>:</p>
+<ol>
+<li>准备一个大日历(物理或数字)</li>
+<li>选择1-3个核心习惯</li>
+<li>每天完成后打上鲜明的标记</li>
+<li>目标:建立不间断的链条</li>
+</ol>
+<p><strong>为什么叫"三叉戟"?</strong></p>
+<ul>
+<li>同时追踪三个习惯(不要更多!)</li>
+<li>三个习惯形成稳定支撑</li>
+<li>就像三叉戟的三个尖端,稳定而有力</li>
+</ul>
+<p><strong>三叉戟日历示例</strong>:</p>
+<pre><code>习惯追踪 - 2026年2月
+
+        1  2  3  4  5  6  7  8  9 10 11 12 13 14 ...
+写作    ✓  ✓  ✓  ✗  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓
+运动    ✓  ✓  ✓  ✓  ✓  ✗  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓
+阅读    ✓  ✗  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓  ✓
+
+当前连续: 写作 13天 | 运动 8天 | 阅读 11天
+</code></pre>
+<p>看到这样的链条,你的大脑会想:"我已经坚持了13天,绝不能在今天断掉!"</p>
+<h2 id="四真实案例小驼峰的力量"><a class="header" href="#四真实案例小驼峰的力量">四、真实案例:小驼峰的力量</a></h2>
+<h3 id="案例1医学生变内容创作者"><a class="header" href="#案例1医学生变内容创作者">案例1:医学生变内容创作者</a></h3>
+<p>Ali Abdaal的转型不是一夜之间发生的奇迹。</p>
+<p><strong>他的小驼峰策略</strong>:</p>
+<ul>
+<li>不是"成为成功内容创作者" → 而是"这周制作两个作品"</li>
+<li>不是"等到拥有完美设备" → 而是"用iPhone和床开始"</li>
+<li>不是"等有灵感" → 而是"按专业标准固定制作"</li>
+</ul>
+<p>结果?六个月,52个作品,1000关注者。这个数字看起来不起眼,但这是可持续增长的基础。现在他有数百万关注者,但起点是那52个小驼峰。</p>
+<p><strong>关键洞察</strong>:他说,"我经常不想做,但当我把焦点从'结果'转移到'过程',把制作内容当作专业实践而非业余爱好,感觉完全不同。就像健身——去之前不想去,但去完从来不会后悔。"</p>
+<h3 id="案例2152作品法则"><a class="header" href="#案例2152作品法则">案例2:152作品法则</a></h3>
+<p>TubeBuddy统计显示:平均平台需要制作152个作品才能达到1000-10000关注者。</p>
+<p>这个数据的价值不在于数字本身,而在于它传递的信息:<strong>在完成152个小驼峰之前,你没有资格抱怨增长缓慢。</strong></p>
+<p>这完全改变了游戏规则。不再是"为什么我的作品没人看?",而是"太好了,我还有147个学习机会!"</p>
+<h3 id="案例3james-jani的精品路线"><a class="header" href="#案例3james-jani的精品路线">案例3:James Jani的精品路线</a></h3>
+<p>与Ali的高频策略不同,James Jani选择了另一条路:制作12个精心打磨的纪录片级作品,获得50万关注者。</p>
+<p>他的小驼峰:</p>
+<ul>
+<li>每个作品投入数百小时</li>
+<li>将复杂项目分解为每日可完成的小任务</li>
+<li>研究、脚本、拍摄、剪辑——每一步都是独立的小驼峰</li>
+</ul>
+<p>这证明了小驼峰理论的灵活性:不是要求你"每天做很多",而是"每天做一点,持续前进"。</p>
+<h2 id="五常见问题faq"><a class="header" href="#五常见问题faq">五、常见问题FAQ</a></h2>
+<p><strong>Q1: 如果我连续断掉了怎么办?</strong></p>
+<p>A: 完美!这是系统给你的反馈。</p>
+<p>断链不是失败,而是数据。问自己:</p>
+<ul>
+<li>这个小驼峰是不是还不够小?</li>
+<li>环境设计有什么可以优化的地方?</li>
+<li>这个习惯真的与我的核心目标对齐吗?</li>
+</ul>
+<p>记住内容中的话:"不要担心数字。在你制作52个作品之前,专注于过程本身。"同样,在你尝试了52天之前,别急着下结论。</p>
+<p><strong>Q2: 小驼峰会不会让我进步太慢?</strong></p>
+<p>A: 恰恰相反。</p>
+<p>真正让你慢的不是小步伐,而是反复重启。</p>
+<p>计算一下:</p>
+<ul>
+<li>方案A:每次雄心勃勃要跑10公里,一周坚持2天,然后放弃2周 = 月度总计:约4次 × 10公里 = 40公里</li>
+<li>方案B:每天只跑1公里,30天全部完成 = 月度总计:30公里</li>
+</ul>
+<p>等等,方案A总里程更多啊?但这忽略了复利效应:</p>
+<p>30天后,方案B的人已经建立了神经通路、肌肉记忆和身份认同。他们<strong>成为了</strong>跑步者。而方案A的人仍然在与启动阻力斗争。</p>
+<p>六个月后,方案B的人可能轻松跑5公里。方案A的人可能已经完全放弃。</p>
+<p><strong>Q3: 我应该同时建立几个习惯?</strong></p>
+<p>A: 最多三个。</p>
+<p>这就是为什么叫"三叉戟"而不是"瑞士军刀"。专注胜过分散。</p>
+<p>优先级建议:</p>
+<ol>
+<li>第一叉:核心身份习惯(比如"作家"每天写作)</li>
+<li>第二叉:支持性习惯(比如健康/运动)</li>
+<li>第三叉:成长性习惯(比如学习新技能)</li>
+</ol>
+<p><strong>Q4: 设备/条件不完美怎么办?</strong></p>
+<p>A: 内容中Ali的建议一针见血:"设备在起步阶段完全不重要。"</p>
+<p>这是完美主义伪装的拖延。真相是:</p>
+<ul>
+<li>iPhone的拍摄质量足以开始</li>
+<li>免费的Google Docs足以开始写作</li>
+<li>健身不需要器材,地板和自重就够</li>
+</ul>
+<p>记住那句话:"就像学写字,不需要等完美的钢笔。随便拿张纸,开始写。"</p>
+<p><strong>Q5: 没有动力怎么办?</strong></p>
+<p>A: 这个问题本身就是传统自律思维的陷阱。</p>
+<p>小驼峰理论的回答:<strong>你不需要动力,你需要的是启动如此简单,动力变得无关紧要。</strong></p>
+<p>Seth Godin说:"创造力不是事件,而是我们做的事,不管我们是否有心情。"</p>
+<p>具体策略:</p>
+<ul>
+<li>降低启动门槛到荒谬的程度(只做2分钟)</li>
+<li>设计环境让行动成为默认选项</li>
+<li>专注于身份("我是做这件事的人")而非感觉</li>
+</ul>
+<h2 id="六行动清单立即开始你的小驼峰"><a class="header" href="#六行动清单立即开始你的小驼峰">六、行动清单:立即开始你的小驼峰</a></h2>
+<h3 id="第一步选择你的三叉戟今天完成"><a class="header" href="#第一步选择你的三叉戟今天完成">第一步:选择你的三叉戟(今天完成)</a></h3>
+<p>列出你想建立的习惯,然后选出最重要的3个:</p>
+<pre><code>我的三叉戟:
+1. [核心身份习惯]:________________
+2. [支持性习惯]:__________________
+3. [成长性习惯]:__________________
+</code></pre>
+<h3 id="第二步设计2分钟版本今天完成"><a class="header" href="#第二步设计2分钟版本今天完成">第二步:设计2分钟版本(今天完成)</a></h3>
+<p>把每个习惯缩减到荒谬简单的程度:</p>
+<pre><code>习惯1原始版:_____________________
+2分钟版本:_______________________
+
+习惯2原始版:_____________________
+2分钟版本:_______________________
+
+习惯3原始版:_____________________
+2分钟版本:_______________________
+</code></pre>
+<h3 id="第三步优化环境本周完成"><a class="header" href="#第三步优化环境本周完成">第三步:优化环境(本周完成)</a></h3>
+<p><strong>移除摩擦清单</strong>:</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+习惯1需要的物品放在显眼位置</li>
+<li><input disabled="" type="checkbox"/>
+习惯2的障碍物移除</li>
+<li><input disabled="" type="checkbox"/>
+习惯3的触发器设置</li>
+</ul>
+<p><strong>增加摩擦清单</strong>:</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+干扰源1:________________ → 解决方案:________________</li>
+<li><input disabled="" type="checkbox"/>
+干扰源2:________________ → 解决方案:________________</li>
+<li><input disabled="" type="checkbox"/>
+干扰源3:________________ → 解决方案:________________</li>
+</ul>
+<h3 id="第四步建立追踪系统今天完成"><a class="header" href="#第四步建立追踪系统今天完成">第四步:建立追踪系统(今天完成)</a></h3>
+<p>选择你的日历系统:</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+物理日历(推荐:挂在墙上的大日历)</li>
+<li><input disabled="" type="checkbox"/>
+数字工具(推荐:简单的表格或专门应用)</li>
+<li><input disabled="" type="checkbox"/>
+子弹日记</li>
+</ul>
+<h3 id="第五步设定评估节点今天完成"><a class="header" href="#第五步设定评估节点今天完成">第五步:设定评估节点(今天完成)</a></h3>
+<pre><code>7天评估:   [日期]________ 
+问:启动是否够简单?是否需要调整?
+
+30天评估:  [日期]________
+问:是否已经形成自动化?可以增加难度了吗?
+
+90天评估:  [日期]________
+问:这个习惯是否已经成为身份一部分?
+</code></pre>
+<h2 id="七模板工具"><a class="header" href="#七模板工具">七、模板工具</a></h2>
+<h3 id="模板1每日小驼峰检查表"><a class="header" href="#模板1每日小驼峰检查表">模板1:每日小驼峰检查表</a></h3>
+<pre><code>=================================
+日期:______年____月____日 星期____
+=================================
+
+🐪 三叉戟打卡
+├─ [ ] 习惯1:______________ (连续____天)
+├─ [ ] 习惯2:______________ (连续____天)
+└─ [ ] 习惯3:______________ (连续____天)
+
+💡 今日启动难度评分
+习惯1:  ⭐⭐⭐⭐⭐ (1=极易 5=很难)
+习惯2:  ⭐⭐⭐⭐⭐
+习惯3:  ⭐⭐⭐⭐⭐
+
+🔧 明日优化
+如果今天评分&gt;3,明天如何让它更容易?
+_______________________________________
+_______________________________________
+
+🎯 一句话总结
+今天最大的小驼峰胜利:
+_______________________________________
+</code></pre>
+<h3 id="模板2小驼峰习惯设计表"><a class="header" href="#模板2小驼峰习惯设计表">模板2:小驼峰习惯设计表</a></h3>
+<pre><code>=================================
+小驼峰习惯设计表
+=================================
+
+【最终目标】
+我想成为:_______________________
+这需要:_________________________
+
+【小驼峰分解】
+阶段1(启动期 1-30天):
+├─ 目标行为:_____________________
+├─ 2分钟版本:___________________
+└─ 成功标准:每天完成2分钟版本
+
+阶段2(建立期 31-90天):
+├─ 目标行为:_____________________
+├─ 时长/量:______________________
+└─ 成功标准:80%完成率
+
+阶段3(精进期 91天+):
+├─ 目标行为:_____________________
+├─ 时长/量:______________________
+└─ 成功标准:质量提升可见
+
+【环境设计】
+移除的摩擦:
+1. _____________________________
+2. _____________________________
+3. _____________________________
+
+增加的摩擦(对干扰):
+1. _____________________________
+2. _____________________________
+3. _____________________________
+
+【触发器设置】
+时间触发:每天________[时间]
+地点触发:在________[地点]
+行为触发:在________[已有习惯]之后
+
+【追踪方式】
+□ 物理日历  □ 应用  □ 笔记本
+位置:___________________________
+
+【如果失败】
+预设的重启协议:
+第1次断链 → ____________________
+第2次断链 → ____________________
+第3次断链 → 重新评估这个习惯是否真正重要
+</code></pre>
+<h2 id="八本章总结"><a class="header" href="#八本章总结">八、本章总结</a></h2>
+<p>自律不是一场意志力的战争,而是一场系统设计的游戏。</p>
+<p>小驼峰理论的核心洞察:</p>
+<ol>
+<li><strong>降低启动阻力</strong>比提高意志力更有效</li>
+<li><strong>过程本身就是产出</strong>,专注于每日实践</li>
+<li><strong>环境设计</strong>胜过自我控制</li>
+<li><strong>身份认同</strong>通过重复行为自然形成</li>
+<li><strong>即时反馈</strong>创造可持续的多巴胺循环</li>
+</ol>
+<p>从今天开始,不要问"我如何坚持?"而要问:"我如何让启动变得如此简单,以至于不启动反而更难?"</p>
+<p>记住内容中Ali的那句话:"在你制作了52次之前,不要抱怨。专注于过程,数字会自然而来。"</p>
+<p>还记得那个数据吗?平均需要152个作品才能达到1000-10000关注。但这不是令人沮丧的数字,而是解放性的现实:你只需要专注于今天的那一个小驼峰,然后是明天的,然后是后天的。</p>
+<p>152个小驼峰之后,你不仅会到达目的地,更重要的是,你会<strong>成为</strong>那个能到达目的地的人。</p>
+<h2 id="九思考练习"><a class="header" href="#九思考练习">九、思考练习</a></h2>
+<h3 id="练习1小驼峰诊断"><a class="header" href="#练习1小驼峰诊断">练习1:小驼峰诊断</a></h3>
+<p>回顾你过去失败的"自律尝试",用小驼峰视角重新分析:</p>
+<pre><code>失败的尝试:________________________
+当时的启动难度(1-10):______
+理想的启动难度应该是:______
+如果用2分钟法,应该是:________________________
+环境设计缺失了什么:________________________
+</code></pre>
+<h3 id="练习2身份转换声明"><a class="header" href="#练习2身份转换声明">练习2:身份转换声明</a></h3>
+<p>完成这个句子,并贴在显眼处:</p>
+<pre><code>我不是一个"努力________的人"
+我是一个"每天________的人"
+
+证据:
+第1天:____________________
+第2天:____________________
+第3天:____________________
+...
+第30天:___________________
+</code></pre>
+<h3 id="练习3环境审计"><a class="header" href="#练习3环境审计">练习3:环境审计</a></h3>
+<p>拿出手机拍一张你的工作/学习/运动环境照片。</p>
+<p>问自己:</p>
+<ul>
+<li>这个环境让好习惯容易还是困难?</li>
+<li>我看到的第一件东西是否支持我的目标?</li>
+<li>干扰源在哪里?如何移除?</li>
+</ul>
+<p>立即做出一个物理改变,哪怕很小。</p>
+<h3 id="练习4未来自己对话"><a class="header" href="#练习4未来自己对话">练习4:未来自己对话</a></h3>
+<p>想象90天后完成了270个小驼峰(3个习惯×90天)的你。</p>
+<p>他/她会对现在的你说什么?</p>
+<pre><code>亲爱的现在的我:
+
+90天前的今天,你________[开始了什么]。
+最难的不是________[意料中的困难],
+而是________[意外的发现]。
+
+但最神奇的是________[身份转变]。
+
+现在的我想告诉当时的你:
+________________________________
+________________________________
+________________________________
+
+继续你的小驼峰。我在这里等你。
+
+——90天后的你
+</code></pre>
+<h2 id="十关键要点速记"><a class="header" href="#十关键要点速记">十、关键要点速记</a></h2>
+<ol>
+<li>
+<p>⛰️ <strong>小驼峰 &gt; 大山峰</strong>:可持续的小步伐胜过不可持续的大飞跃</p>
+</li>
+<li>
+<p>⏱️ <strong>2分钟法则</strong>:任何习惯都可以缩减到2分钟启动版本</p>
+</li>
+<li>
+<p>🏗️ <strong>环境 &gt; 意志力</strong>:设计让好选择成为默认选择的环境</p>
+</li>
+<li>
+<p>📅 <strong>三叉戟日历</strong>:同时追踪3个核心习惯,建立不间断链条</p>
+</li>
+<li>
+<p>🎯 <strong>过程 = 产出</strong>:专注于每日实践,而非远期结果</p>
+</li>
+<li>
+<p>🔁 <strong>152法则</strong>:在完成足够重复前,不评判结果</p>
+</li>
+<li>
+<p>👤 <strong>行为 → 身份</strong>:你不是"想成为"而是通过行动"成为"</p>
+</li>
+<li>
+<p>📉 <strong>断链 = 数据</strong>:失败是系统反馈,用于优化,非自我批判</p>
+</li>
+<li>
+<p>🚫 <strong>完美是拖延</strong>:用现有条件开始,而非等待理想条件</p>
+</li>
+<li>
+<p>💪 <strong>专业 &gt; 业余</strong>:像对待工作一样对待你的实践,不依赖感觉</p>
+</li>
+</ol>
+<hr />
+<p>现在,合上这本书。</p>
+<p>选择你的第一个小驼峰。</p>
+<p>设计你的2分钟版本。</p>
+<p>然后,最重要的是:</p>
+<p><strong>开始。</strong></p>
+<p>不是明天,不是下周一,不是"等我准备好"。</p>
+<p>现在就打开你的日历,标记今天。</p>
+<p>这是你的第一个小驼峰。</p>
+<p>连绵不断的旅程,从这里开始。</p>
+<hr />
+<h2 id="九常见陷阱与破解之道"><a class="header" href="#九常见陷阱与破解之道">九、常见陷阱与破解之道</a></h2>
+<h3 id="陷阱1完美主义的预备拖延"><a class="header" href="#陷阱1完美主义的预备拖延">陷阱1:完美主义的"预备拖延"</a></h3>
+<p><strong>症状</strong>:</p>
+<ul>
+<li>总觉得还需要再准备一下</li>
+<li>等买了完美的装备/工具/课程再开始</li>
+<li>研究方法论的时间超过实践时间</li>
+</ul>
+<p><strong>破解方案</strong>:</p>
+<ul>
+<li><strong>咖啡挑战策略</strong>:给准备时间设定荒谬短的限制(比如15分钟)</li>
+<li><strong>最小可行版本(MVP)</strong>:用最简陋的方式开始第一小步</li>
+<li><strong>70%原则</strong>:接受做到70分即可开始,80-90分通过迭代实现</li>
+</ul>
+<p><strong>记住</strong>:完美的计划永远比不上不完美的行动。你永远无法通过思考来理解某事,只能通过做来理解。</p>
+<h3 id="陷阱2过度依赖动机和激情"><a class="header" href="#陷阱2过度依赖动机和激情">陷阱2:过度依赖"动机和激情"</a></h3>
+<p><strong>症状</strong>:</p>
+<ul>
+<li>等感觉对了才开始</li>
+<li>某天"没感觉"就跳过习惯</li>
+<li>认为成功人士每天都充满激情</li>
+</ul>
+<p><strong>真相</strong>:</p>
+<ul>
+<li>Ali明确表示:"我不是每次都想做,但当我把它当作专业工作对待,而不是依赖感觉时,反而体验最好。"</li>
+<li>专业人士不会因为心情不好就跳过工作</li>
+<li>动机是 unreliable fuel,系统才是可持续能源</li>
+</ul>
+<p><strong>破解方案</strong>:</p>
+<ul>
+<li><strong>建立"无论心情如何"的规则</strong>:除非生病或紧急情况,否则雷打不动执行</li>
+<li><strong>设计"低能量版本"</strong>:状态不好时,做简化版也要完成(比如从30分钟降到5分钟)</li>
+<li><strong>追踪"不完美执行"</strong>:记录你多少次在不想做的情况下仍然完成了</li>
+</ul>
+<h3 id="陷阱3只关注结果忽视过程"><a class="header" href="#陷阱3只关注结果忽视过程">陷阱3:只关注结果,忽视过程</a></h3>
+<p><strong>症状</strong>:</p>
+<ul>
+<li>每天检查关注数/阅读数/粉丝数</li>
+<li>短期没有明显进步就想放弃</li>
+<li>把成功定义为"达到X数字"而非"坚持X天"</li>
+</ul>
+<p><strong>152作品法则</strong>:</p>
+<ul>
+<li>平均平台需要152个作品才能达到1000-10000关注</li>
+<li>这不是令人沮丧的数字,而是解放性的现实</li>
+<li>你只需要专注于今天的那一个小驼峰,然后是明天的,然后是后天的</li>
+</ul>
+<p><strong>破解方案</strong>:</p>
+<ul>
+<li><strong>结果盲</strong>:在前52次执行期间,不要看结果数据</li>
+<li><strong>过程追踪</strong>:记录你坚持了多少天,而不是获得了多少成果</li>
+<li><strong>庆祝小胜利</strong>:每天完成就是胜利,无论质量如何</li>
+</ul>
+<hr />
+<h2 id="十进阶心法从小驼峰到大山"><a class="header" href="#十进阶心法从小驼峰到大山">十、进阶心法:从小驼峰到大山</a></h2>
+<p>当你已经能够稳定执行小驼峰系统后,你可能会问:"我什么时候可以挑战大山?"</p>
+<p>答案可能是:你不需要挑战大山,你只需要持续堆小驼峰。</p>
+<p>但如果你想提升挑战,这里有四个进阶方向:</p>
+<h3 id="方向1从时长到强度"><a class="header" href="#方向1从时长到强度">方向1:从时长到强度</a></h3>
+<p><strong>初级小驼峰</strong>:每天写5分钟
+<strong>中级小驼峰</strong>:每天写30分钟
+<strong>高级小驼峰</strong>:每天写90分钟深度工作</p>
+<p>关键:不要直接从初级跳到高级。每4-6周评估一次,如果当前难度80%时间能完成,再升级。</p>
+<h3 id="方向2从单一习惯到习惯系统"><a class="header" href="#方向2从单一习惯到习惯系统">方向2:从单一习惯到习惯系统</a></h3>
+<p><strong>单一习惯</strong>:每天晨间冥想10分钟
+<strong>习惯系统</strong>:晨间10分钟冥想 → 30分钟阅读 → 30分钟写作 → 30分钟运动</p>
+<p>关键:习惯之间要相互强化,而非相互冲突。设计你的"理想早晨"或"理想晚间"流程。</p>
+<h3 id="方向3从个人习惯到身份认同"><a class="header" href="#方向3从个人习惯到身份认同">方向3:从个人习惯到身份认同</a></h3>
+<p><strong>行为层面</strong>:我每天跑步
+<strong>身份层面</strong>:我是一名跑步者</p>
+<p>从行为到身份的转变大约需要66天(平均)。关键在于一致性,而非强度。</p>
+<h3 id="方向4从自我驱动到系统驱动"><a class="header" href="#方向4从自我驱动到系统驱动">方向4:从自我驱动到系统驱动</a></h3>
+<p><strong>自律1.0</strong>:靠意志力强迫自己
+<strong>自律2.0</strong>:靠环境设计让正确行为变得容易
+<strong>自律3.0</strong>:靠社会承诺和专业标准让放弃变得昂贵</p>
+<p>最终形态:你不需要"自律",因为系统在替你工作。</p>
+<p><strong>Q13:我已经坚持了一个习惯,但感觉没有进步,怎么办?</strong></p>
+<p>A:这通常有两个原因:</p>
+<ol>
+<li>
+<p><strong>你陷入了"舒适区小驼峰"</strong>:当初的2分钟版本现在对你来说太简单了,没有提供足够的挑战来促进成长。</p>
+</li>
+<li>
+<p><strong>你用错误的标准衡量进步</strong>:习惯本身的进步是 invisible 的,你看不见每天冥想10分钟带来的大脑变化,但6个月后你会发现自己更平静、更专注。</p>
+</li>
+</ol>
+<p><strong>解决方案</strong>:</p>
+<ul>
+<li>每30天评估一次当前难度,如果80%时间能轻松完成,就升级到下一级</li>
+<li>记录"secondary wins"(次要胜利):比如冥想习惯让你在压力下更冷静,这就是进步,即使你看不见</li>
+<li>相信复利效应:每天1%的进步,一年后是37倍的成长</li>
+</ul>
+<p><strong>Q14:如果我真的完全不想做,可以跳过吗?</strong></p>
+<p>A:可以,但要用"战略暂停"而非"被动放弃"。</p>
+<p><strong>战略暂停的三个条件</strong>:</p>
+<ol>
+<li>提前计划:你决定这周休息三次,并提前写在日历上</li>
+<li>有明确回归日期:休息到X日自动恢复,不是无限期暂停</li>
+<li>保持最小版本:即使休息日,也做2分钟版本保持习惯的"心跳"</li>
+</ol>
+<p><strong>被动放弃的信号</strong>:</p>
+<ul>
+<li>没有计划的跳过</li>
+<li>跳过一次后连续跳过多次</li>
+<li>找各种理由为跳过辩护</li>
+</ul>
+<p><strong>记住</strong>:偶尔暂停是智慧,习惯性放弃是自我破坏。</p>
+<p><strong>Q15:小驼峰理论适用于团队/家庭吗?</strong></p>
+<p>A:绝对适用,甚至更有效。因为团队可以提供:</p>
+<ol>
+<li><strong>相互监督</strong>:队友之间的"约定效应"让放弃变得更难</li>
+<li><strong>共享环境设计</strong>:全家一起建立健康饮食环境,比一个人坚持容易100倍</li>
+<li><strong>集体庆祝</strong>:团队达成30天连续,一起庆祝的奖励感比个人强</li>
+</ol>
+<p><strong>实践建议</strong>:</p>
+<ul>
+<li>家庭:建立"家庭小驼峰日历",每个人标记自己的习惯</li>
+<li>团队:建立"团队承诺板",每个人每周更新自己的执行状态</li>
+<li>伴侣:可以成为对方的"问责伙伴",每周互相检查进度</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../part2_执行系统/09_克服拖延.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../part3_学习与思考/11_阅读系统.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../part2_执行系统/09_克服拖延.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../part3_学习与思考/11_阅读系统.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,1510 @@
+<!DOCTYPE HTML>
+<html lang="zh" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>附录B：推荐资源 - 良好感觉的生产力</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="基于现有章节内容重组的 mdBook 版本">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><li class="part-title">第一部分：基础认知</li><li class="chapter-item expanded "><a href="../part1_基础认知/01_为什么传统的生产力方法让你越来越累.html"><strong aria-hidden="true">1.</strong> 第1章：为什么传统的生产力方法让你越来越累</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/02_核心概念——理解生产力背后的心理学.html"><strong aria-hidden="true">2.</strong> 第2章：核心概念——理解生产力背后的心理学</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/03_12周年系统-加速执行的秘密.html"><strong aria-hidden="true">3.</strong> 第3章: 12周年系统 - 加速执行的秘密</a></li><li class="chapter-item expanded "><a href="../part1_基础认知/04_日记系统-改变人生的习惯.html"><strong aria-hidden="true">4.</strong> 第4章: 日记系统 - 改变人生的习惯</a></li><li class="chapter-item expanded affix "><li class="part-title">第二部分：执行系统</li><li class="chapter-item expanded "><a href="../part2_执行系统/05_三叉戟日历系统.html"><strong aria-hidden="true">5.</strong> 第5章：三叉戟日历系统</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/06_深度工作系统.html"><strong aria-hidden="true">6.</strong> 第6章：深度工作系统</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/07_知识捕获系统.html"><strong aria-hidden="true">7.</strong> 第7章 知识捕获系统（第二大脑）</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/08_能量管理.html"><strong aria-hidden="true">8.</strong> 第8章：能量管理（Energy Management）</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/09_克服拖延.html"><strong aria-hidden="true">9.</strong> 第9章 克服拖延 - 恐惧管理手册</a></li><li class="chapter-item expanded "><a href="../part2_执行系统/10_自律的新模型.html"><strong aria-hidden="true">10.</strong> 第十章 自律的新模型 - 小驼峰理论</a></li><li class="chapter-item expanded affix "><li class="part-title">第三部分：学习与思考</li><li class="chapter-item expanded "><a href="../part3_学习与思考/11_阅读系统.html"><strong aria-hidden="true">11.</strong> 第11章 阅读系统 - 从消费到创造</a></li><li class="chapter-item expanded "><a href="../part3_学习与思考/12_学习技术.html"><strong aria-hidden="true">12.</strong> 第十二章:学习技术 - 如何掌握任何技能</a></li><li class="chapter-item expanded "><a href="../part3_学习与思考/13_深度思考.html"><strong aria-hidden="true">13.</strong> 第13章 深度思考 - 从信息到洞察</a></li><li class="chapter-item expanded affix "><li class="part-title">第四部分：身心与能量</li><li class="chapter-item expanded "><a href="../part4_身心与能量/14_睡眠优化.html"><strong aria-hidden="true">14.</strong> 第十四章：睡眠优化</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/15_运动与能量.html"><strong aria-hidden="true">15.</strong> 第十五章:运动与能量(活力管理系统)</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/16_营养专注力.html"><strong aria-hidden="true">16.</strong> 第16章营养专注力</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/17_压力管理与恢复.html"><strong aria-hidden="true">17.</strong> 第17章:压力管理与恢复</a></li><li class="chapter-item expanded "><a href="../part4_身心与能量/18_社交能量管理.html"><strong aria-hidden="true">18.</strong> 第18章：社交能量管理</a></li><li class="chapter-item expanded affix "><li class="part-title">第五部分：方向与选择</li><li class="chapter-item expanded "><a href="../part5_方向与选择/19_完美职业三要素.html"><strong aria-hidden="true">19.</strong> 第19章：完美职业三要素</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/20_90天人生转变系统.html"><strong aria-hidden="true">20.</strong> 第20章：90天人生转变系统</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/21_你没有落后.html"><strong aria-hidden="true">21.</strong> 第二十一章：你没有落后</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/22_如何不浪费人生.html"><strong aria-hidden="true">22.</strong> 第二十二章　如何不浪费人生</a></li><li class="chapter-item expanded "><a href="../part5_方向与选择/23_价值观与决策框架.html"><strong aria-hidden="true">23.</strong> 第23章：价值观与决策框架</a></li><li class="chapter-item expanded affix "><li class="part-title">第六部分：系统整合</li><li class="chapter-item expanded "><a href="../part6_系统整合/24_环境设计.html"><strong aria-hidden="true">24.</strong> 第24章：环境设计——让环境帮你养成好习惯</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/25_决策框架.html"><strong aria-hidden="true">25.</strong> 第25章 决策框架：如何做出更好的选择</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/26_社交能量.html"><strong aria-hidden="true">26.</strong> 第26章 社交能量：如何设计你的人际关系</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/27_学习系统.html"><strong aria-hidden="true">27.</strong> 第27章 学习系统：如何掌握任何技能</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/28_执行力.html"><strong aria-hidden="true">28.</strong> 第28章 执行力：从知道到做到</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/29_情绪管理.html"><strong aria-hidden="true">29.</strong> 第29章 情绪管理：驾驭而非被控制</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/30_意义与目标.html"><strong aria-hidden="true">30.</strong> 第30章 意义与目标：找到你的为什么</a></li><li class="chapter-item expanded "><a href="../part6_系统整合/31_整合：生产力生态系统.html"><strong aria-hidden="true">31.</strong> 第31章 整合：生产力生态系统</a></li><li class="chapter-item expanded affix "><li class="part-title">结语</li><li class="chapter-item expanded "><a href="../conclusion/32_结语.html"><strong aria-hidden="true">32.</strong> 第32章 结语：开始你的生产力之旅</a></li><li class="chapter-item expanded affix "><li class="part-title">附录</li><li class="chapter-item expanded "><a href="../appendices/附录A_模板与工具.html"><strong aria-hidden="true">33.</strong> 附录A：模板与工具</a></li><li class="chapter-item expanded "><a href="../appendices/附录B_推荐资源.html" class="active"><strong aria-hidden="true">34.</strong> 附录B：推荐资源</a></li><li class="chapter-item expanded "><a href="../appendices/附录C_快速参考.html"><strong aria-hidden="true">35.</strong> 附录C：快速参考</a></li><li class="chapter-item expanded "><a href="../appendices/附录D_科学依据.html"><strong aria-hidden="true">36.</strong> 附录D：科学依据</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">良好感觉的生产力</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="附录b-推荐资源"><a class="header" href="#附录b-推荐资源">附录B: 推荐资源</a></h1>
+<blockquote>
+<p><em>"生产力不是重新发明轮子，而是站在巨人的肩膀上。"</em>
+——整合Ali Abdaal及领域专家推荐</p>
+</blockquote>
+<hr />
+<h2 id="b1-必读书籍50本"><a class="header" href="#b1-必读书籍50本">B.1 必读书籍50本</a></h2>
+<h3 id="生产力系统5本"><a class="header" href="#生产力系统5本">生产力系统（5本）</a></h3>
+<ol>
+<li>
+<p><strong>《原子习惯》</strong> - James Clear</p>
+<ul>
+<li>核心：小改变，大结果</li>
+<li>适合：想建立好习惯、戒除坏习惯的人</li>
+<li>金句："你是你的习惯，而不是你的目标。"</li>
+</ul>
+</li>
+<li>
+<p><strong>《深度工作》</strong> - Cal Newport</p>
+<ul>
+<li>核心：在分心时代专注的成功</li>
+<li>适合：知识工作者、创作者</li>
+<li>金句："深度工作是超级能力。"</li>
+</ul>
+</li>
+<li>
+<p><strong>《搞定》</strong> - David Allen</p>
+<ul>
+<li>核心：GTD系统，无压力的生产力</li>
+<li>适合：任务过多、感到 overwhelmed 的人</li>
+<li>金句："你的大脑是用来产生想法的，不是存储它们的。"</li>
+</ul>
+</li>
+<li>
+<p><strong>《精要主义》</strong> - Greg McKeown</p>
+<ul>
+<li>核心：更少，但更好</li>
+<li>适合：什么都想做、什么都做不好的人</li>
+<li>金句："如果你不优先安排自己的生活，别人会替你安排。"</li>
+</ul>
+</li>
+<li>
+<p><strong>《最重要的2小时》</strong> - Josh Davis</p>
+<ul>
+<li>核心：利用大脑的黄金时间</li>
+<li>适合：想科学管理精力的人</li>
+<li>金句："不是时间管理，是精力管理。"</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="时间管理与专注5本"><a class="header" href="#时间管理与专注5本">时间管理与专注（5本）</a></h3>
+<ol start="6">
+<li>
+<p><strong>《专注力》</strong> - Daniel Goleman</p>
+<ul>
+<li>核心：专注力的科学与实践</li>
+<li>适合：注意力涣散、多任务成瘾者</li>
+</ul>
+</li>
+<li>
+<p><strong>《单核工作模式》</strong> - Staffan Nöteberg</p>
+<ul>
+<li>核心：一次只做一件事</li>
+<li>适合：番茄工作法爱好者</li>
+</ul>
+</li>
+<li>
+<p><strong>《时间块》</strong> - Jake Knapp</p>
+<ul>
+<li>核心：每天4小时完成所有事</li>
+<li>适合：想保护时间的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《极简主义》</strong> - Joshua Fields Millburn</p>
+<ul>
+<li>核心：少即是多</li>
+<li>适合：物质和信息过载者</li>
+</ul>
+</li>
+<li>
+<p><strong>《数字极简主义》</strong> - Cal Newport</p>
+<ul>
+<li>核心：重新定义与技术的关系</li>
+<li>适合：社交媒体成瘾者</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="学习与技能5本"><a class="header" href="#学习与技能5本">学习与技能（5本）</a></h3>
+<ol start="11">
+<li>
+<p><strong>《如何阅读一本书》</strong> - Mortimer Adler</p>
+<ul>
+<li>核心：主动阅读的四个层次</li>
+<li>适合：想提升阅读效率的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《学习之道》</strong> - Josh Waitzkin</p>
+<ul>
+<li>核心：从新手到专家的心法</li>
+<li>适合：任何想精进技能的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《刻意练习》</strong> - Anders Ericsson</p>
+<ul>
+<li>核心：天才的真相</li>
+<li>适合：认为天赋是天生的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《费曼学习法》</strong> - 理查德·费曼</p>
+<ul>
+<li>核心：用教的方式学</li>
+<li>适合：学了就忘的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《认知天性》</strong> - Peter Brown</p>
+<ul>
+<li>核心：学习的科学</li>
+<li>适合：学生、终身学习者</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="创造力与内容创作5本"><a class="header" href="#创造力与内容创作5本">创造力与内容创作（5本）</a></h3>
+<ol start="16">
+<li>
+<p><strong>《创作者》</strong> - Kevin Kelly</p>
+<ul>
+<li>核心：1000真粉丝理论</li>
+<li>适合：YouTuber、博主、独立创作者</li>
+</ul>
+</li>
+<li>
+<p><strong>《 steal Like an Artist》</strong> - Austin Kleon</p>
+<ul>
+<li>核心：创造力是偷窃、组合、转化</li>
+<li>适合：所有创作者</li>
+</ul>
+</li>
+<li>
+<p><strong>《Show Your Work!》</strong> - Austin Kleon</p>
+<ul>
+<li>核心：分享创作过程</li>
+<li>适合：不敢公开发布的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《写作这回事》</strong> - Stephen King</p>
+<ul>
+<li>核心：写作的手艺</li>
+<li>适合：所有写作者</li>
+</ul>
+</li>
+<li>
+<p><strong>《On Writing Well》</strong> - William Zinsser</p>
+<ul>
+<li>核心：非虚构写作指南</li>
+<li>适合：博客作者、非虚构写作者</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="职业与人生方向10本"><a class="header" href="#职业与人生方向10本">职业与人生方向（10本）</a></h3>
+<ol start="21">
+<li>
+<p><strong>《优秀的绵羊》</strong> - William Deresiewicz</p>
+<ul>
+<li>核心：精英教育的陷阱</li>
+<li>适合：迷茫的高成就者</li>
+</ul>
+</li>
+<li>
+<p><strong>《做你喜欢的事，金钱会随之而来》</strong> - Marsha Sinetar</p>
+<ul>
+<li>核心：热情与职业</li>
+<li>适合：职业转型者</li>
+</ul>
+</li>
+<li>
+<p><strong>《精要人生》</strong> - Greg McKeown</p>
+<ul>
+<li>核心：只做对的事</li>
+<li>适合：什么都想抓的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《设计你的人生》</strong> - Bill Burnett</p>
+<ul>
+<li>核心：用设计思维设计人生</li>
+<li>适合：人生迷茫者</li>
+</ul>
+</li>
+<li>
+<p><strong>《从0到1》</strong> - Peter Thiel</p>
+<ul>
+<li>核心：创新与创业</li>
+<li>适合：创业者、创新者</li>
+</ul>
+</li>
+<li>
+<p><strong>《精益创业》</strong> - Eric Ries</p>
+<ul>
+<li>核心：快速试错、快速迭代</li>
+<li>适合：创业者、产品经理</li>
+</ul>
+</li>
+<li>
+<p><strong>《四种职业路径》</strong> - Cal Newport</p>
+<ul>
+<li>核心：职业选择的四个方向</li>
+<li>适合：职场新人、转型者</li>
+</ul>
+</li>
+<li>
+<p><strong>《优秀到不能被忽视》</strong> - Cal Newport</p>
+<ul>
+<li>核心：技能比热情更重要</li>
+<li>适合：职场新人</li>
+</ul>
+</li>
+<li>
+<p><strong>《80,000 Hours》</strong> - Benjamin Todd</p>
+<ul>
+<li>核心：高影响力职业选择</li>
+<li>适合：想做出贡献的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《你的生命有什么可能》</strong> - 古典</p>
+<ul>
+<li>核心：职业发展与人生设计</li>
+<li>适合：职场迷茫者（中文读者）</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="心理学与行为科学5本"><a class="header" href="#心理学与行为科学5本">心理学与行为科学（5本）</a></h3>
+<ol start="31">
+<li>
+<p><strong>《思考，快与慢》</strong> - Daniel Kahneman</p>
+<ul>
+<li>核心：系统1 vs 系统2</li>
+<li>适合：所有决策者</li>
+</ul>
+</li>
+<li>
+<p><strong>《助推》</strong> - Richard Thaler</p>
+<ul>
+<li>核心：选择设计</li>
+<li>适合：产品经理、政策制定者</li>
+</ul>
+</li>
+<li>
+<p><strong>《习惯的力量》</strong> - Charles Duhigg</p>
+<ul>
+<li>核心：习惯回路</li>
+<li>适合：想改变习惯的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《意志力》</strong> - Roy Baumeister</p>
+<ul>
+<li>核心：意志力的科学与局限</li>
+<li>适合：依赖意志力的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《心流》</strong> - Mihaly Csikszentmihalyi</p>
+<ul>
+<li>核心：最优体验心理学</li>
+<li>适合：想找到工作乐趣的人</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="睡眠运动营养5本"><a class="header" href="#睡眠运动营养5本">睡眠、运动、营养（5本）</a></h3>
+<ol start="36">
+<li>
+<p><strong>《为什么要睡觉》</strong> - Matthew Walker</p>
+<ul>
+<li>核心：睡眠的科学</li>
+<li>适合：所有忽视睡眠的人</li>
+<li>必读理由：睡眠是生产力的基础</li>
+</ul>
+</li>
+<li>
+<p><strong>《运动改造大脑》</strong> - John Ratey</p>
+<ul>
+<li>核心：运动对大脑的影响</li>
+<li>适合：久坐不动的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《谷物大脑》</strong> - David Perlmutter</p>
+<ul>
+<li>核心：营养与认知能力</li>
+<li>适合：常感到brain fog的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《间歇性禁食》</strong> - Jason Fung</p>
+<ul>
+<li>核心：饮食与精力</li>
+<li>适合：想优化能量的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《运动饮食1/9法》</strong> - Ori Hofmekler</p>
+<ul>
+<li>核心： warrior diet</li>
+<li>适合：想尝试间歇性禁食的人</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="财务与投资5本"><a class="header" href="#财务与投资5本">财务与投资（5本）</a></h3>
+<ol start="41">
+<li>
+<p><strong>《富爸爸穷爸爸》</strong> - Robert Kiyosaki</p>
+<ul>
+<li>核心：资产 vs 负债</li>
+<li>适合：财务启蒙</li>
+</ul>
+</li>
+<li>
+<p><strong>《巴菲特致股东的信》</strong> - Warren Buffett</p>
+<ul>
+<li>核心：价值投资智慧</li>
+<li>适合：投资者</li>
+</ul>
+</li>
+<li>
+<p><strong>《聪明的投资者》</strong> - Benjamin Graham</p>
+<ul>
+<li>核心：投资安全边际</li>
+<li>适合：严肃投资者</li>
+</ul>
+</li>
+<li>
+<p><strong>《财务自由之路》</strong> - Ramit Sethi</p>
+<ul>
+<li>核心：个人财务系统</li>
+<li>适合：想自动化财务的人</li>
+</ul>
+</li>
+<li>
+<p><strong>《金钱心理学》</strong> - Morgan Housel</p>
+<ul>
+<li>核心：金钱与行为</li>
+<li>适合：所有理财者</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="人际关系与沟通5本"><a class="header" href="#人际关系与沟通5本">人际关系与沟通（5本）</a></h3>
+<ol start="46">
+<li>
+<p><strong>《人性的弱点》</strong> - Dale Carnegie</p>
+<ul>
+<li>核心：人际关系原则</li>
+<li>适合：所有职场人</li>
+</ul>
+</li>
+<li>
+<p><strong>《非暴力沟通》</strong> - Marshall Rosenberg</p>
+<ul>
+<li>核心：同理心沟通</li>
+<li>适合：所有人</li>
+</ul>
+</li>
+<li>
+<p><strong>《关键对话》</strong> - Kerry Patterson</p>
+<ul>
+<li>核心：高风险沟通技巧</li>
+<li>适合：领导者</li>
+</ul>
+</li>
+<li>
+<p><strong>《影响力》</strong> - Robert Cialdini</p>
+<ul>
+<li>核心：说服的科学</li>
+<li>适合：创作者、销售</li>
+</ul>
+</li>
+<li>
+<p><strong>《深度关系》</strong> - John Gottman</p>
+<ul>
+<li>核心：长期关系维护</li>
+<li>适合：所有伴侣</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h2 id="b2-关键app与工具清单"><a class="header" href="#b2-关键app与工具清单">B.2 关键App与工具清单</a></h2>
+<h3 id="笔记与知识管理"><a class="header" href="#笔记与知识管理">笔记与知识管理</a></h3>
+<p><strong>Notion</strong> (notion.so)</p>
+<ul>
+<li>用途：笔记、项目管理、数据库</li>
+<li>优点：灵活、美观、协作友好</li>
+<li>缺点：同步慢、离线差</li>
+<li>适合：新手、团队协作</li>
+<li>价格：免费版够用，个人版$5/月</li>
+</ul>
+<p><strong>Obsidian</strong> (obsidian.md)</p>
+<ul>
+<li>用途：个人知识管理</li>
+<li>优点：本地存储、插件丰富、Markdown</li>
+<li>缺点：学习曲线陡峭</li>
+<li>适合：进阶用户、隐私重视者</li>
+<li>价格：免费，同步$10/月</li>
+</ul>
+<p><strong>Readwise</strong> (readwise.io)</p>
+<ul>
+<li>用途：阅读笔记整合</li>
+<li>优点：与Kindle/Highlight同步</li>
+<li>缺点：只整理不管理</li>
+<li>适合：重度阅读者</li>
+<li>价格：$7.5/月</li>
+</ul>
+<p><strong>Roam Research</strong> (roamresearch.com)</p>
+<ul>
+<li>用途：双向链接笔记</li>
+<li>优点：强大的知识图谱</li>
+<li>缺点：昂贵、学习曲线</li>
+<li>适合：研究者、学术写作</li>
+<li>价格：$15/月</li>
+</ul>
+<h3 id="任务管理"><a class="header" href="#任务管理">任务管理</a></h3>
+<p><strong>Things 3</strong> (culturedcode.com)</p>
+<ul>
+<li>用途：个人任务管理</li>
+<li>优点：优雅、Mac/iOS最佳体验</li>
+<li>缺点：无Windows、无协作</li>
+<li>适合：Mac用户</li>
+<li>价格：一次性购买$49.99</li>
+</ul>
+<p><strong>Todoist</strong> (todoist.com)</p>
+<ul>
+<li>用途：跨平台任务管理</li>
+<li>优点：简洁、自然语言输入</li>
+<li>缺点：高级功能需付费</li>
+<li>适合：所有平台用户</li>
+<li>价格：免费版够用，Pro $4/月</li>
+</ul>
+<p><strong>OmniFocus</strong> (omnigroup.com/omnifocus)</p>
+<ul>
+<li>用途：GTD重度用户</li>
+<li>优点：强大的回顾系统</li>
+<li>缺点：仅iOS/Mac、昂贵</li>
+<li>适合：GTD实践者</li>
+<li>价格：一次性购买$74.99</li>
+</ul>
+<p><strong>TickTick</strong> (ticktick.com)</p>
+<ul>
+<li>用途：综合任务管理</li>
+<li>优点：内置番茄钟、习惯追踪</li>
+<li>缺点：界面稍复杂</li>
+<li>适合：多合一需求</li>
+<li>价格：免费版够用，Premium $2.79/月</li>
+</ul>
+<h3 id="时间管理"><a class="header" href="#时间管理">时间管理</a></h3>
+<p><strong>Google Calendar</strong> (calendar.google.com)</p>
+<ul>
+<li>用途：日历管理</li>
+<li>优点：免费、跨平台、集成好</li>
+<li>适合：所有人</li>
+<li>价格：免费</li>
+</ul>
+<p><strong>Fantastical</strong> (flexibits.com/fantastical)</p>
+<ul>
+<li>用途：自然语言日历</li>
+<li>优点：最佳日历体验</li>
+<li>缺点：仅iOS/Mac、昂贵</li>
+<li>适合：重度日历用户</li>
+<li>价格：$4.75/月</li>
+</ul>
+<p><strong>RescueTime</strong> (rescuetime.com)</p>
+<ul>
+<li>用途：自动时间追踪</li>
+<li>优点：被动追踪、报告详细</li>
+<li>缺点：隐私担忧</li>
+<li>适合：想了解自己时间去哪了</li>
+<li>价格：$6.5/月</li>
+</ul>
+<p><strong>Toggl</strong> (toggl.com)</p>
+<ul>
+<li>用途：手动时间追踪</li>
+<li>优点：简单、跨平台</li>
+<li>缺点：手动输入</li>
+<li>适合：自由职业者、计费工作</li>
+<li>价格：免费版够用，Premium $9/月</li>
+</ul>
+<h3 id="深度工作"><a class="header" href="#深度工作">深度工作</a></h3>
+<p><strong>Forest</strong> (forestapp.cc)</p>
+<ul>
+<li>用途：专注计时器</li>
+<li>优点：游戏化、种树</li>
+<li>缺点：功能简单</li>
+<li>适合：学生、专注力差的人</li>
+<li>价格：一次性购买$3.99</li>
+</ul>
+<p><strong>Freedom</strong> (freedom.to)</p>
+<ul>
+<li>用途：全平台屏蔽</li>
+<li>优点：跨设备同步</li>
+<li>缺点：昂贵</li>
+<li>适合：重度分心者</li>
+<li>价格：$6.99/月</li>
+</ul>
+<p><strong>Cold Turkey</strong> (getcoldturkey.com)</p>
+<ul>
+<li>用途：强力屏蔽</li>
+<li>优点：无法绕过</li>
+<li>缺点：仅Windows/Mac</li>
+<li>适合：自制力差的人</li>
+<li>价格：免费，Pro $39一次性</li>
+</ul>
+<p><strong>Brain.fm</strong> (brain.fm)</p>
+<ul>
+<li>用途：专注音乐</li>
+<li>优点：科学设计音乐</li>
+<li>缺点：需要订阅</li>
+<li>适合：音乐依赖工作者</li>
+<li>价格：$6.99/月</li>
+</ul>
+<h3 id="习惯追踪"><a class="header" href="#习惯追踪">习惯追踪</a></h3>
+<p><strong>Streaks</strong> (streaks.app)</p>
+<ul>
+<li>用途：习惯追踪</li>
+<li>优点：简洁、自动提醒</li>
+<li>缺点：仅iOS</li>
+<li>适合：iOS用户</li>
+<li>价格：一次性购买$4.99</li>
+</ul>
+<p><strong>Habitica</strong> (habitica.com)</p>
+<ul>
+<li>用途：游戏化习惯</li>
+<li>优点：RPG风格、社交</li>
+<li>缺点：界面复杂</li>
+<li>适合：游戏爱好者</li>
+<li>价格：免费</li>
+</ul>
+<p><strong>Way of Life</strong> (wayoflifeapp.com)</p>
+<ul>
+<li>用途：习惯趋势分析</li>
+<li>优点：可视化趋势</li>
+<li>缺点：仅iOS</li>
+<li>适合：数据爱好者</li>
+<li>价格：免费版够用，Pro一次性$5</li>
+</ul>
+<h3 id="阅读"><a class="header" href="#阅读">阅读</a></h3>
+<p><strong>Kindle</strong> (amazon.com/kindle)</p>
+<ul>
+<li>用途：电子阅读</li>
+<li>优点：最佳阅读体验、高亮同步</li>
+<li>缺点：封闭生态</li>
+<li>适合：所有阅读者</li>
+<li>价格：设备$100-300</li>
+</ul>
+<p><strong>Audible</strong> (audible.com)</p>
+<ul>
+<li>用途：有声书</li>
+<li>优点：通勤学习</li>
+<li>缺点：昂贵</li>
+<li>适合：通勤者</li>
+<li>价格：$14.95/月</li>
+</ul>
+<p><strong>Scribd</strong> (scribd.com)</p>
+<ul>
+<li>用途：无限阅读订阅</li>
+<li>优点：包月不限量</li>
+<li>缺点：质量参差</li>
+<li>适合：重度阅读者</li>
+<li>价格：$11.99/月</li>
+</ul>
+<h3 id="写作"><a class="header" href="#写作">写作</a></h3>
+<p><strong>iA Writer</strong> (ia.net/writer)</p>
+<ul>
+<li>用途：Markdown写作</li>
+<li>优点：极简、专注</li>
+<li>缺点：功能简单</li>
+<li>适合：纯文本写作</li>
+<li>价格：$29.99一次性</li>
+</ul>
+<p><strong>Scrivener</strong> (literatureandlatte.com/scrivener)</p>
+<ul>
+<li>用途：长篇写作</li>
+<li>优点：强大组织能力</li>
+<li>缺点：学习曲线</li>
+<li>适合：作家、学术写作</li>
+<li>价格：$49一次性</li>
+</ul>
+<p><strong>Ulysses</strong> (ulysses.app)</p>
+<ul>
+<li>用途：Mac/iOS写作</li>
+<li>优点：优雅、同步</li>
+<li>缺点：仅Apple生态</li>
+<li>适合：Mac用户</li>
+<li>价格：$5.99/月</li>
+</ul>
+<p><strong>Grammarly</strong> (grammarly.com)</p>
+<ul>
+<li>用途：语法检查</li>
+<li>优点：自动纠错</li>
+<li>缺点：隐私担忧</li>
+<li>适合：英文写作</li>
+<li>价格：免费版够用，Premium$12/月</li>
+</ul>
+<h3 id="健康与精力"><a class="header" href="#健康与精力">健康与精力</a></h3>
+<p><strong>Headspace</strong> (headspace.com)</p>
+<ul>
+<li>用途：冥想引导</li>
+<li>优点：新手友好</li>
+<li>缺点：昂贵</li>
+<li>适合：冥想新手</li>
+<li>价格：$12.99/月</li>
+</ul>
+<p><strong>Calm</strong> (calm.com)</p>
+<ul>
+<li>用途：冥想+睡眠故事</li>
+<li>优点：睡眠故事特色</li>
+<li>缺点：更贵</li>
+<li>适合：失眠者</li>
+<li>价格：$14.99/月</li>
+</ul>
+<p><strong>Sleep Cycle</strong> (sleepcycle.com)</p>
+<ul>
+<li>用途：智能闹钟</li>
+<li>优点：睡眠周期追踪</li>
+<li>缺点：需放床头</li>
+<li>适合：想优化睡眠</li>
+<li>价格：一次性购买$9.99</li>
+</ul>
+<p><strong>MyFitnessPal</strong> (myfitnesspal.com)</p>
+<ul>
+<li>用途：卡路里追踪</li>
+<li>优点：数据库庞大</li>
+<li>缺点：界面复杂</li>
+<li>适合：减肥/健身</li>
+<li>价格：免费版够用，Premium$9.99/月</li>
+</ul>
+<p><strong>Strava</strong> (strava.com)</p>
+<ul>
+<li>用途：运动追踪</li>
+<li>优点：社交、路线</li>
+<li>缺点：跑步/骑行为主</li>
+<li>适合：运动爱好者</li>
+<li>价格：免费版够用</li>
+</ul>
+<h3 id="财务"><a class="header" href="#财务">财务</a></h3>
+<p><strong>YNAB</strong> (youneedabudget.com)</p>
+<ul>
+<li>用途：预算管理</li>
+<li>优点：零基预算法</li>
+<li>缺点：学习曲线</li>
+<li>适合：想掌握财务的人</li>
+<li>价格：$11.99/月</li>
+</ul>
+<p><strong>Mint</strong> (mint.com)</p>
+<ul>
+<li>用途：免费财务追踪</li>
+<li>优点：免费、自动同步</li>
+<li>缺点：仅美国</li>
+<li>适合：美国用户</li>
+<li>价格：免费</li>
+</ul>
+<p><strong>Personal Capital</strong> (personalcapital.com)</p>
+<ul>
+<li>用途：投资追踪</li>
+<li>优点：免费财富管理</li>
+<li>缺点：仅美国</li>
+<li>适合：投资者</li>
+<li>价格：免费</li>
+</ul>
+<h3 id="创作者工具"><a class="header" href="#创作者工具">创作者工具</a></h3>
+<p><strong>Canva</strong> (canva.com)</p>
+<ul>
+<li>用途：图形设计</li>
+<li>优点：简单、模板多</li>
+<li>缺点：高级功能需Pro</li>
+<li>适合：非设计师</li>
+<li>价格：免费版够用，Pro$12.99/月</li>
+</ul>
+<p><strong>Final Cut Pro</strong> (apple.com/final-cut-pro)</p>
+<ul>
+<li>用途：影像编辑</li>
+<li>优点：Mac最佳、性能强</li>
+<li>缺点：仅Mac、学习曲线</li>
+<li>适合：YouTuber</li>
+<li>价格：一次性购买$299.99</li>
+</ul>
+<p><strong>Adobe Creative Cloud</strong> (adobe.com/creativecloud)</p>
+<ul>
+<li>用途：全套创作工具</li>
+<li>优点：行业标准</li>
+<li>缺点：昂贵、订阅制</li>
+<li>适合：专业创作者</li>
+<li>价格：$54.99/月</li>
+</ul>
+<p><strong>ConvertKit</strong> (convertkit.com)</p>
+<ul>
+<li>用途：邮件列表</li>
+<li>优点：创作者友好</li>
+<li>缺点：昂贵</li>
+<li>适合：博主、YouTuber</li>
+<li>价格：$29/月起</li>
+</ul>
+<hr />
+<h2 id="b3-youtube创作者推荐"><a class="header" href="#b3-youtube创作者推荐">B.3 YouTube创作者推荐</a></h2>
+<h3 id="生产力"><a class="header" href="#生产力">生产力</a></h3>
+<p><strong>Ali Abdaal</strong> (youtube.com/@aliabdaal)</p>
+<ul>
+<li>内容：生产力、学习、职业</li>
+<li>特点：医生转型YouTuber，数据驱动</li>
+<li>适合：知识工作者、想成为YouTuber的人</li>
+</ul>
+<p><strong>Matt D'Avella</strong> (youtube.com/@mattdavella)</p>
+<ul>
+<li>内容：极简主义、慢生活</li>
+<li>特点：高质量纪录片风格</li>
+<li>适合：极简主义者、慢生活爱好者</li>
+</ul>
+<p><strong>Thomas Frank</strong> (youtube.com/@tomfrankly)</p>
+<ul>
+<li>内容：生产力、Notion</li>
+<li>特点：实用教程、Notion专家</li>
+<li>适合：Notion用户、学生</li>
+</ul>
+<p><strong>Productivity Game</strong> (youtube.com/@productivitygame)</p>
+<ul>
+<li>内容：生产力系统设计</li>
+<li>特点：深度拆解系统</li>
+<li>适合：系统爱好者</li>
+</ul>
+<p><strong>Mike &amp; Matty</strong> (youtube.com/@mikeandmatty)</p>
+<ul>
+<li>内容：生产力实验</li>
+<li>特点：真人实验</li>
+<li>适合：喜欢看实证的人</li>
+</ul>
+<h3 id="学习"><a class="header" href="#学习">学习</a></h3>
+<p><strong>Thomas Frank</strong> (同上)</p>
+<ul>
+<li>学习技巧系列</li>
+</ul>
+<p><strong>Ali Abdaal</strong> (同上)</p>
+<ul>
+<li>学习技巧系列</li>
+</ul>
+<p><strong>John Green</strong> (youtube.com/@vlogbrothers)</p>
+<ul>
+<li>内容：CrashCourse教育系列</li>
+<li>适合：学生</li>
+</ul>
+<p><strong>Kurzgesagt</strong> (youtube.com/@kurzgesagt)</p>
+<ul>
+<li>内容：科学动画</li>
+<li>适合：好奇心强的人</li>
+</ul>
+<p><strong>Veritasium</strong> (youtube.com/@veritasium)</p>
+<ul>
+<li>内容：科学实验</li>
+<li>适合：科学爱好者</li>
+</ul>
+<h3 id="创作者"><a class="header" href="#创作者">创作者</a></h3>
+<p><strong>Peter McKinnon</strong> (youtube.com/@petermckinnon)</p>
+<ul>
+<li>内容：摄影、创作者生活</li>
+<li>特点：真实性、启发</li>
+<li>适合：所有创作者</li>
+</ul>
+<p><strong>Casey Neistat</strong> (youtube.com/@caseyneistat)</p>
+<ul>
+<li>内容：Vlog、创作</li>
+<li>特点：开创Vlog风格</li>
+<li>适合：想学Vlog的人</li>
+</ul>
+<p><strong>Marques Brownlee</strong> (youtube.com/@mkbhd)</p>
+<ul>
+<li>内容：科技评测</li>
+<li>特点：高质量制作</li>
+<li>适合：科技爱好者</li>
+</ul>
+<p><strong>Nathalie Drew</strong> (youtube.com/@nathaliedrew)</p>
+<ul>
+<li>内容：内容创作、生活方式</li>
+<li>适合：女性创作者</li>
+</ul>
+<p><strong>Graham Stephan</strong> (youtube.com/@grahamstephan)</p>
+<ul>
+<li>内容：个人财务</li>
+<li>适合：财务自由追求者</li>
+</ul>
+<h3 id="职业与创业"><a class="header" href="#职业与创业">职业与创业</a></h3>
+<p><strong>Tom Bilyeu</strong> (youtube.com/@tombilyeu)</p>
+<ul>
+<li>内容：创业、动机</li>
+<li>特点：深度访谈</li>
+<li>适合：创业者</li>
+</ul>
+<p><strong>GaryVee</strong> (youtube.com/@garyvee)</p>
+<ul>
+<li>内容：社交媒体、创业</li>
+<li>特点：高能量、实用</li>
+<li>适合：社交媒体创业者</li>
+</ul>
+<p><strong>Alex Hormozi</strong> (youtube.com/@hormozi)</p>
+<ul>
+<li>内容：商业、创业</li>
+<li>特点：实战经验</li>
+<li>适合：创业者</li>
+</ul>
+<p><strong>Y Combinator</strong> (youtube.com/@ycombinator)</p>
+<ul>
+<li>内容：创业讲座</li>
+<li>适合：初创企业</li>
+</ul>
+<h3 id="思考与哲学"><a class="header" href="#思考与哲学">思考与哲学</a></h3>
+<p><strong>Kurzgesagt</strong> (同上)</p>
+<ul>
+<li>哲学思考系列</li>
+</ul>
+<p><strong>Veritasium</strong> (同上)</p>
+<ul>
+<li>科学思考</li>
+</ul>
+<p><strong>School of Life</strong> (youtube.com/@theschooloflifetv)</p>
+<ul>
+<li>内容：哲学、心理健康</li>
+<li>适合：所有人</li>
+</ul>
+<p><strong>Pursuit of Wonder</strong> (youtube.com/@purisuitofwonder)</p>
+<ul>
+<li>内容：哲学思考</li>
+<li>特点：动画叙事</li>
+<li>适合：深度思考者</li>
+</ul>
+<h3 id="健康与精力-1"><a class="header" href="#健康与精力-1">健康与精力</a></h3>
+<p><strong>Jeff Nippard</strong> (youtube.com/@jeffnippard)</p>
+<ul>
+<li>内容：科学健身</li>
+<li>特点：证据基础</li>
+<li>适合：健身爱好者</li>
+</ul>
+<p><strong>Athlean-X</strong> (youtube.com/@athleanx)</p>
+<ul>
+<li>内容：健身训练</li>
+<li>适合：运动员</li>
+</ul>
+<p><strong>Huberman Lab</strong> (youtube.com/@hubermanlab)</p>
+<ul>
+<li>内容：神经科学</li>
+<li>特点：学术深度</li>
+<li>适合：科学爱好者</li>
+</ul>
+<p><strong>Andrew Huberman</strong> (同上)</p>
+<p><strong>Sleep Medicine</strong> (youtube.com/@sleepmedicine)</p>
+<ul>
+<li>内容：睡眠科学</li>
+<li>适合：失眠者</li>
+</ul>
+<hr />
+<h2 id="b4-播客推荐"><a class="header" href="#b4-播客推荐">B.4 播客推荐</a></h2>
+<h3 id="生产力-1"><a class="header" href="#生产力-1">生产力</a></h3>
+<p><strong>The Productivity Show</strong> (Asian Efficiency)</p>
+<ul>
+<li>内容：生产力技巧</li>
+<li>形式：每周更新</li>
+<li>适合：生产力爱好者</li>
+</ul>
+<p><strong>Beyond the To-Do List</strong> (Erik Fisher)</p>
+<ul>
+<li>内容：生产力系统</li>
+<li>特点：访谈形式</li>
+<li>适合：系统设计者</li>
+</ul>
+<p><strong>The 5 AM Miracle</strong> (Jeff Sanders)</p>
+<ul>
+<li>内容：早起、生产力</li>
+<li>适合：早起挑战者</li>
+</ul>
+<h3 id="学习与成长"><a class="header" href="#学习与成长">学习与成长</a></h3>
+<p><strong>The Learning with Leaders</strong> (Ali Abdaal)</p>
+<ul>
+<li>内容：学习技巧</li>
+<li>适合：终身学习者</li>
+</ul>
+<p><strong>The Knowledge Project</strong> (Shane Parrish)</p>
+<ul>
+<li>内容：思维模型</li>
+<li>特点：深度访谈</li>
+<li>适合：思考者</li>
+</ul>
+<p><strong>Deep Questions</strong> (Cal Newport)</p>
+<ul>
+<li>内容：深度工作、数字极简</li>
+<li>适合：知识工作者</li>
+</ul>
+<h3 id="创作者-1"><a class="header" href="#创作者-1">创作者</a></h3>
+<p><strong>The Tim Ferriss Show</strong> (Tim Ferriss)</p>
+<ul>
+<li>内容：顶级 performers</li>
+<li>特点：长访谈、战术细节</li>
+<li>适合：所有追求卓越的人</li>
+</ul>
+<p><strong>The Diary of a CEO</strong> (Steven Bartlett)</p>
+<ul>
+<li>内容：创业、人生</li>
+<li>特点：深度对话</li>
+<li>适合：创业者</li>
+</ul>
+<p><strong>The Jordan Harbinger Show</strong> (Jordan Harbinger)</p>
+<ul>
+<li>内容：社交技能、发展</li>
+<li>适合：所有想提升的人</li>
+</ul>
+<h3 id="职业与创业-1"><a class="header" href="#职业与创业-1">职业与创业</a></h3>
+<p><strong>My First Million</strong> (Shaun Puri &amp; Sam Parr)</p>
+<ul>
+<li>内容：商业创意</li>
+<li>特点：脑洞大开</li>
+<li>适合：创业者</li>
+</ul>
+<p><strong>How I Built This</strong> (NPR)</p>
+<ul>
+<li>内容：创业故事</li>
+<li>适合：创业者</li>
+</ul>
+<p><strong>Indie Hackers</strong> (Courtland Allen)</p>
+<ul>
+<li>内容：独立开发</li>
+<li>适合：独立开发者</li>
+</ul>
+<h3 id="健康与科学"><a class="header" href="#健康与科学">健康与科学</a></h3>
+<p><strong>The Huberman Lab</strong> (Andrew Huberman)</p>
+<ul>
+<li>内容：神经科学</li>
+<li>特点：科学实用</li>
+<li>适合：所有人</li>
+</ul>
+<p><strong>The Doctor's Farmacy</strong> (Mark Hyman)</p>
+<ul>
+<li>内容：功能性医学</li>
+<li>适合：健康爱好者</li>
+</ul>
+<p><strong>The Peter Attia Drive</strong> (Peter Attia)</p>
+<ul>
+<li>内容：长寿、健康</li>
+<li>适合：健康追求者</li>
+</ul>
+<hr />
+<h2 id="b5-在线课程"><a class="header" href="#b5-在线课程">B.5 在线课程</a></h2>
+<h3 id="生产力系统"><a class="header" href="#生产力系统">生产力系统</a></h3>
+<p><strong>Life OS System</strong> (Thomas Frank)</p>
+<ul>
+<li>内容：完整生产力系统</li>
+<li>形式：在线课程</li>
+<li>价格：$247</li>
+<li>适合：想系统化生产力的人</li>
+</ul>
+<p><strong>Productivity Masterclass</strong> (Ali Abdaal)</p>
+<ul>
+<li>内容：生产力精华</li>
+<li>形式：在线课程</li>
+<li>价格：$497</li>
+<li>适合：Ali的粉丝</li>
+</ul>
+<p><strong>Getting Things Done (GTD)</strong> (David Allen Company)</p>
+<ul>
+<li>内容：官方GTD课程</li>
+<li>形式：在线课程</li>
+<li>价格：$199</li>
+<li>适合：GTD实践者</li>
+</ul>
+<h3 id="学习技巧"><a class="header" href="#学习技巧">学习技巧</a></h3>
+<p><strong>Learning How to Learn</strong> (Barbara Oakley, Coursera)</p>
+<ul>
+<li>内容：学习的科学</li>
+<li>形式：MOOC</li>
+<li>价格：免费</li>
+<li>适合：所有学习者</li>
+</ul>
+<p><strong>SuperLearner Academy</strong> (Jonathan Levi)</p>
+<ul>
+<li>内容：加速学习</li>
+<li>形式：在线课程</li>
+<li>价格：$199</li>
+<li>适合：想提升学习速度的人</li>
+</ul>
+<h3 id="创作者技能"><a class="header" href="#创作者技能">创作者技能</a></h3>
+<p><strong>Video Ranking Academy</strong> (Ali Abdaal)</p>
+<ul>
+<li>内容：YouTube增长</li>
+<li>形式：在线课程</li>
+<li>价格：$997</li>
+<li>适合：YouTuber</li>
+</ul>
+<p><strong>Part-Time YouTuber Academy</strong> (Ali Abdaal)</p>
+<ul>
+<li>内容：兼职YouTube</li>
+<li>形式：在线课程+社群</li>
+<li>价格：$1497</li>
+<li>适合：想从副业开始的人</li>
+</ul>
+<p><strong>YouTube Creator Academy</strong> (YouTube官方)</p>
+<ul>
+<li>内容：YouTube基础</li>
+<li>形式：免费课程</li>
+<li>价格：免费</li>
+<li>适合：新手YouTuber</li>
+</ul>
+<h3 id="职业发展"><a class="header" href="#职业发展">职业发展</a></h3>
+<p><strong>AltMBA</strong> (Seth Godin)</p>
+<ul>
+<li>内容：领导力、变革</li>
+<li>形式：4周在线</li>
+<li>价格：$3500</li>
+<li>适合：想变革的人</li>
+</ul>
+<p><strong>Academy for Thinkers</strong> (Shane Parrish)</p>
+<ul>
+<li>内容：思维模型</li>
+<li>形式：在线课程</li>
+<li>价格：$1000+</li>
+<li>适合：思考者</li>
+</ul>
+<h3 id="健康与精力-2"><a class="header" href="#健康与精力-2">健康与精力</a></h3>
+<p><strong>Mindfulness-Based Stress Reduction (MBSR)</strong> (Palouse Mindfulness)</p>
+<ul>
+<li>内容：正念减压</li>
+<li>形式：8周课程</li>
+<li>价格：免费</li>
+<li>适合：压力大的人</li>
+</ul>
+<p><strong>The Science of Well-Being</strong> (Laurie Santos, Coursera)</p>
+<ul>
+<li>内容：幸福科学</li>
+<li>形式：MOOC</li>
+<li>价格：免费</li>
+<li>适合：所有人</li>
+</ul>
+<hr />
+<h2 id="b6-社区资源"><a class="header" href="#b6-社区资源">B.6 社区资源</a></h2>
+<h3 id="生产力社区"><a class="header" href="#生产力社区">生产力社区</a></h3>
+<p><strong>Productivity Lab</strong> (productivitylab.com)</p>
+<ul>
+<li>类型：付费社群</li>
+<li>价格：$15/月</li>
+<li>适合：深度生产力爱好者</li>
+</ul>
+<p><strong>Focusmate</strong> (focusmate.com)</p>
+<ul>
+<li>类型：虚拟专注伙伴</li>
+<li>价格：免费/$6/月</li>
+<li>适合：需要外部问责的人</li>
+</ul>
+<p><strong>Caveday</strong> (caveday.org)</p>
+<ul>
+<li>类型：集体深度工作</li>
+<li>价格：$25/月</li>
+<li>适合：孤独的工作者</li>
+</ul>
+<h3 id="学习社区"><a class="header" href="#学习社区">学习社区</a></h3>
+<p><strong>SuperLearner Community</strong> (SuperLearner Academy)</p>
+<ul>
+<li>类型：课程配套社群</li>
+<li>价格：课程包含</li>
+<li>适合：加速学习者</li>
+</ul>
+<p><strong>Readwise Community</strong> (readwise.io)</p>
+<ul>
+<li>类型：读者社群</li>
+<li>价格：免费</li>
+<li>适合：阅读者</li>
+</ul>
+<h3 id="创作者社区"><a class="header" href="#创作者社区">创作者社区</a></h3>
+<p><strong>Part-Time YouTuber Community</strong> (Ali Abdaal)</p>
+<ul>
+<li>类型：付费社群</li>
+<li>价格：课程包含</li>
+<li>适合：YouTuber</li>
+</ul>
+<p><strong>Indie Hackers</strong> (indiehackers.com)</p>
+<ul>
+<li>类型：独立开发者社区</li>
+<li>价格：免费</li>
+<li>适合：独立开发者、创业者</li>
+</ul>
+<p><strong>Writer's Cafe</strong> (writerscafe.org)</p>
+<ul>
+<li>类型：写作者社群</li>
+<li>价格：免费</li>
+<li>适合：写作者</li>
+</ul>
+<h3 id="职业社区"><a class="header" href="#职业社区">职业社区</a></h3>
+<p><strong>80,000 Hours</strong> (80000hours.org)</p>
+<ul>
+<li>类型：职业咨询+社群</li>
+<li>价格：免费咨询，付费指导</li>
+<li>适合：想做出高影响力的人</li>
+</ul>
+<p><strong>Effective Altruism Global</strong> (ea-global.org)</p>
+<ul>
+<li>类型：年度聚会</li>
+<li>价格：会议费</li>
+<li>适合：有效利他主义者</li>
+</ul>
+<h3 id="健康社区"><a class="header" href="#健康社区">健康社区</a></h3>
+<p><strong>MyFitnessPal Community</strong> (myfitnesspal.com)</p>
+<ul>
+<li>类型：健身社群</li>
+<li>价格：免费</li>
+<li>适合：减肥/健身</li>
+</ul>
+<p><strong>Reddit r/fitness</strong> (reddit.com/r/fitness)</p>
+<ul>
+<li>类型：健身论坛</li>
+<li>价格：免费</li>
+<li>适合：健身爱好者</li>
+</ul>
+<p><strong>NoFap</strong> (nofap.com)</p>
+<ul>
+<li>类型：戒色社群</li>
+<li>价格：免费</li>
+<li>适合：想戒除成瘾的人</li>
+</ul>
+<hr />
+<h2 id="b7-研究与科学文献"><a class="header" href="#b7-研究与科学文献">B.7 研究与科学文献</a></h2>
+<h3 id="生产力研究"><a class="header" href="#生产力研究">生产力研究</a></h3>
+<p><strong>Baumeister, R. F., et al. (1998). "Ego Depletion: Is the Active Self a Limited Resource?"</strong></p>
+<ul>
+<li>核心发现：意志力是有限资源</li>
+<li>相关章节：第1章（传统生产力陷阱）</li>
+</ul>
+<p><strong>Fredrickson, B. L. (2001). "The Role of Positive Emotions in Positive Psychology"</strong></p>
+<ul>
+<li>核心发现：积极情绪拓展认知</li>
+<li>相关章节：第1章（情绪与生产力）</li>
+</ul>
+<p><strong>Killingsworth, M. A., &amp; Gilbert, D. T. (2010). "A Wandering Mind Is an Unhappy Mind"</strong></p>
+<ul>
+<li>核心发现：走神降低幸福感</li>
+<li>相关章节：第7章（专注力管理）</li>
+</ul>
+<h3 id="学习科学"><a class="header" href="#学习科学">学习科学</a></h3>
+<p><strong>Dunlosky, J., et al. (2013). "Improving Students' Learning With Effective Learning Techniques"</strong></p>
+<ul>
+<li>核心发现：主动回忆、间隔重复最有效</li>
+<li>相关章节：第12章（学习技术）</li>
+</ul>
+<p><strong>Roediger, H. L., &amp; Karpicke, J. D. (2006). "Test-Enhanced Learning"</strong></p>
+<ul>
+<li>核心发现：测试促进记忆</li>
+<li>相关章节：第12章（学习技术）</li>
+</ul>
+<h3 id="习惯科学"><a class="header" href="#习惯科学">习惯科学</a></h3>
+<p><strong>Lally, P., et al. (2010). "How Are Habits Formed: Modelling Habit Formation in the Real World"</strong></p>
+<ul>
+<li>核心发现：平均66天形成习惯</li>
+<li>相关章节：第25章（习惯堆叠）</li>
+</ul>
+<p><strong>Duhigg, C. (2012). "The Power of Habit"</strong></p>
+<ul>
+<li>核心发现：习惯回路（提示-行动-奖励）</li>
+<li>相关章节：第25章（习惯堆叠）</li>
+</ul>
+<h3 id="深度工作-1"><a class="header" href="#深度工作-1">深度工作</a></h3>
+<p><strong>Cain, M. (2019). "Deep Work: A Guided Tour"</strong></p>
+<ul>
+<li>核心发现：深度工作是稀缺资源</li>
+<li>相关章节：第6章（深度工作）</li>
+</ul>
+<p><strong>Mark, G., et al. (2008). "No Task Left Behind? Examining the Nature of Fragmented Work"</strong></p>
+<ul>
+<li>核心发现：任务切换代价巨大</li>
+<li>相关章节：第6章（深度工作）</li>
+</ul>
+<h3 id="睡眠科学"><a class="header" href="#睡眠科学">睡眠科学</a></h3>
+<p><strong>Walker, M. (2017). "Why We Sleep"</strong></p>
+<ul>
+<li>核心发现：睡眠是生产力的基础</li>
+<li>相关章节：第14章（睡眠优化）</li>
+</ul>
+<p><strong>Van Dongen, H. P., et al. (2003). "Cumulative Sleep Debt"</strong></p>
+<ul>
+<li>核心发现：睡眠债务有累积效应</li>
+<li>相关章节：第14章（睡眠优化）</li>
+</ul>
+<h3 id="运动与大脑"><a class="header" href="#运动与大脑">运动与大脑</a></h3>
+<p><strong>Ratey, J. J., &amp; Loehr, J. E. (2011). "Spark: The Revolutionary New Science of Exercise and the Brain"</strong></p>
+<ul>
+<li>核心发现：运动提升认知功能</li>
+<li>相关章节：第15章（运动与精力）</li>
+</ul>
+<hr />
+<h2 id="b8-如何使用这些资源"><a class="header" href="#b8-如何使用这些资源">B.8 如何使用这些资源</a></h2>
+<h3 id="资源选择原则"><a class="header" href="#资源选择原则">资源选择原则</a></h3>
+<ol>
+<li>
+<p><strong>不要过度收集</strong></p>
+<ul>
+<li>选1本书读完，再选下一本</li>
+<li>不要同时读5本书</li>
+<li>质量优先于数量</li>
+</ul>
+</li>
+<li>
+<p><strong>主动学习</strong></p>
+<ul>
+<li>读的时候做笔记</li>
+<li>读完立即应用</li>
+<li>教给别人</li>
+</ul>
+</li>
+<li>
+<p><strong>循序渐进</strong></p>
+<ul>
+<li>从基础开始（原子习惯、深度工作）</li>
+<li>再进阶（GTD、精要主义）</li>
+<li>最后整合（形成自己的系统）</li>
+</ul>
+</li>
+</ol>
+<h3 id="推荐阅读顺序"><a class="header" href="#推荐阅读顺序">推荐阅读顺序</a></h3>
+<p><strong>阶段1：基础建立（1-2个月）</strong></p>
+<ul>
+<li>《原子习惯》</li>
+<li>《深度工作》</li>
+<li>《最重要的2小时》</li>
+</ul>
+<p><strong>阶段2：系统化（3-4个月）</strong></p>
+<ul>
+<li>《搞定》(GTD)</li>
+<li>《精要主义》</li>
+<li>《数字极简主义》</li>
+</ul>
+<p><strong>阶段3：高级应用（持续）</strong></p>
+<ul>
+<li>《心流》</li>
+<li>《思考，快与慢》</li>
+<li>领域专业书籍</li>
+</ul>
+<h3 id="资源配对建议"><a class="header" href="#资源配对建议">资源配对建议</a></h3>
+<p><strong>想建立习惯</strong>：</p>
+<ul>
+<li>书：《原子习惯》</li>
+<li>工具：Streaks/Habitica</li>
+<li>社区：Focusmate</li>
+</ul>
+<p><strong>想深度工作</strong>：</p>
+<ul>
+<li>书：《深度工作》</li>
+<li>工具：Freedom/Forest</li>
+<li>课程：Deep Questions Podcast</li>
+</ul>
+<p><strong>想开始YouTube</strong>：</p>
+<ul>
+<li>书：《Steal Like an Artist》</li>
+<li>课程：Part-Time YouTuber Academy</li>
+<li>社区：Part-Time YouTuber Community</li>
+</ul>
+<p><strong>想优化学习</strong>：</p>
+<ul>
+<li>书：《刻意练习》</li>
+<li>课程：Learning How to Learn</li>
+<li>工具：Readwise+Obsidian</li>
+</ul>
+<hr />
+<p><strong>📌 最终提醒</strong></p>
+<p>资源是工具，不是目标。
+你的目标是：感觉良好，做得更多。</p>
+<p>不要为了"收集资源"而收集资源，
+而是为了"解决问题"而选择资源。</p>
+<p>当你发现自己在收集而不行动时，
+停止收集，开始行动。</p>
+<p><strong>最好的资源是：你现在正在用的那一个。</strong></p>
+<p>祝你实践愉快！🚀</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../appendices/附录A_模板与工具.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../appendices/附录C_快速参考.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../appendices/附录A_模板与工具.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../appendices/附录C_快速参考.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
