@@ -1,218 +1,118 @@
-# 📚 Feel-Good Productivity: The Complete System
+# Feel-Good Productivity：完整生产力系统指南
 
-**基于 Ali Abdaal 229个视频字幕整理的生产力系统完整指南**
-
----
-
-## 📖 项目简介
-
-本书是一套围绕生产力与人生设计的系统指南，聚焦目标设定、知识管理、时间管理、深度工作、学习系统、身心能量与人生方向。
-
-**来源**: Ali Abdaal YouTube 视频字幕 (229个视频)
-**作者**: Codex (AI写作助手)
-**项目状态**: 进行中 (4/32章已完成)
+**基于 Ali Abdaal YouTube 视频字幕整理的中文生产力系统**
 
 ---
 
-## 🎯 书籍结构
+## 关于本书
 
-### 第一部分：基础系统 ✅
-- ✅ 第1章：GPS目标达成系统 (~12,000字)
-- ✅ 第2章：第二大脑系统 (~15,000字)
-- ✅ 第3章：12周年执行系统 (~15,000字)
-- ✅ 第4章：日记系统 (~18,000字)
+本书是一套围绕生产力与人生设计的系统指南，覆盖目标设定、知识管理、时间管理、深度工作、学习系统、身心能量与人生方向，共32章及附录，约30万字。
 
-### 第二部分：执行力 🔄
-- 🔄 第5章：三叉戟日历系统 (进行中)
-- ⏳ 第6章：深度工作系统
-- ⏳ 第7章：专注力管理
-- ⏳ 第8章：能量管理
-- ⏳ 第9章：克服拖延
-- ⏳ 第10章：自律的新模型
-
-### 第三至第六部分
-- 学习系统 (3章)
-- 身心与能量 (5章)
-- 人生方向 (5章)
-- 系统整合 (8章)
-
-**总计**: 32章 + 附录，约30万字
+内容整理自 Ali Abdaal 的 YouTube 视频字幕，以中文形式重新组织、扩写与系统化，旨在让中文读者能够完整接触和应用他多年沉淀的生产力框架。
 
 ---
 
-## 📁 项目结构
+## 原始素材来源
+
+### 素材类型
+
+本书基于 **13个 YouTube 视频字幕文件（SRT格式）**，来自 Ali Abdaal 频道的以下播放列表：
+
+| 播放列表 | 视频数量 | 核心主题 |
+|---------|---------|---------|
+| Productivity Club | 4个 | 深度工作、日记、拖延、人生浪费 |
+| How I Use Notion | 3个 | 目标管理、年度回顾、共鸣日历 |
+| Life Lessons | 2个 | 决策框架、人生经验 |
+| NEW HERE? Start with This Playlist. | 2个 | 年度规划、改变人生的书 |
+| Book Club | 1个 | 书单推荐与核心概念 |
+| My Favourite Apps | 1个 | 工具与系统 |
+
+### 具体视频列表
+
+- `Productivity Club - 001` — The Consumption Trap: How to Finally Lock In
+- `Productivity Club - 013` — How to Change Your Life with Deep Work (My System)
+- `Productivity Club - 016` — How to Not Waste Your Life (Stop Getting Distracted)
+- `Productivity Club - 027` — Change Your Life by Journalling: 10 Powerful Questions
+- `How I Use Notion - 001` — My New Life Goals (2022)
+- `How I Use Notion - 004` — My Annual Review using Notion
+- `How I Use Notion - 005` — How I use Notion as a Resonance Calendar
+- `Life Lessons - 015` — How to Make Difficult Decisions (without overthinking)
+- `Life Lessons - 021` — 15 Lessons that Improved My Life
+- `NEW HERE? Start with This Playlist. - 004` — 4 Books That Changed My Life
+- `NEW HERE? Start with This Playlist. - 010` — How to Make Next Year The Best Year of Your Life
+- `Book Club - 041` — 3 Books that Changed my Life
+- `My Favourite Apps - 006` — The 5 Magical Apps That Changed My Life
+
+---
+
+## 关于原作者：Ali Abdaal
+
+**Ali Abdaal**（阿里·阿卜达尔）是英国最具影响力的生产力类 YouTuber、作家与企业家，被誉为"全球最成功的生产力内容创作者之一"。
+
+### 个人背景
+
+- 1994年出生于英国，巴基斯坦裔
+- 就读于**剑桥大学**，取得医学学位，毕业后在英国国家医疗服务体系（NHS）担任执业医生
+- 2017年开始在 YouTube 上分享学习方法和生产力技巧，频道迅速增长
+- 目前 YouTube 订阅量超过 **500万**，是全球最大的生产力频道之一
+
+### 核心理念：感觉良好的生产力（Feel-Good Productivity）
+
+Ali 的核心主张是：**传统生产力方法建立在压力、恐惧和自我强迫之上，这是不可持续的。** 真正高效的人，不是靠消耗自己，而是靠找到让工作令人愉悦的方式——当你感觉良好时，你自然会做得更多、更好。
+
+这一理念贯穿他所有内容，也是本书书名的来源。
+
+### 主要作品与成就
+
+- **《Feel-Good Productivity》**（2023年，HarperCollins出版）——他的第一本书，登上多国畅销书排行榜，被翻译为多种语言出版
+- 创办 **Part-Time YouTuber Academy**，帮助数千名创作者在业余时间建立 YouTube 频道
+- 播客 **Deep Dive with Ali Abdaal**，对话全球顶级创业者、科学家与思想家
+- 曾登上 Forbes 30 Under 30、BBC、The Guardian 等主流媒体
+
+### 内容风格
+
+Ali 的视频以**证据为导向**（evidence-based）著称——他习惯引用心理学研究、认知科学实验和神经科学发现来支持观点，而非仅凭个人经验。他将学术研究转化为可操作的日常系统，这也是本书在组织内容时遵循的方法论原则。
+
+### 相关链接
+
+- YouTube 频道：[youtube.com/@aliabdaal](https://www.youtube.com/@aliabdaal)
+- 官方网站：[aliabdaal.com](https://aliabdaal.com)
+- 著作《Feel-Good Productivity》：各大书店及电商平台均有销售
+
+---
+
+## 本书与原作的关系
+
+本书**不是**《Feel-Good Productivity》一书的直接翻译。
+
+Ali 的书是一本完整的商业出版物，有其完整的叙事结构。本书则是基于他 YouTube 频道视频字幕的**系统化整理与扩写**，将他在不同视频中分散讲述的框架、工具、案例和方法论，重新组织为一套完整的中文生产力系统。
+
+两者的关系类似于：他的书是他思想的"精华浓缩版"，本书是他视频内容的"系统展开版"。建议将两者配合阅读。
+
+---
+
+## 项目结构
 
 ```
-aliabdaal/
-├── book/                      # 书籍内容
-│   ├── BOOK_Full_*.md        # 已完成的章节
-│   ├── PROJECT_STATUS.md     # 项目状态
-│   └── VIDEO_ANALYSIS.md     # 视频素材分析
-├── material/                 # 原始字幕文件
-│   └── *.srt                # 229个视频字幕
-├── .claude/                 # Claude项目配置
-├── .gitignore
-├── aliabdaal.tar            # 原始素材压缩包
+feelgood-productivity-book/
+├── src/                          # 书籍源文件（Markdown）
+│   ├── SUMMARY.md               # 目录
+│   ├── part1_基础认知/           # 第1-4章
+│   ├── part2_执行系统/           # 第5-10章
+│   ├── part3_学习与思考/         # 第11-13章
+│   ├── part4_身心与能量/         # 第14-18章
+│   ├── part5_方向与选择/         # 第19-23章
+│   ├── part6_系统整合/           # 第24-31章
+│   ├── conclusion/              # 第32章结语
+│   └── appendices/              # 附录A-D
+├── material/                    # 原始字幕文件（SRT格式）
+├── docs/                        # 编译后的静态网站（mdBook）
+├── book.toml                    # mdBook配置
 └── README.md
 ```
 
 ---
 
-## 🚀 写作流程
+## 版权与使用说明
 
-### 1. 素材整理
-- 提取视频字幕核心内容
-- 分类整理到各章节
-- 提炼关键概念和框架
-
-### 2. 章节写作
-- 每章10,000-15,000字
-- 包含理论、方法、案例、行动清单
-- 由Codex AI写作助手完成
-
-### 3. 质量控制
-- 每章完成后提交到GitHub
-- 创建PR供审核
-- 根据反馈修改
-
-### 4. 持续迭代
-- 定期更新内容
-- 补充案例和细节
-- 优化结构和表达
-
----
-
-## 📊 当前进度
-
-| 指标 | 数值 |
-|------|------|
-| 已完成章节 | 4/32 (12.5%) |
-| 已完成字数 | ~60,000/300,000 (20%) |
-| 估算页数 | ~100/700页 |
-| 当前章节 | 第5章 - 三叉戟日历系统 |
-
----
-
-## 🤖 协作方式
-
-### 使用Codex写作
-本书由 **Codex AI** 持续写作和优化：
-
-**如何使用**:
-1. 在对话中提出写作需求
-2. Codex会根据项目状态继续写作
-3. 完成部分会自动提交到GitHub
-4. 创建PR供审核
-
-**示例指令**:
-- "继续写第5章"
-- "优化第3章的案例"
-- "添加更多实战例子"
-- "整合所有章节"
-
----
-
-## 📝 Git工作流
-
-### 分支策略
-- `main` - 主分支，稳定版本
-- `chapter-N` - 每章独立分支
-- `draft-*` - 草稿和实验
-
-### 提交规范
-```
-feat: 完成第5章初稿
-edit: 优化第3章案例
-fix: 修正第2章错误
-docs: 更新项目状态
-```
-
-### Pull Request
-每完成一章：
-1. 创建 `chapter-N` 分支
-2. 完成写作和编辑
-3. 提交到分支
-4. 创建PR到 `main`
-5. 等待审核和反馈
-6. 合并到主分支
-
----
-
-## 🎯 下一步计划
-
-### 短期目标 (1-2周)
-- [ ] 完成第5章 - 三叉戟日历系统
-- [ ] 完成第6章 - 深度工作系统
-- [ ] 审核和优化Part 1
-
-### 中期目标 (1-2月)
-- [ ] 完成Part 2 (执行力 6章)
-- [ ] 完成Part 3 (学习 3章)
-- [ ] 完成Part 4 (创造 5章)
-
-### 长期目标 (3-6月)
-- [ ] 完成全部32章
-- [ ] 编辑和校对
-- [ ] 准备出版材料
-- [ ] 设计和排版
-
----
-
-## 📦 配套资源
-
-### 视觉素材 (待添加)
-- [ ] 章节插图
-- [ ] 流程图和信息图
-- [ ] 模板和工作表
-- [ ] QR码链接视频
-
-### 在线资源 (待添加)
-- [ ] Notion模板包
-- [ ] 在线练习题
-- [ ] 视频教程
-- [ ] 读者社区
-
----
-
-## 💡 写作要求
-
-### 内容标准
-1. **准确性**: 基于原始视频内容
-2. **完整性**: 覆盖所有关键概念
-3. **可读性**: 清晰流畅的表达
-4. **实用性**: 可操作的行动清单
-5. **系统性**: 各章节相互呼应
-
-### 格式规范
-- Markdown格式
-- 清晰的标题层级
-- 代码块用于模板
-- 表格用于对比
-- 引用用于强调
-
----
-
-## 🔗 相关链接
-
-- **原始素材**: Ali Abdaal YouTube频道
-- **字幕文件**: material/ 目录
-- **项目分析**: VIDEO_ANALYSIS_TRACKING.md
-- **项目状态**: PROJECT_STATUS_AND_NEXT_STEPS.md
-
----
-
-## 📧 联系方式
-
-**项目维护**: [你的GitHub用户名]
-**AI写作助手**: Codex
-**最后更新**: 2026-02-28
-
----
-
-## 📄 许可证
-
-本项目内容基于 Ali Abdaal 的视频内容整理，仅供学习交流使用。
-
----
-
-**🚀 让我们开始创作这本改变人生的生产力系统书籍！**
+本书内容基于 Ali Abdaal 的公开 YouTube 视频字幕整理，仅供个人学习与研究使用。原始视频及其内容版权归 Ali Abdaal 本人所有。如需商业使用，请联系原作者获得授权。
