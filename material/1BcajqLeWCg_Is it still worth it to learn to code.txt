@@ -1,0 +1,8 @@
+Title: Is it still worth it to learn to code?
+Video ID: 1BcajqLeWCg
+URL: https://www.youtube.com/watch?v=1BcajqLeWCg
+Author: Ali Abdaal
+
+================================================================================
+
+Okay, we have another question here which is Alia have a question. Is it better if I know how to code or should I not be bothered learning how to code because of AI? Right now I'm learning coding to launch something on my own. I think even in the world of AI and actually especially in the world of AI, it's still very useful to learn to know how to code. In a world where AI writes a lot of code for you, it's not that you're going to be the one typing out the functions and the classes and like typing the things out yourself. But the skill of coding is not about the skill of typing the code. The skill of coding really is about knowing how to think about code, knowing how to write programs in pseudo code, knowing what like servers do, knowing what like what kind of architecture you want to build for whatever the thing is you're building. People get this wrong where they think that coding is typing out on [music] the computer. And like that's no longer what the skill set of coding is in the age of AI. It's much more about being like the architect of the system and letting the AI do a lot of the work for you. As the AI evolve, the code becomes better and better and more likely to work the first time around, but you still have to do a load of debugging. And so that's really the skill of actually learning to code in an age of AI vibe coding and all that kind of stuff.
